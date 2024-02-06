@@ -1,16 +1,13 @@
 > Concept Distillation:
 
-The Study of Architect Frank Lloyd Wright and Fallingwater
+#The Study of Architect Frank Lloyd Wright and Fallingwater
 
-> ![](./dzha1yz5.png){width="7.086613079615048in"
-> height="7.9547244094488185in"}S T U D E N T : D e r r i c k D o u g l
+> ![](./dzha1yz5.png)S T U D E N T : D e r r i c k D o u g l
 > a s s , M B A \| C O U R S E : I n t r o t o A r c h + B E \| D A T E
 > : 1 6 F E B 2 0 2 3
 
 2 THE STUDY OF ARCHITECT FRANK LLOYD
-WRIGHT![](./mfiuhdkx.png){width="1.728510498687664in"
-height="0.9154374453193351in"}
-
+WRIGHT![]
 > ![](./z5yc1t1e.png){width="4.117891513560805in"
 > height="2.765746937882765in"}No house should ever be on a hill or on
 > anything.
