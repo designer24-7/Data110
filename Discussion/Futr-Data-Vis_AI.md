@@ -1,11 +1,7 @@
-## ![](RackMultipart20240208-1-zbzxqi_html_8ffee5f38e40147c.jpg)
-
-##
-
 
 ## Prompt
 
-Acting as a researcher, summarize current perspectives on the future of a Data Visualization career in an A.I.-driven future.
+<span style="font-family:Papyrus; font-size:4em;"> Acting as a researcher, summarize current perspectives on the future of a Data Visualization career in an A.I.-driven future.</span>
 
 ## Response
 
