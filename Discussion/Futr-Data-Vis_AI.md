@@ -40,3 +40,4 @@ Remember, these are just some of the perspectives on this topic. It's always a g
 
 
 ***A.I. Generator:** https://gemini.google.com/*
+***Prompt Designer:** Derrick Douglass, MBA*
