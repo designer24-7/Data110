@@ -1,7 +1,7 @@
 
 ## Prompt
 
-<span style="font-family:Papyrus; font-size:4em;"> Acting as a researcher, summarize current perspectives on the future of a Data Visualization career in an A.I.-driven future.</span>
+<span style="font-family:Papyrus; font-size:30px;"> Acting as a researcher, summarize current perspectives on the future of a Data Visualization career in an A.I.-driven future.</span>
 
 ## Response
 
