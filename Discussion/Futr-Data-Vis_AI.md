@@ -3,6 +3,7 @@
 
 <span style="font-family:Papyrus; font-size:30px;"> Acting as a researcher, summarize current perspectives on the future of a Data Visualization career in an A.I.-driven future.</span>
 
+
 ## Response
 
 There's a lot of discussion about the future of data visualization designers in the face of growing AI, and opinions vary. Here are some key points to consider:
@@ -36,3 +37,5 @@ There's a lot of discussion about the future of data visualization designers in 
 Overall, the future of data visualization designers is **promising** , but it requires embracing new technologies, developing new skills, and understanding the evolving role of AI as a collaborator, not a competitor. It's an exciting time to be in the field!
 
 Remember, these are just some of the perspectives on this topic. It's always a good idea to stay informed and continue exploring different viewpoints to form your own informed opinion.
+
+***A.I. Generator:** https://gemini.google.com/*
