@@ -38,4 +38,5 @@ Overall, the future of data visualization designers is **promising** , but it re
 
 Remember, these are just some of the perspectives on this topic. It's always a good idea to stay informed and continue exploring different viewpoints to form your own informed opinion.
 
+
 ***A.I. Generator:** https://gemini.google.com/*
