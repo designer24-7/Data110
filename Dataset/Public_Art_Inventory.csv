@@ -1,0 +1,1364 @@
+﻿OBJECTID,artistLastName,artistFirstName,image,titleOfArtwork,dateOfArtwork,medium,zipcodes,locationOfArtwork,addressOfArtwork,publicSchoolNumber,siteOfArtwork,descriptionOfArtwork,visibility,indoorOutdoorAccessible,monument,location,F2010_Census_Neighborhoods,F2010_Census_Wards_Precincts,Zip_Codes,GlobalID
+1,Streett,Tylden,,Sails,1978,copper,21231,Patterson HS,100 Kane St.,,Second story window,,,,,"100 Kane St.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,07f1d803-f7b1-449d-b4d3-3a95f4fc58db
+2,Russum,Olin,,Unknown,1969,ceramic tree,21215,Callaway ES,3701 Fernwood Ave.,PS 251,Stairwell,,,,,"3701 Fernwood Ave.21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,fb808145-ff01-49b6-aee7-183ed0de69c8
+3,Benson,J. Arthur,,Unknown,1973,concrete and corten steel,21230,Westport ES,2401 Nevada St.,PS 225,Playground,,,,,"2401 Nevada St.21230
+(39.26210905910267, -76.63832323642481)",258,161,27953,5ece1766-9afa-4b66-a247-e914ae759162
+4,Hepworth,Barbara,,Single Form,,,,Blaustein Building Lobby,Blaustein Building Lobby,,,,,,,Blaustein Building Lobby,,,,06c588d4-c383-4308-bb79-5b3ab16fad94
+5,McCullough,Donna,,,1989,mural,21202,141 S. Central Ave.,141 S. Central Ave.,,,,,,,"141 S. Central Ave.21202
+(39.28932254370926, -76.59946353153873)",249,111,13645,ea10f51f-80ce-42a8-856b-988dee30a18b
+6,Alexander,Patricia,https://data.baltimorecity.gov/views/5xsg-uc29/files/GZ20pycxYnWXIx_7L_IPbaWIYSvhP0T_CpyXWhnXHTg?filename=91b_Alexander_1981.jpg,Unknown,,ceramic tiles,21201,Lexington Market Station,217 N. Eutaw,,Covers ceiling beams,,,,,"217 N. Eutaw21201
+(39.291911796810055, -76.62101504105593)",65,5,13642,db9af3f6-65f2-4369-b9fb-b834c7fd01bc
+7,Farber,Saul,,Unknown,1980,stained glass,21231,Broadway Market,Broadway Market,,Window,,,,,"Broadway Market21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,d89bf5e1-aded-4e3e-a233-f265dd57101c
+8,Perlman,Joel,,Untitled,1970,painted steel,21223,Southwestern Sr. HS,200 Font Hill Ave.,PS 412,Entrance,,,,,"200 Font Hill Ave.21223
+(39.28353990306084, -76.66253298545354)",35,76,27632,c71e2da5-82c8-4f9b-9217-4ba41e602237
+9,Mears,Mary Ann,https://data.baltimorecity.gov/views/5xsg-uc29/files/dcSyzvQ8mKA4hXvTjqr-aXgqCTAKOx1EC_IOaTMoDwI?filename=51a_Mears+M_1978.jpg,Red Buoyant,1978,painted aluminum,21202,IBM Building,100 E. Pratt St.,,Entrance plaza,,Very visible,Outdoor accessible,,"100 E. Pratt St.21202
+(39.286561625079344, -76.61279148401297)",121,3,13645,37d5e188-e85f-4ca9-985d-fe47db810520
+10,"Mills, architect and Causici, artist",Robert and Henrico,,Washington Monument,1815-29,marble,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,center of circle,,Highly Visible,outdoor accessible,Y,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,7cffc8df-296b-49cc-b752-13b76244f0b7
+11,Blackwell,Camillia,,,1987,mural,21217,Druid Hill Park,2222 Druid Hill Dr.,,,,,,,"2222 Druid Hill Dr.21217
+(39.30943185475045, -76.63787156223106)",66,98,27301,431e267d-cc2f-46e2-a211-8732764a4b1b
+12,Miller and MICA,Tom,,,2000,mural,21217,1740 Druid Hill Ave.,1740 Druid Hill Ave.,,Side of building,"Six portraits of community leaders, including T. Marshall, H. Cummings, L. Jackson, C. Mitchell, T. Lansey, J. Murphy",Visible,,,"1740 Druid Hill Ave.21217
+(39.30584308938751, -76.63329602628102)",242,99,27301,cb643793-1e65-45f4-88a8-74e0094b25f7
+13,Lewis,James,,Frederick Douglass,,,21251,Morgan State University,1700 E. Cold Spring Ln.,,,,,,Y,"1700 E. Cold Spring Ln.21251
+(39.34587277637047, -76.58593772821806)",161,222,28570,bbd5be4e-ff1a-4db6-82fd-8de9bb3bd6c3
+14,Betti,Richard,,James Cardinal Gibbons,1967,bronze,21201,Basilica of the Assumption,409 Cathedral St.,,Along Mulberry Street,,,,,"409 Cathedral St.21201
+(39.29463125062108, -76.61676683093808)",65,6,13642,924a52f5-7bc1-4ea5-9283-9b3308c788fa
+15,Streett,Tylden,,Mythological Horse,1980,brick,21218,Waverly ES,700 E. 34th St.,,South wall/ Ellerslie St.,,,,,"700 E. 34th St.21218
+(39.32990081713007, -76.6062952313343)",251,182,27307,8c89a9a6-93ea-40e5-a7e8-8fca4c2352a3
+16,Mullen,Gary,,,2000,mural,21202,Brentwood Ave. and Chase St.,1103 Brentwood Ave.,,Side of building,Images of Frederick Douglas and his struggle for knowledge and an education,Limited visibility,,,"1103 Brentwood Ave.21202
+(39.302920292792294, -76.60957191114807)",124,104,13645,e872207f-42e1-4efd-8798-261aea84e201
+17,Veale,Archie,,,1998,mural,21205,900 N. Bond St.,900 N. Bond St.,,Back side of Church Square Shopping Center and Mack Lewis Gym on Bond St.,Variety of scenes,Visible,,,"900 N. Bond St.21205
+(39.30043783617391, -76.59641450253403)",88,127,13987,8e434db4-29e0-455f-8256-b5d02bb89806
+18,Cook,Jeffrey,,Unknown,1995,cement,21214,Garrett Heights ES,2800 Ailsa Ave.,PS 231,"Exterior; main entrance",,,,,"2800 Ailsa Ave.21214
+(39.348378845210746, -76.56843165621679)",136,223,27291,bbf24dc5-a50f-4c57-bc1b-48ae38d2e439
+19,Hess,David,,"Baltimore Passage, Albermarle Squre",2006,copper and stainless steel,21202,Albermarle Square,Median on 900 Block of East Lombard Street,,Median on East Lombard Street between Abermarle & High,Cooper boat shaped sculpture with a Stainless steel ball mounted to the top,Very visible,Outdoor Accessible,,"Median on 900 Block of East Lombard Street21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,c9106fa5-ff43-4de2-b487-ead8154ab9c7
+20,Berge,Henry,,Family Group,1953,concrete,,Lafayette Courts,Lafayette Courts,,,,,,,Lafayette Courts,,,,d6d38db3-b6a8-401e-9ff9-292ffdd1dc3d
+21,Kissack and MICA CAP Program,Lyle,,Greetings from Sowebo,2005,mural,21223,1317 W. Baltimore St.,1317 W. Baltimore St.,,On side of building,Life in SOWEBO,Visible from street,,,"1317 W. Baltimore St.21223
+(39.28846556635039, -76.63889382547316)",84,9,27632,6ea530fd-93ba-42a5-a71d-afa17e1d8e1c
+22,"Johnson, Jr.",J. Seward,https://data.baltimorecity.gov/views/5xsg-uc29/files/vR4Rl6tNIYN8Gx8wrj10X7q0u6j5HxygYWGy7yT_p6I?filename=72a_Johnson+S_1980.jpg,The Right Light,1980s?,bronze,21201,Baltimore Convention Center,1 W. Pratt St.,,Inside Otterbein Lobby on Sharp St.,A painter standing at his easel working on a realistic painting on the view from the convention center,moderately visible,Indoor accessible,,"1 W. Pratt St.21201
+(39.28646269965611, -76.61616394162286)",241,6,13642,e33a367d-ed24-4f15-9d48-601bc98ac928
+23,Wells,Betty,,Unknown,,ceramic tiles,21215,Towanda Recreation Center,4100 Towanda Ave.,,Gym wall,,,,,"4100 Towanda Ave.21215
+(39.33504078211094, -76.66643772776918)",232,70,27295,9e5ebfad-1b9f-4c8e-a5a7-8f462c5bd648
+24,Gibbs,Nathaniel,,Frederick Douglass and the African-American Strugg,1984/02,oil/canvas,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,Main lobby,,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,9a852156-6901-41dc-ac88-ad190994974e
+25,McKendric,Gigi,,Unknown,1997,sculpture,21215,Cross Country ES,6100 Cross Country Blvd.,PS 247,"Interior; main entrance lobby",,,,,"6100 Cross Country Blvd.21215
+(39.36275218740161, -76.68772299549425)",49,274,27295,b406fc43-86d6-494b-8e0a-395c72114c93
+26,Ono,Setsuko,https://data.baltimorecity.gov/views/5xsg-uc29/files/4Aje2rjzunJASrd7YN7Yn3KW0kJM1TJHSRDo46wFT6o?filename=713b_Ono+S_2005.jpg,Joy,2005,Stainless Steel,21201,McKeldin Square in Inner Harbor,Light & Pratt Sts.,,Inside Fountain,Stainless Steel & Copper Sculpture of Tree,Very Visible,Outdoor accessible,,"Light & Pratt Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,41690e62-c9f5-4372-84db-875e0abdf466
+27,Kaslow,Lisa,,Unknown,1993,free-standing sculpture,21213,Brehms Lane ES,3536 Brehms Ln.,PS 231,"Interior; auditorium",,,,,"3536 Brehms Ln.21213
+(39.32090673337831, -76.56642244018224)",275,199,26956,158c308e-6fb5-4422-8d14-f80a73dbe5fd
+28,Schultz,Judith,,Unknown,1978,fiber,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,8fc150e2-3735-43d6-a8f9-d93317b0ddd8
+29,Duchamp-Villon,Raymond,,The Horse,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,d4f8f6ec-c4f5-4edc-ab1a-972bbebc40ea
+30,"Hamel, Inc.",J.S.,,Jacob France Memorial Fountain,,,21201,Hopkins Plaza,Hopkins Plaza,,,,,,,"Hopkins Plaza21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,d6ae26f8-f90d-4d85-b2e0-056646022d15
+31,Pepper,Beverly,https://data.baltimorecity.gov/views/5xsg-uc29/files/RufIv3tLKAiEC40ZGOiHbWizB9vkgkAC2J3F0WzDASk?filename=411_Pepper+B_1984+90.JPG,Great Ascension,1990,steel,21287,Johns Hopkins Hospital,Johns Hopkins Hospital,,"South entrance of Johns Hopkins Hospital off of N. Wolfe. St.; in median area",Gigantic steel oblong traingle,Very visible,,Y,"Johns Hopkins Hospital21287
+(39.2912, -76.60457999999994)",110,108,13645,824dedeb-3ae3-42d8-8a01-5b5f159c5639
+32,Schultz,Judith,,The Butterflies,1979,fiber,21218,Margaret Brent ES,100 E. 26th St.,PS  53,Stairwell of main lobby,,,,,"100 E. 26th St.21218
+(39.31945812685201, -76.6159163457684)",277,32,27307,6715f1f3-e482-428f-8d4f-7683070c9479
+33,Hofmann,Earl F.,,Unknown,1969,ceramic tiles,21218,Cold Stream Park ES,1400 Exeter Hall Ave.,PS  31,Over secondary entrances,,,,,"1400 Exeter Hall Ave.21218
+(39.32036714016073, -76.60166687051054)",54,179,27307,3fd1cbc2-29be-4476-9a51-5bb3b8f55734
+34,Powley,Jeff,,Unknown,1989,stained glass,21210,Roland Park E/MS,5207 Roland Ave.,PS 233,"Interior; front entrance façade",,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,9b0f813e-ad61-4924-944a-15077e3f5edc
+35,Bladen,Ronald,,Host of the Ellipse,1981,painted corten plate steel,21202,Social Security Metro West,300 N. Greene St.,,Facing Martin Luther King Jr. Blvd.,,,,,"300 N. Greene St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,4b51d778-0041-421c-9387-d42a52d9a9d3
+36,McCarty,John D.,,Unknown,1988,steel,21230,Francis Scott Key E/MS,1425 E. Fort Ave.,,"Interior; entrance wall",,,,,"1425 E. Fort Ave.21230
+(39.26921370313414, -76.59438236207319)",137,169,27953,6b5f7712-85f0-458a-ad1a-fc0a71a5f0ca
+37,Tyson,Donald,,,2008,mural,21217,2043 Pennsylvania Avenue,2043 Pennsylvania Avenu,,side of rowhouse/liquor store,collage of Penn Ave music culture,Visible to  northward traffic,,,"2043 Pennsylvania Avenu21217
+(39.30646362158774, -76.6381793449001)",242,99,27301,d8121a8d-6128-42c7-9f08-aebe0fa27828
+38,"Lee, Jr.",Herbert C.,,Local #420,1981,aluminum,21229,Edmondson-Westside Sr. HS,4501 Edmondson Ave.,,Over the eastern entrance,,,,,"4501 Edmondson Ave.21229
+(39.29334251318022, -76.69151813445791)",239,52,27950,2fc29e44-1088-4087-9bda-47c8370de209
+39,Wells,Betty,,Unknown,1974,bas relief,21205,Recreation Center at Armistead Gardens ES,5001 E. Eager St.,PS 243,Exterior,,,,,"5001 E. Eager St.21205
+(39.305213563967015, -76.55323837923271)",6,145,13987,d3081ea9-d909-4da6-b87d-a3ea5e98be5b
+40,Brooks,Richard E.,https://data.baltimorecity.gov/views/5xsg-uc29/files/37V3Qfzng9TIG8M_nNgOnl9s-ZYSBqWQbDanbuEibeo?filename=329a_Brooks+R_1911.JPG,John Mifflen Hood,1911,bronze,,Preston Gardens,St. Paul Place,,,,,,Y,St. Paul Place,,,,8ed149f7-d878-44c3-9268-9ea2c9887769
+41,Luery,Susan,https://data.baltimorecity.gov/views/5xsg-uc29/files/od8aO8UqxySMpYeFk20Ip9icS73uWqaK681kbH_Odg8?filename=755c_Luery+S_1996.JPG,Babe's Dream,1996,bronze,21201,Oriole Park at Camden Yards,333 W. Camden St.,,northern end of Eutaw Street and Gate H of Oriole Park at Camden Yards,16' tall sculpture of Babe Ruth holding a baseball bat and glove,Very visible,Outdoor Accessible,,"333 W. Camden St.21201
+(39.28519381287631, -76.62012958508384)",228,2,13642,c957cfb7-0686-4fb6-bd9f-4029397d7a2b
+42,Ives,Norman,,Unknown,1970,"acrylic, wood",21223,Southwestern Sr. HS,200 Font Hill Ave.,,Second floor lobby,,,,,"200 Font Hill Ave.21223
+(39.28353990306084, -76.66253298545354)",35,76,27632,b709dcf3-579e-4380-8a17-42b6456e10e8
+43,Waugh,Sdiney,,William H. Welch,1956,bronze,21218,Johns Hopkins University,N. Charles St.,,Shriver Hall,,,,Y,"N. Charles St.21218
+(39.33912699769189, -76.61835828737432)",99,28,27307,8d20ddf9-1f21-4153-8e20-e76dcc473e2f
+44,Reid,James Earl,https://data.baltimorecity.gov/views/5xsg-uc29/files/kWTQNjFdevQMQzhawEfdibRgP4Mc7Fykdl1APYqYIZE?filename=15_Reid+J_1983.jpg,Billie Holiday,1983,bronze,21217,Pocket Park,1400 Pennsylvania Ave.,,Center of park at corner of Pennsylvania and Lafayette,,,,,"1400 Pennsylvania Ave.21217
+(39.30131050635981, -76.631884090695)",242,101,27301,6b8833a7-dea6-4bfd-9ef1-462a7eae0292
+45,Anderson,Ronald,,Unknown,1986,concrete,21230,Southern District Police Station,10 Cherry Hill Rd.,,Cherry Hill and Hanover corner,,,,,"10 Cherry Hill Rd.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,4beb0a01-c14d-4b57-95e7-fd670b86d75d
+46,Miller,J. Maxwell,,Star Spangled Banner Centennial Monument,1914,bronze,21231,Patterson Park,Patterson Park,,Fort Hill,,,,Y,"Patterson Park21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,57630977-8397-4f21-8433-a32f2e039442
+47,Quisgard,Liz,,Unknown,1976,mural - project abandoned,,William Fell ES,William Fell ES,PS  06,Interior,,,,,William Fell ES,,,,f645c57c-03c2-4a3e-9f4a-c718194e64f3
+48,Kissack,"Lyle, Newborn",,,2007,mural,21217,592 Presstman Street,592 Presstman Street,,on side of building,forest scene with light peaking through,Visible to both directions of traffic,,,"592 Presstman Street21217
+(39.305977987691904, -76.63743290761579)",242,99,27301,e3a75ae7-1d5a-4afc-8bd0-958f1e643841
+49,Stoakley,Patricia,,,1995,mural,21230,2009 Annapolis Rd.,2009 Annapolis Rd.,,Side of building,Sunset with a sailboat,Limited visiblity,,,"2009 Annapolis Rd.21230
+(39.26682150653619, -76.6316412737471)",258,151,27953,3570ee07-464a-4f28-a3ea-d8169330c851
+50,Leizman,William,,Unknown,,chrome,21215,George W.F. McMechen Jr./Sr. High School,4411 Garrison Blvd.,PS 177,Health suite off lobby,,,,,"4411 Garrison Blvd.21215
+(39.33727439431152, -76.68473724635697)",34,65,27295,702d2de6-4548-4d9b-9696-81fc73106aa8
+51,Hieronymous,Robert,,Unknown,1975,mural,21224,John Ruhrah ES,701 S. Rappolla St.,PS 228,Interior,,,,,"701 S. Rappolla St.21224
+(39.28510391963828, -76.55276979388856)",90,136,27935,669d35bc-ebb5-4e84-bbd8-f4dbf7375cd3
+52,Frazier and Rattigan,Espi and Jennifer,,,2003,mural,21223,1115 Hollins St.,1115 Hollins St.,,Side of Black Cherry Puppet Theatre,Six puppet like figures with buildings and sun,Limited visibilty,,,"1115 Hollins St.21223
+(39.28738000812598, -76.63570620931955)",114,7,27632,52651179-426f-4d27-bed7-266a46e67e57
+53,Bufano,Benjamin,,Snail,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,ed0e3b98-5b41-4f15-bbfd-8c83a84c4897
+54,Phillips,James,,Unknown,1976,mural,21223,Lockerman-Bundy ES,301 N. Pulaski St.,PS 261,Interior,,,,,"301 N. Pulaski St.21223
+(39.292416211490035, -76.65029321263478)",197,80,27632,b57f696a-99eb-417d-8096-ef38313592e2
+55,Popkin,Spoon,,,2008,mural,21218,Eastside Court House parking lot,Eastside Court House parking lot,,four panels on side of building,painted narrative of life of Tom Miller,Very Visible,,,"Eastside Court House parking lot21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,658d7dc3-5e57-46e7-9775-0ce8b5f79194
+56,Middleton,Lawrence,,Unknown,1971,acrylic,21218,Kirk Multi-purpose Center,2000 Cecil Ave.,,"Interior; community room",,,,,"2000 Cecil Ave.21218
+(39.313523299517726, -76.605273151848)",73,157,27307,7f418e70-5c6a-4bc8-a10e-bfa04be3695c
+57,Shephard,Paul Helmsley,,Archimedean Spiral,1978,aluminum,21224,Johns Hopkins Bayview Alpha Building,333 Cassell Dr.,,East side grassy area,,,,,"333 Cassell Dr.21224
+(39.288504160662626, -76.55258187415131)",117,138,27935,214600a8-cdd0-4a37-8939-c11ff1cbc480
+58,Volkman,Mark,,Unknown,1978,brick wall hanging,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,6b23b945-6f63-4185-a765-0503666f8886
+59,Mears,Mary Ann,https://data.baltimorecity.gov/views/5xsg-uc29/files/loJENOPFKgC5M6XrGbd7oAHVWFUQ6Hkj152742MnDLM?filename=1_Mears+M_1987.JPG,Streamings,1987,aluminum,21117,Owings Mills Station (Metro),"5018 Painters Mill Rd, Owings Mills",,Station entrance corridors,Abstract aluminum figures along corridor walls,highly visible,Indoor accessible,,"5018 Painters Mill Rd, Owings Mills21117
+(39.42829000000012, -76.77931999999998)",,,25870,dd1dc1f3-d85e-4293-9525-6d5d65696cf3
+60,Ezekiel,Moses J.,,Edgar Allan Poe,1915,bronze,21211,Wyman Park Dr. and 29th St.,Wyman Park Dr. and 29th St.,,,,,,,"Wyman Park Dr. and 29th St.21211
+(39.33100999999999, -76.63518999999991)",102,20,14006,0a7efb03-fe4a-46f7-be46-e2acd19a90a8
+61,unknown,,,Unknown,,mosaic tiles,21213,Collington Square ES,1409 N. Collington Ave.,PS  97,Pediments,,,,,"1409 N. Collington Ave.21213
+(39.307111133448814, -76.58717879261849)",23,148,26956,33b94f52-e32c-4e9f-a4ea-54d7a1cb20b0
+62,Sheppard,Joseph,,The Flame at the Holocaust Memorial,1987,bronze,21202,Holocaust Memorial,Lombard and Gay Sts.,,,,,,Y,"Lombard and Gay Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,18063d94-3ec5-4909-9e79-25786a3deffe
+63,Benson,James A.,,Unknown,1974,sculpture,21224,Highlandtown ES,Pratt and Clifton Sts.,,Interior,,,,,"Pratt and Clifton Sts.21224
+(39.2834400000001, -76.54115999999999)",203,135,27935,6e561f25-9a34-4873-a35b-5aaeb9295661
+64,Mikami,Hiroshi,,Untitled,,limestone and cedar,21202,Shot Tower Park,Fayette and Fallsway Sts.,,Park,,,,,"Fayette and Fallsway Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,6b8f2ce6-ed1f-4c4f-a75b-eb79d02d03df
+65,Miller,Tom,,,1992,mural,21213,1339 E. North Ave.,1339 E. North Ave.,,Two murals on west and east side of Harford Rd. at North Ave.,"Two murals; man reading and boy playing",Very Visible (on Harford Rd.),,,"1339 E. North Ave.21213
+(39.31189552664472, -76.59960742306345)",180,193,26956,2712cc2a-9b28-4471-b42c-5b9eb8361ad6
+66,Merker,Jenny,,,1993,mural,21223,115 S. Carey St.,115 Carey St.,,Side of building,Various and funky shapes,Visible,,,"115 Carey St.21223
+(39.290372489645996, -76.63817146202119)",201,8,27632,80afb4db-5b3f-41a0-865b-77163a7dde75
+67,Winborne,Kylis,,Unknown,1975,mural,21205,Mini School,1000 N. Montford Ave.,PS  25,Interior,,,,,"1000 N. Montford Ave.21205
+(39.302410000000066, -76.56324999999987)",181,145,13987,2177f881-e06f-4e99-a423-91dbaffb4d81
+68,Howeler,Gerald,,Untitled,,limestone,21202,Shot Tower Park,Fallsway and Fayette Sts.,,Temporarily relocated,,,,,"Fallsway and Fayette Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,efeabc94-55ba-453e-89f1-3ad8013a6d1b
+69,Moring,Greg,,Home Run 1984,,,21218,33rd Street between Ellerslie Ave. and Ednor Rd.,33rd St. between Ellerslie Ave. and Ednor Rd.,,Opposite the stadium,,,,,"33rd St. between Ellerslie Ave. and Ednor Rd.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,67c7c59f-5712-4952-9a06-be5d7ba0c68e
+70,unknown,,,Serviceman's Memorial,1945,,21210,Keswick Rd. and 33rd St.,Keswick Rd. and 33rd St.,,,,,,Y,"Keswick Rd. and 33rd St.21210
+(39.358510000000024, -76.63551999999993)",214,254,14004,471762f2-8c56-4cce-a21a-2574aecd45fe
+71,Schneider,Jo Ann,,Bad Baby,,,21210,Cross Keys Shopping Center,Cross Keys,,,,,,,"Cross Keys21210
+(39.34921289425051, -76.63108369408891)",214,235,14004,c0ca9ffb-e52f-4a68-afc4-c9085ec2eab1
+72,Berge,Henry,,Untitled,,,21230,Riverside Park Whiffle Ball Stadium,Riverside Park Whiffle Ball Stadium,,,,,,,"Riverside Park Whiffle Ball Stadium21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,fe02f720-9ee6-42a9-8f41-a2cdcc53b140
+73,Barye,Antoine Louis,https://data.baltimorecity.gov/views/5xsg-uc29/files/x_peWKbwhHM-iTd2DJ-zAJAuciI7cg2WFTVwCU-Az1k?filename=425_Barye+A_1847.JPG,Seated Lion,1847 (dedicated1885),bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,West of Monument,,highly visible,outdoor accessible,,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,26338c30-26fe-4c52-94f0-c0ddc43c31d8
+74,Kissack and MICA Community Arts Partnerships,Lyle,,,2004,mural,21223,325 N. Fulton Ave.,325 N. Fulton Ave.,,Side of building,People in the community,Visible from street,,,"325 N. Fulton Ave.21223
+(39.292289762845, -76.64532280291871)",84,10,27632,1bd6fcab-2b77-4c8f-92cb-96d2081b00d3
+75,Kissack,Lyle (with Cinda Garcia),,,2006,mural,21218,27th Street and Greenmount,27th Street and Greenmount,,on side of building facing north side,imagery of children playing on streets,Visible to southward  traffic and side streets,,,"27th Street and Greenmount21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,271f55bd-3ca6-45c9-a4bc-ef7498e3b0c0
+76,Perlman,Bernard S.,,Unknown,1976,mural,21206,Gardenville ES,5300 Belair Rd.,PS 211,Interior,,,,,"5300 Belair Rd.21206
+(39.33773304854651, -76.55223113855988)",248,211,13991,6ba9d06a-d444-480f-b1fe-0d2f02d3ea83
+77,Hofmann,Earl F.,,Unknown,1969,ceramic tiles,21218,Cold Stream Park ES,1400 Exeter Hall Ave.,PS  31,"Interior; over main entrance",,,,,"1400 Exeter Hall Ave.21218
+(39.32036714016073, -76.60166687051054)",54,179,27307,b77d51d6-dacd-481b-8e54-3d880bb4da85
+78,Kail,Frederick,https://data.baltimorecity.gov/views/5xsg-uc29/files/LXSQBaKnQPrffRWDwsaF6eLEnURYlzJ0jKtsiHRTp1c?filename=756_Kail+F_2002.JPG,Johnny Unitas,2002,bronze,21230,M&T Bank Stadium,1101 Russell St,,"Unitas Plaza, main entrance",bronze sculpture of Unitas throwing a football,Very visible,Outdoor Accessible,,"1101 Russell St21230
+(39.27836880139239, -76.6241858941242)",228,178,27953,208ac322-fa67-4996-9cb1-e43febf937cd
+79,Brown,Dick,,Bluebird of Happiness,,mosaic tile/concrete sculpture,21230,American Visionary Art Museum,800 Key Highway,,"At entrance of employee parking, south of main entrance",4' mosaic sculpture of a bluebird,Very visible,Outdoor Accessible,,"800 Key Highway21230
+(39.28022140477276, -76.60655918234988)",67,2,27953,e84322a9-4726-4cc4-8069-1804ad719e1d
+80,Fraser,Laura Gardin,,Lee-Jackson Monument,1946,bronze,21218,Art Museum Dr. and Wyman Park Dr.,Art Museum Dr. and Wyman Park Dr.,,,,,,Y,"Art Museum Dr. and Wyman Park Dr.21218
+(39.324459055394016, -76.62004901278942)",123,13,27307,0b4a38c9-e651-4a84-adbf-38ac7e14cafd
+81,Flood,James,,The Seasons,1976,mixed media,21206,North East MS,5001 Moravia Rd.,PS  49,Cafeteria,,,,,"5001 Moravia Rd.21206
+(39.32495368251011, -76.55089114873624)",46,202,13991,d8b6ef3a-51b8-4915-9240-7f4381cee330
+82,Duffy (W. Kirwin Architect),William Francis,,Bird in Tree,1989,forged steel,21207,Carrie Murray Outdoor Learning Center,4921 Windsor Mill Rd.,,Beside driveway,,,,,"4921 Windsor Mill Rd.21207
+(39.30959326224968, -76.70113188695109)",245,57,13995,dae271f6-c1f4-4a20-8bf3-634c9eca0e63
+83,Russum,Olin,,The Dancers,1971,ceramic tiles,21217,Joseph C. Brisco HS,900 Druid Hill Ave.,PS 451,"Wall facing Martin Luther King, Jr. Blvd.",,,,,"900 Druid Hill Ave.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,f26ec7af-7516-4eca-8230-ebc4f303e8bf
+84,Bill,Max,,Endless Ribbon,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,5b317ce3-a14a-4a0d-b531-f7a228c112ce
+85,Bartholdi,Frederic A.,,Statue of Liberty (copy),,,21218,Mergenthaler Vocational and Technical HS,3500 Hillen Rd.,,,,,,,"3500 Hillen Rd.21218
+(39.33167161806898, -76.58903139599886)",77,190,27307,8644f0d0-4cd4-41b9-a332-b5655192de70
+86,Gibbs,Nathaniel,,Bulletin Board,1984,oil/canvas,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,"Second floor, B wing hallway near media center",,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,232482a3-217e-4d0b-a2b9-4a4fd82a7a38
+87,Dogle,,,James L. Ridgely Monument,1885,bronze,21217,Harlem Park,1500 Edmondson Ave.,,Harlem Park,,,,Y,"1500 Edmondson Ave.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,219596e9-e23a-495f-8b1e-7f7fcc24c727
+88,Rehart,Ingrid,,Unknown,1975,mural,21224,William Paca ES,200 N. Lakewood Ave.,PS  83,Exterior,,,,,"200 N. Lakewood Ave.21224
+(39.29517713012001, -76.57922878587948)",141,123,27935,50a19da1-b657-4216-bc9f-ccc8628090f6
+89,Carlberg,Norman,,Unknown,1968,painted steel tubing,21216,Easterwood Park Recreation Center,1530 N. Bentalou St.,,Exterior,,,,,"1530 N. Bentalou St.21216
+(39.30544144632868, -76.6539240445626)",56,29,27297,2b8513dd-82b4-4177-9758-d2f84bc3ba06
+90,Konkle and DeRan,Kathleen and Brian,,,1996,mural,21201,Howard and Monument Sts.,Howard and Monument Sts.,,Side of building facing Howard St.,Street scene with 5 people at stop sign and bus,Very visible,,,"Howard and Monument Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,ba61567c-0807-404f-aaba-5292c9e7df44
+91,Suspensky,Thomas G.,,Unknown,1974,ceramic tile,21210,Roland Park ES,5207 Roland Ave.,PS 233,Interior- addition,,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,0613934d-f2c0-417e-833e-75a3fed6a0db
+92,Bogdanas,Konstantinas,,Frank Zappa,2006,"bronze bust, stainless steel pedestal",21224,Southeast Anchor Branch of the Enoch Pratt Library,3601 Eastern Avenue,,Front of building - at corner of Eastern Avenue & Conkling Street,Bust of Frank Zappa on stainless steel rod shapped pedestal - Installed 2010,Highly Visible,Outdoor Artwork,,"3601 Eastern Avenue21224
+(39.286642564061935, -76.56680914865484)",109,140,27935,499b201f-aa71-4ecb-a65e-0fcdffefc434
+93,Martray,Alexander,,,2004,mural,21213,N. Patterson Park Ave. and N. Gay St.,N. Patterson Park Ave. and N. Gay St.,,"Side of condemned building; North side of Gay St.",Boy holding globe with cityscape,Limited visibility,,,"N. Patterson Park Ave. and N. Gay St.21213
+(39.31099620461538, -76.58588376889628)",23,148,26956,53a6ab4e-d235-4f5f-8aab-fed107be1bc4
+94,unknown,,,Saint Lo Monument,1947,,21213,Saint Lo Dr.,St. Lo Dr.,,,,,,Y,"St. Lo Dr.21213
+(39.32070376095271, -76.58989605599857)",53,198,26956,123acadb-2f7e-4062-a4d4-6e42ba97d4c7
+95,unknown,,,Serviceman's Memorial,1945,,21211,Weldon Ave. and Falls Rd.,Weldon Ave. and Falls Rd.,,,,,,Y,"Weldon Ave. and Falls Rd.21211
+(39.33848847905108, -76.63797250083337)",112,26,14006,250674ac-7d22-4085-b3f8-ab9fc2ba0083
+96,Wells,Betty,,Yum Yum Tree,1971,stone aggregate,21229,Violetville Recreation Center,1200 S. Grantly St.,,"Interior; entrance wall",,,,,"1200 S. Grantly St.21229
+(39.26749435319788, -76.6730432126857)",244,166,27944,86ccbbc2-c74f-4787-8f2c-5228d62d3e79
+97,Jones,Michael,,Unknown,1989,painting,21210,Roland Park E/MS,5207 Roland Ave.,PS 233,"Interior; hall corridor",,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,66eeaf91-ba00-4042-9df7-bc34a0df339c
+98,Gibbs,Nathaniel,,African-American Leaders Portraits,1984/02,oil/canvas,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,Second floor near media center,,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,7f53994e-cf10-4c45-a364-ee4ddde87e1b
+99,Kepes,Gyogry,,Unknown,,stained glass,21231,Commodore John Rogers ES,100 N. Chester St.,PS  27,Library/corridors,,,,,"100 N. Chester St.21231
+(39.293378486061386, -76.58751154176935)",27,120,27954,c2d2852d-2f93-497a-a79c-b9729b3b7397
+100,Lewis,James,,Untitled,1974,bronze,21212,Walter P. Carter ES,820 E. 43rd St.,PS 134,Entrance plaza,,,,,"820 E. 43rd St.21212
+(39.34256240784384, -76.60378027727938)",259,217,14009,6d57726a-fce3-43b8-ad50-11fc7b901f29
+101,Lowenberg,Gordon,,Unknown,,acrylic paint,21217,Parkview Recreation Center for School,2610 Francis St.,PS  24,Entrance overhang,,,,,"2610 Francis St.21217
+(39.313992932958385, -76.64359924644015)",195,19,27301,a8ff82c3-665e-44ad-bafc-4953b226f826
+102,Weinert,Albert,https://data.baltimorecity.gov/views/5xsg-uc29/files/t6ouhm1jE8RhvQu794MevFVoGm_47Eo2goXorfh_wEA?filename=328_Weinert+1908.jpg,Cecilius Calvert Statue,1908,bronze,21202,Clarence J. Mitchell Jr. Courthouse,St. Paul & Lexington Streets,,,,,,Y,"St. Paul & Lexington Streets21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,fd194ec4-4ccc-40b6-aa02-b48a86163f06
+103,van Rossum,Peter,,Untitled,1967,brick,21223,James McHenry ES,31 S. Schroeder St.,PS  10,Front façade,,,,,"31 S. Schroeder St.21223
+(39.28762282507387, -76.63370971441446)",114,7,27632,6484e3f5-1022-4a51-918a-281e032cf67d
+104,van Rossum,Peter,,Untitled,1969,brick sculptured wall,21230,Light St. Library,1251 Light St,,Exterior,,,,,"1251 Light St21230
+(39.27490641157959, -76.61205403994893)",67,172,27953,96596a5a-312c-4793-aed9-9ad2e9faf227
+105,Russum,Olin,,Unknown,1967,sculptural garden,21231,Patterson HS,100 Kane St.,,Exterior courtyard,,,,,"100 Kane St.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,80a9489f-a1ce-4b46-adba-0a5e31959620
+106,Hoffmaster,Thomas F.,,Untitled,1967,bronze,21217,Eutaw Marshburn ES,1624 Eutaw Pl.,PS  11,"Exterior; over entrance",,,,,"1624 Eutaw Pl.21217
+(39.306769391077694, -76.62980665680732)",144,99,27301,b45e09cd-bc5b-47d9-8f37-56f83fcf919d
+107,Carfagno Ferguson,Mary,,,1999,mural,21230,343 Scott St.,343 Scott St.,,Side of building of Scott and Ramsey,Building with garden,Visible,,,"343 Scott St.21230
+(39.2838996318726, -76.62888035511713)",250,168,27953,d56dfffb-0613-4295-9eb4-5360de953c81
+108,Perlman,Joel,,Unknown,1970,painted steel,21223,Southwestern Sr. HS,200 Font Hill Ave.,PS 412,"Interior; plaza off cafeteria",,,,,"200 Font Hill Ave.21223
+(39.28353990306084, -76.66253298545354)",35,76,27632,9e8e015c-bc1e-4f14-8b90-c448e039079e
+109,James and Mural Masters,Shawn,,,2004,mural,21230,W. Hamburg and Bayard Sts.,W. Hamburg and Bayard Sts.,,Side of building,"Gwynns Falls Trail; bicycle riders, roller blader, and walker",Visible,,,"W. Hamburg and Bayard Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,3fe37dac-1ae0-4065-a41d-718325f59c51
+110,Finkelstein,William,,Unknown,1967,mosaic tile,21207,Fire House,1503/15 W. Lafayette Ave.,,Entrance wall,,,,,"1503/15 W. Lafayette Ave.21207
+(39.32364999999999, -76.72009000000003)",,,13995,85859513-3499-446f-a144-c26adb30fb8e
+111,unknown,,,Palace Lions,,,21231,Patterson Park,,,,,,,,"21231(39.28823000000011, -76.59190000000001)",240,287,27954,9adadea6-3ab8-476b-a949-0fccbba8adbc
+112,Glazer,Helen,,Unknown,1995,tactile relief mural,21214,Garrett Heights ES,2800 Ailsa Ave.,PS 231,"Interior; cafeteria lobby",,,,,"2800 Ailsa Ave.21214
+(39.348378845210746, -76.56843165621679)",136,223,27291,6b157e71-636d-470c-a004-406f1955585f
+113,Miller,Thomas,,Unknown,,acrylic on canvas,21210,Roland Park E/MS,5207 Roland Ave.,PS 233,Gymnasium,,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,a1a2b36b-8295-4d8f-84b6-3b1165e96e1a
+114,Carfagno Ferguson and Van Tassell,Mary and Terry,,,1999,mural,21230,W. Ostend and James Sts.,W. Ostend and James Sts.,,Side of wall facing W. Ostend St.,Skateboarders,Visible,,,"W. Ostend and James Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,7f8c90ce-b6f2-4a5e-a441-55e48fd770ec
+115,Krebs,Rockne,,The Vine Covered Pasarelle,,,21215,"Reisterstown Plaza Station, subway","Reisterstown Plaza Station, subway",,,,,,,"Reisterstown Plaza Station, subway21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,924aa1a0-7ac3-4171-9e5b-f5a6af0a7b08
+116,Meizlik,Jeffrey N.,,Unknown,,clay,21230,Francis Scott Key E/MS,1425 E. Fort Ave.,PS  76,Entrance lobby wall,,,,,"1425 E. Fort Ave.21230
+(39.26921370313414, -76.59438236207319)",137,169,27953,b9e29100-eb63-4181-87d1-adca8797cc20
+117,Myron of Eleuthera (copy),,,The Discus Thrower,,,21218,Baltimore Museum of Art,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,09c42b9c-35a9-4772-b19d-7d0f551e5f23
+118,unknown,,,Serviceman's Memorial,1945,,21223,Wilkens Ave. and Gilmore St.,Wilkens Ave. and Gilmore St.,,,,,,Y,"Wilkens Ave. and Gilmore St.21223
+(39.28356688272174, -76.64210038894782)",159,9,27632,ab25e6fa-5a32-40f1-9ebd-e68886e643f1
+119,"Burton, designer",Scott,,Pearlstone Park,1985,brick and concrete,21217,Preston St. and Cathedral St.,Preston St. and Cathedral St.,,,,,,Y,"Preston St. and Cathedral St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,4b67fd7c-4036-424e-959e-b1817411d71c
+120,Carfagno Ferguson,Mary,,,1996,mural,21230,886 Washington Blvd.,886 Washington Blvd.,,Side of building,Aqueduct with trees and bushes,Very visible,,,"886 Washington Blvd.21230
+(39.282892391199766, -76.63094879578455)",250,168,27953,f19a2e02-730f-4794-84fd-d406d15623ce
+121,Lewis,James,,Unknown,1971,brass,21223,Southwestern Sr. HS,200 Font Hill Ave.,PS 412,Auditorium,,,,,"200 Font Hill Ave.21223
+(39.28353990306084, -76.66253298545354)",35,76,27632,3c89b822-9e64-40b3-b3bf-429b291b8719
+122,Halegua,Alfredo,,"Untitled ""Turning Point""",1969,aluminum,21216,Walbrook HS,2000 Edgewood St.,PS 411,Courtyard,,,,,"2000 Edgewood St.21216
+(39.31021379444991, -76.67596885657127)",83,45,27297,a872bead-7892-4c57-a3be-5f2bba0d64df
+123,"Amateis, artist and Fowler, architect",Edmond Romulos and Lawren,https://data.baltimorecity.gov/views/5xsg-uc29/files/U0aYxZSoECvC27jtVilyMfO492OHkrgNZr60qZm37LU?filename=330_Amateis_1925.jpg,War Memorial: Aquatic Horses,1925-27,limestone,21202,City Hall Plaza,"Gay St., between Fayette and Lexington",,Flanking stairs to front enterance,,,,Y,"Gay St., between Fayette and Lexington21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,219256fb-1116-411f-aa0d-1ac2b09c5a75
+124,Miller,Tom,,,1991,mural,21213,1339 E. North Ave.,1339 E. North Ave.,,Two murals on west and east side of Harford Rd. at North Ave.,"Two murals; man reading and boy playing",Very Visible (on Harford Rd.),,,"1339 E. North Ave.21213
+(39.31189552664472, -76.59960742306345)",180,193,26956,523b962d-c500-413b-a1f5-9a55d8f76e50
+125,Drumm,Don,,Unknown,,acrylic,21213,Harford Heights ES,1901 N. Broadway,PS  36,"Interior; lower level hallway",,,,,"1901 N. Broadway21213
+(39.31218396061025, -76.59495781180001)",226,155,26956,a7f25db6-25b8-4129-b74c-3b53dc9aea45
+126,Mullen,Gary,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,fc2f22cd-e8bc-43b8-a3a0-1582b91067d9
+127,Hoffmaster,Thomas,,Unknown,1971,metal sculpture,21217,Druid Health District Building,1501 W. North Ave.,,Interior- addition,,,,,"1501 W. North Ave.21217
+(39.310050554187534, -76.6411534591562)",66,98,27301,0d230b2a-e2cb-4449-80c1-fde5ed05eab3
+128,Moring,Greg,,Westside,,aluminum,21229,Edmondson-Westside Sr. HS,4501 Edmondson Ave.,,Western entrance,,,,,"4501 Edmondson Ave.21229
+(39.29334251318022, -76.69151813445791)",239,52,27950,efa1b4d2-1aa6-4a2e-a207-0679ca00d679
+129,van Rossum,Peter,,Untitled,1968,stone aggregate,21217,Rosemont ES,2777 Presstman St.,PS  63,Building façade,,,,,"2777 Presstman St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,eedd78aa-2e09-4ead-aea3-596cd82deb00
+130,Woman's Mural Project and Ferguson,Mary Carfagno,,,1996,mural (non-city funded),21223,1123 W. Mulberry St.,1123 W. Mulberry St.,,Side of building which was destroyed,"Unknown; destroyed",N/A,,,"1123 W. Mulberry St.21223
+(39.293288553858474, -76.63624580253708)",106,8,27632,d50e5e78-42d8-4613-9834-caa453b4d93f
+131,Zadkine,Ossip,,"May, 1940:The Destroyed City",,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Dr.,,,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,7a59dcb0-0704-4015-8acc-b04f4a8577da
+132,Russum,Olin,,Unknown,1967,ceramic tile,21231,City Springs ES,100 S. Caroline St.,PS  08,Interior,,,,,"100 S. Caroline St.21231
+(39.289709252181865, -76.5970533485002)",249,111,27954,44ea3484-e40a-4357-a4da-ee9b14e5781b
+133,English,J. Craig,,Unknown,,"print, wood",21229,Edmondson-Westside Sr. HS,4501 Edmondson Ave.,,,,,,,"4501 Edmondson Ave.21229
+(39.29334251318022, -76.69151813445791)",239,52,27950,c0e0db9b-b3f8-487c-a244-0396ebf39989
+134,Wagner,Richard,,Unknown,,painted steel,21213,Collington Square Recreation Center,Oliver and Patterson Park Ave.,,"Interior; lobby",,,,,"Oliver and Patterson Park Ave.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,115a31e0-102a-40ce-a0db-ff76d0d6b33f
+135,Mack,Nathaniel,,Unknown,1977,corten,21215,Pimlico Multi-purpose Center,3309 W. Belvedere Ave.,,Exterior,,,,,"3309 W. Belvedere Ave.21215
+(39.348203159211586, -76.67705091210944)",43,240,27295,e934a2a2-ed43-494f-b34b-48040d819793
+136,Henry,Greg,,,1996,Steel,21217,Mt. Royal & Lanvale Streets - Median,1300 Mt. Royal Avenue,,Median,Large Sculpture with Rooster on Top,Very Visible,,,"1300 Mt. Royal Avenue21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,b632c46c-6504-4c28-a1fd-e65b26b94639
+137,Kaslow,Lisa,,Kinship,1981,steel,21216,Alexander Hamilton ES,800 Poplar Grove St.,PS 145,Along entrance walkway,,,,,"800 Poplar Grove St.21216
+(39.29774019790352, -76.66508706001673)",163,233,27297,cf320f7c-5ed1-4f4d-bd9b-3299f7283914
+138,Borofsky,Jonathan,https://data.baltimorecity.gov/views/5xsg-uc29/files/GXI1F7fOo3-me6y69uo3D4aAyO1Idbmw9_9Ag5TGiCA?filename=696a_Borofsky+J_2004.JPG,Male/ Female,2004,sculpture,21201,Penn Station,1500 N. Charles St.,,"In front of Penn Station; between Charles and St. Paul Sts.",Man and woman intersected,"Very visible from street; in front of Penn Station, between Charles and St. Paul Sts.",,,"1500 N. Charles St.21201
+(39.307119154955394, -76.6163791665234)",44,158,13642,caa6ec0b-a5f8-473e-ac3c-b6238943e3b2
+139,Joyner,Bill,,Unknown,1975,mural,21215,Mini Schools,4900 Park Heights Ave.,PS  14,Interior,,,,,"4900 Park Heights Ave.21215
+(39.34649244511189, -76.67256042608022)",43,242,27295,56d7cd5b-eaa4-49b2-b1a7-fd4ac247a903
+140,Ferguson,John D.,,Sidney Lake,1983,cor ten,21208,Park Place,7200 block of Park Heights Ave.,,,,,,,"7200 block of Park Heights Ave.21208
+(39.384119999999996, -76.72733)",,,13998,e16fb433-5e3e-463c-b756-40ff6fc5afb1
+141,Todd,Thomas A.,https://data.baltimorecity.gov/views/5xsg-uc29/files/ufhGiGIiN7LfniNRZIUZpso_2ozX0X_61iwdKYQczT4?filename=515b_Todd+T_1980.JPG,Equitable Trust Fountain,1980,stone,21201,Bank of America Plaza,22 W. Pratt St.,,Northwest corner of Pratt and Charles St.,Large fountain with stone pillars,Highly Visible,,,"22 W. Pratt St.21201
+(39.28653837861109, -76.61535868592661)",241,6,13642,c13ca734-12b9-4b2d-8ff8-5cc04978e5d8
+142,Halegua,Alfredo,,Colossus I (fountain),1972,corten steel,21201,Waxter Center for Senior Citizens,861 Park Ave.,,Entrance plaza,,,,,"861 Park Ave.21201
+(39.30077091314223, -76.61859211110192)",151,96,13642,062bba08-1825-4531-8ad2-3d17e219cdba
+143,unknown,,,Edward J. Gallagher Memorial,1934,bronze,21218,Alameda Circle,E. 36th St. at The Alameda,,Alameda Circle,,,,,"E. 36th St. at The Alameda21218
+(39.3316806112893, -76.59535362986486)",77,186,27307,46c8eed0-7db2-45df-b38c-d2f4e4cc9387
+144,Winborne,Kylis,,Unknown,1975,acrylic window,21207,Forest Park HS,4300 Chatham Rd.,PS 406,Interior windows,,,,,"4300 Chatham Rd.21207
+(39.33075965705877, -76.68973533631352)",38,64,13995,fa59267b-f367-4117-85a5-9fac3de4b764
+145,Negri,Mario,,Seen from a Wall in the Memory,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,f2236dbd-03b1-411d-9775-e9b585daceba
+146,unknown,,,Ryan's Bird Sanctuary,1927,,21224,Mount Pleasant Park,Mount Pleasant Park,,,,,,Y,"Mount Pleasant Park21224
+(39.2834400000001, -76.54115999999999)",203,135,27935,9f76500e-aea2-4328-81a3-9f4a1f5b8baa
+147,James and Mural Masters,Shawn,,,2004,mural,21230,Wicomico and Bayard Sts.,Wicomico and Bayard Sts.,,Side of building,"Gwynns Falls Trail; trees",Visible,,,"Wicomico and Bayard Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,dd1e7c68-21f4-450e-abaf-9c81ef373bfc
+148,di Suvero,Mark,https://data.baltimorecity.gov/views/5xsg-uc29/files/ne0dqhYMWcVdk8ecHbJfoDgLXlfAZ7tE6WUlDs2J78A?filename=17_di+Suvero+M_1980.jpg,Under Sky/One Family,1980,steel,21202,Inner Harbor,401 E. Pratt St.,,East of the World Trade Center,"large steel sculpture consisting of 4 I-beams; propellor behind sculpture",highly visible,outdoor accessible,,"401 E. Pratt St.21202
+(39.28659731736442, -76.60928176413138)",121,6,13645,6feb388e-dfe2-4702-be6e-d98569123684
+149,Katzen,Lila,,Fanned Area,1979,cor-ten & stainless steel,21218,Johns Hopkins Univresity,N. Charles St.,,Outside Olin Hall on San Martin Dr.,,,,Y,"N. Charles St.21218
+(39.33912699769189, -76.61835828737432)",99,28,27307,e0e7471e-5926-4fcf-b00b-d36297dd9ae0
+150,Mullen,Gary,,,2007,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,3dba9d54-08b0-4982-a3e8-827bc4ce475b
+151,Wells,Betty,,Unknown,1969,ceramic tiles,21217,Furman L. Templeton ES,1200 N. Pennsylvania Ave.,PS 125,Bridge over street,,,,,"1200 N. Pennsylvania Ave.21217
+(39.299507365976886, -76.62976664033435)",242,90,27301,a6c5258f-006c-49cb-bfb7-008e310799d9
+152,Weinman,Adolph A.,,Union Soldiers and Sailors,1909,bronze,21218,N. Charles St. and 28th S.,N. Charles St. and 28th St.,,Wyman Park south corner,,,,Y,"N. Charles St. and 28th St.21218
+(39.321922967271405, -76.61725212127828)",277,32,27307,5964bc65-6ab1-4167-930e-4bab5f5da769
+153,Capellano,Antonio,,Moses and Christ Reliefs,c.1817,marble,,St. Paul's Episcopal Church,St. Paul's Episcopal Church,,Reliefs on front of building,,,,,St. Paul's Episcopal Church,,,,77a69e33-558b-4eea-8188-3a5cfa24d9e7
+154,Lee,Herbert,,Uni I,1977,painted steel,21213,Oliver Multi-purpose Center,1601 N. Eden St.,,Beside entrance,,,,,"1601 N. Eden St.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,73f8c700-e083-48d8-bcc2-95deb4f94b0d
+155,Todd,M,,,2007,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,e256f01a-fbd3-48ba-90e6-91765aeec821
+156,"Dietrich, Todd, and Darby","Julie, Mel, and Michael",,,1999,mural,21223,"1621 Cole St., off S. Mount St.","1621 Cole St., off S. Mount St.",,"Hard to find; access mural at Cole and Gilmor Sts; proceed around the building to the back of the Shipping and Receiving of Lexor Intern'l where garden is located","Sunflowers, corn, and garden scene",No visibility,,,"1621 Cole St., off S. Mount St.21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,59330142-fb4f-4e3c-b824-b59c29b5aed5
+157,unknown,,,Rogers Bastion,1814,,21231,Patterson Park,Patterson Park,,Fort Hill,,,,Y,"Patterson Park21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,c3cc58dd-2b8e-4b6d-a642-932f6fb65535
+158,Vosough,Mohsen,,Colors in Harmony,1974,painted steel,21217,William H. Pinderhughes ES,1200 N. Freemont Ave.,PS  28,Lobby wall,,,,,"1200 N. Freemont Ave.21217
+(39.30253732325122, -76.63642794927624)",221,15,27301,610e0840-2479-48d2-9981-03d94430a3ab
+159,Calder,Alexander,,Four Dishes,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Dr.,,,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,03ba930e-d59a-47ff-ac70-3d83d904b42f
+160,Phillips,James,,Unknown,1979,mural,21217,Duke Ellington ES,850 W. North Ave.,PS 117,Interior,,,,,"850 W. North Ave.21217
+(39.31060050292251, -76.63117362629185)",210,16,27301,a4a65f93-342f-41ef-8ebb-65ad080ea182
+161,Joyner,Bill,,Unknown,1980,acrylic windows,21207,Forest Park HS,4300 Chatham Rd.,PS 406,Interior,,,,,"4300 Chatham Rd.21207
+(39.33075965705877, -76.68973533631352)",38,64,13995,db0d18ec-d106-4926-b5b4-6492b54c0421
+162,Mason,Pontella,,,1990,mural,21217,1611 Carey St.,1611 Carey St.,,East/ odd side of street on wall of an open warehouse near playground and open field,Famous African Americans with African flags at bottom of mural,Visible,,,"1611 Carey St.21217
+(39.3077757819037, -76.6413821657709)",221,22,27301,a2826a9e-1175-4dbb-a1e1-13e8ee751a05
+163,Bonet,Jordi,,Untitled,,cast aluminum,21216,Walbook HS,2000 Edgewood St.,PS 411,Entrance walls,,,,,"2000 Edgewood St.21216
+(39.31021379444991, -76.67596885657127)",83,45,27297,f014a023-b1d7-446f-b3e8-a25d8dc0ab30
+164,Hosler,Danamarie,,,2007,mural,,Health Department,,,,,,,,,,,,b7c67d1d-60ce-4f18-9a56-044d8cb68ec2
+165,Berge,Edward,,On the Trail,1915,bronze,21213,Clifton Park,Clifton Park,,,,,,,"Clifton Park21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,42a0a534-9cab-4628-84d7-9f5b1e4ca786
+166,Hilson,Harry,,Unknown,1969,mural,21214,Woodholme ES,7300 Moyer Ave.,PS 205,Interior,,,,,"7300 Moyer Ave.21214
+(39.35158999999999, -76.56538999999992)",136,224,27291,3029d544-fc1a-4db6-b3b1-69d36d3b16c4
+167,"Wells, Attr.",Betty,,Unknown,,ceramic tiles,21217,Furman L. Templeton ES,1200 N. Pennsylvania Ave.,PS 125,Lobby wall,,,,,"1200 N. Pennsylvania Ave.21217
+(39.299507365976886, -76.62976664033435)",242,90,27301,681b54fc-4a90-4571-ad9f-347fb6cd3192
+168,Kissack,Lyle,,,2001,mural,21217,1904 McCulloh St.,1904 McCulloh St.,,Side of building,People in community,Visible,,,"1904 McCulloh St.21217
+(39.30744388259967, -76.63382662627828)",144,99,27301,da1db584-38cc-4195-aeb5-315693a75781
+169,Cook,Jeffrey,https://data.baltimorecity.gov/views/5xsg-uc29/files/l16xMwSuQ5yFQYBzG8oA3W-LHwM09bc-FzKd4F4g4T8?filename=661_Cook+J_1997.JPG,,1997,mural (non-city funded),21214,Garrett Heights ES,2800 Ailsa Ave.,,Side of school building in back by entrance,Four trees in background with woman in robe in foreground,Limited visibilty,,,"2800 Ailsa Ave.21214
+(39.348378845210746, -76.56843165621679)",136,223,27291,c3d6017e-c74d-4091-8e4b-e392987b9ea8
+170,Halegua,Alfredo,,Unknown,1967,sculpture,21215,Reisterstown Road Library,6310 Reisterstown Rd.,,Interior,,,,,"6310 Reisterstown Rd.21215
+(39.354820167103185, -76.70041242932768)",89,241,27295,d18f845c-769d-4d01-885c-8f2bb2cc51de
+171,Schuler,Hans,https://data.baltimorecity.gov/views/5xsg-uc29/files/H8evZeWPx1dAumDNw2S14S5VocNrV_h0NexqrR8Z6R8?filename=580_Schuler+H_1912.JPG,Francis Scott Key Relief,1912,bronze,21202,Mt. Vernon Place United Methodist Church,10 E. Mt. Vernon Pl.,,South West corner,,Highly Visible,Outdoor Accessible,Y,"10 E. Mt. Vernon Pl.21202
+(39.29780080038921, -76.61533898833461)",165,92,13645,fb36ee64-7524-4172-aed0-6902e7764540
+172,Reed,Robert,,Unknown,1970,"acrylic, wood",21223,Southwestern Sr. HS,200 Font Hill Ave.,,Lobby,,,,,"200 Font Hill Ave.21223
+(39.28353990306084, -76.66253298545354)",35,76,27632,1e984e3e-c2ea-4355-b10b-6764c9416e2c
+173,"Van der Bergen, artist",A.L.,,Maryland Line Monument,1901,bronze,21217,Mt. Royal Ave. at Cathedral St.,Mt. Royal Ave. at Cathedral St.,,Plaza,,,,Y,"Mt. Royal Ave. at Cathedral St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,ce3b1028-8990-42f3-b157-22c68ae6e302
+174,Drumm,Don,,Unknown,,aluminum,21213,Harford Heights ES,1901 N. Broadway,PS  36,"Interior; auditorium",,,,,"1901 N. Broadway21213
+(39.31218396061025, -76.59495781180001)",226,155,26956,06082f41-9b13-4b52-8952-a5b57b452602
+175,DuBourg,Robert,https://data.baltimorecity.gov/views/5xsg-uc29/files/frr1BWqyBpf1LGmR7GyynSOd3TiwZAgmuTXUkxqh6wA?filename=13_DuBourg_1977.jpg,Amanogawa,1977,limestone/stainless steel,21202,Shot Tower Park,Fayette and Fallsway Sts.,,Fayette and Fallsway,,,,,"Fayette and Fallsway Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,d36de796-7104-4ca1-a312-84f15abc1505
+176,Moseley,Rita Godfrey,,Unknown,1978,fabric wall hanging,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,aff3bb24-7948-4b72-be2d-b0decb72bba8
+177,Berge,Edward,,Little Wild Flower,before 1924,bronze,21210,Keswick House,700 W. 41st St.,,,,,,,"700 W. 41st St.21210
+(39.358510000000024, -76.63551999999993)",214,254,14004,924d6e5e-9651-4afd-8b93-d5de545384ff
+178,Schuler,Hans,,Sidney Lanier Monument,1941,bronze and unpolished granite,21218,Johns Hopkins University,N. Charles St. near University Pkwy.,,N. Charles at University Parkway W,,,,Y,"N. Charles St. near University Pkwy.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,2b89ba91-94b0-4f25-bd6b-3848df233c30
+179,Leizman,William,,Untitled,,chrome,21215,George W.F. McMechen Jr./Sr. High School,4411 Garrison Blvd.,PS 177,Library/media center,,,,,"4411 Garrison Blvd.21215
+(39.33727439431152, -76.68473724635697)",34,65,27295,db1040af-af44-40c6-ba7d-7150f15eb33a
+180,Kitson,Theodora Alice Ruggles,,"U.S. Spanish-American War Memorial (""The Hiker"")",original cast c. 1921,,21224,North Lakewood Ave. and E. Fayette St.,N. Lakewood Ave. and E. Fayette St.,,,,,,Y,"N. Lakewood Ave. and E. Fayette St.21224
+(39.29451163181835, -76.57919281299831)",9,119,27935,a77e491f-abf1-482c-9ca1-e400eda314c0
+181,Harlow,Malcolm,,H.L. Mencken Fountain,1976,,21223,Union Square,Union Square,,,,,,Y,"Union Square21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,2b97b4ee-e778-44c7-90d4-2286f208dc8f
+182,Winborne,Kylis,,,1999,mural,21201,801 McCulloh St.,801 McCulloh St.,,East wall of Arena Players' Building,Flowers,Visible,,,"801 McCulloh St.21201
+(39.29868448603429, -76.62299878904554)",224,94,13642,397af520-17f4-48e9-85ef-aef1891ece02
+183,Moring,Greg,,Unknown,,steel,21202,Streetscape,Lombard and Gay Sts.,,East of intersection,,,,,"Lombard and Gay Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,69ee7a5e-94c1-4ddc-907a-8d754904dbe5
+184,unknown,,,Hopkins monument,,,21213,Clifton Park,,,,,,,Y,"21213(39.316199999999924, -76.57662999999991)",276,194,26956,cc072d3a-fa7e-4988-8eed-20f5b4085e5f
+185,Maxwell,Brooke R.,,Memorial Stadium Façade,,,21218,33rd St. between Ellerslie Ave. and Ednor Rd.,33rd St. btwn Ellerslie Ave. and Ednor Rd.,,,,,,,"33rd St. btwn Ellerslie Ave. and Ednor Rd.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,c53497b7-ccd7-4908-b29c-e190e473ba6a
+186,Jacobson,Patrick,,,1995,mural,21205,2324 McElderry St.,2324 McElderry St.,,Side of American Legion N.E. Post #285 Bldg.,"Variety of scenes, including parrot",Visible,,,"2324 McElderry St.21205
+(39.29765925892087, -76.58422002314211)",141,125,13987,21dbaf19-5290-4fed-9e5b-8e2102845ac7
+187,James and Access Art Inc.,Shawn,,BELIEVE,2004,mural (non-city funded),21202,Liberty and Clay Sts.,Liberty and Clay Sts.,,Side of building with parking lot,"BELIEVE street scene with believers, future believers, and reason to believe",Very visible from Liberty St.,,,"Liberty and Clay Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,27bf24bf-31b4-425b-8779-87e091ddc094
+188,Architects,Associated,,Federal Office Building Entrance Fountains,,,21201,Hopkins Plaza,Hopkins Plaza,,,,,,,"Hopkins Plaza21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,d0577ce0-9d92-4931-b40b-676c4d6a815a
+189,du Fayette,Pierre,,Untitled,1968,stainless steel,21218,Cecil ES,2000 Cecil Ave.,PS  07,"Interior; entrance wall",,,,,"2000 Cecil Ave.21218
+(39.313523299517726, -76.605273151848)",73,157,27307,e65e4dbb-a7b1-4f26-aad5-f577fb5404aa
+190,Voshell,James,,"Locks, Keys, and Security Devices",1991,mural (non-city funded),21215,5801 Reisterstown Rd.,5801 Reisterstown Rd.,,Wraps around top of EZ Storage building,"Various types of locks, keys, and security devices",Very visible,,,"5801 Reisterstown Rd.21215
+(39.350728251869896, -76.69460280901836)",208,246,27295,aa3b6eef-081a-44a0-8c49-9c05d858216c
+191,Luery,Susan,,Unknown,1977,polyester resin,21216,Central Rosemont Recreation Center,2621 Winchester St.,,"Interior, partially destroyed by fired and arson - in process of re-commissioning",,,,,"2621 Winchester St.21216
+(39.30144758890202, -76.66106104838957)",247,48,27297,b016a415-f039-4d13-81bf-6657765d664e
+192,,Unknown,,Untitled fountain,1993,,21217,Baltimore Zoo,Baltimore Zoo,,CAN NOT LOCATE,,,,Y,"Baltimore Zoo21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,582cf67c-f11f-40d8-bd79-c3972e5f2d69
+193,Cooke,Betty,,Unknown,1970,concrete,21229?,? ES,3434 Old Frederick Ave.,PS  73A,Interior,,,,,"3434 Old Frederick Ave.21229?
+(39.28231689735816, -76.67439955363838)",167,74,27950,c4329479-203e-41bd-8122-4fe632044a07
+194,Carlberg,Norman,,Uno y Dos,,steel,21208,Milford Mill Station,Milford Mill Station,,,,,,,"Milford Mill Station21208
+(39.35978442470491, -76.74607100875522)",,,13998,b578f7d9-bb95-480d-a2cd-7149f3055e9a
+195,Emberson,Laura,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,40b87d9b-090c-4f66-a238-522107d5774b
+196,Hurst,Lawrence,,Unknown,1984/02,oil/canvas,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy,PS 450,"Interior; ceremonial lobby",,,,,"2301 Gwynns Falls Pkwy21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,7887ecaf-208d-400e-87be-f178748eca1e
+197,Bartholmew,Edward Scheffield,,George Washington,1857,marble,21217,Druid Hill Park,Druid Hill Park,,,,,,Y,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,ffb1f3ab-30e4-42c8-a289-dbffc62d2780
+198,Sheppard,Joseph,,Brooks Robinson,2011,Bronze,21201,Brooks Robinson Plaza  on Russel Street between the Stadium and Pickles Pub,"Intersection of Washington Blvd., Russell Street, South Paca Street & Camden Streets",,Median Plaza directly in front of Pickles Pub,Bronze (with gold leaf over glove) of Brooks Robinson on 3rd Base,Very Visible,Outdoor Artwork,,"Intersection of Washington Blvd., Russell Street, South Paca Street & Camden Streets21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,27d856d4-dd02-4fd5-a5a9-650128cb173e
+199,Hurst,Laurence,,Portrait of Frederick Douglass,1984/02,bronze,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,Facade of north elevation,,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,94d3ca36-eddf-4cff-b7f2-00a1f86b86ea
+200,Hartmann,Jud,https://data.baltimorecity.gov/views/5xsg-uc29/files/Ylvq-SXn73uJeVD5VIEz1sw3ZzobWllE6JDH1Fsah74?filename=351c_Hartmann+J_1992.JPG,Dhontshihgwa'es (Creator's Game),1992,bronze,21218,Lacrosse Museum,113 W. University Pkwy.,,Exterior near front entrance of Lacrosse Museum,"Two Indians playing lacrosse; fighting for the ball",,,Y,"113 W. University Pkwy.21218
+(39.33123281190475, -76.61602960083205)",277,176,27307,da4b0cdb-0d2d-46c6-9c06-802d216f8014
+201,unknown,,,Columbus Obelisk,1792,,21213,Herring Run Park,Harford Rd. and Walter Blvd.,,,,,,Y,"Harford Rd. and Walter Blvd.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,19066d62-9464-4550-8d2e-93b45690af1b
+202,Snelson,Kenneth,https://data.baltimorecity.gov/views/5xsg-uc29/files/gT6LCPlaObrA2kbPwiDu52easeliZGqPHWT8WHwmTkU?filename=23b_Snelson++K_1978.jpg,Easy Landing,1978,stainless steel,21202,Maryland Science Center Entrance,601 Light St.,,Inner Harbor Promenade,stainless steel compression tubes strung together with tension cables,highly visible,outdoor accessible,,"601 Light St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,d892fad3-7f1e-4724-b526-8b5b56e7de49
+203,Hofmann,Earl,,Unknown,1969,gunite,21213,Fort Worthington ES,2701 E. Oliver St.,PS  85,Exterior - may have been removed from vandalism,,,,,"2701 E. Oliver St.21213
+(39.307993578400705, -76.57999027239782)",15,152,26956,ab272dac-5ce9-4924-a63f-ff0a94e5f2f1
+204,"Arnold, Veale, Gray, Mason, Waters-Eller","Derek, Archie, Nichole…",,,1995,mural,21201,Howard and Franklin Sts.,Howard and Franklin Sts.,,Side of building facing Howard St.,3 murals of varying scenes (multiple artists),Very visible,,,"Howard and Franklin Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,c6d12690-1ade-46c5-8991-bcb3c5bca50f
+205,Hurst,Laurence,,The Spirit of Constant Care,1979,"oil on canvas, framed",21217,Constant Care Community Health Center,1501 Division St.,,Main lobby,,,,,"1501 Division St.21217
+(39.303082170757534, -76.63195603645732)",242,101,27301,e0f7aa06-9438-4af4-89eb-0f818c1f3b40
+206,Ferguson,John D.,,Veronica,1985,cor ten,21215,6700 block of Park Heights Ave.,6700 block of Park Heights Ave.,,Between Labyrinth Rd. and Clarinth Rd.,,,,,"6700 block of Park Heights Ave.21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,9ef7a772-0147-4a82-9f53-3693bdf61325
+207,Ellsberry,John,,,1994,mural,21223,910 W. Pratt St.,910 W. Pratt St.,,"Side of building by Baltimore and Ohio Railroad; restored in 2000",Locamotive,Visible,,,"910 W. Pratt St.21223
+(39.28583317423556, -76.63264851441988)",114,177,27632,5db7321c-41a7-4c04-8a86-2d747b9d1ba5
+208,Lawrence,Charles,,Soying Seeds of Sandtown,1998,mural (non-city funded),21217,1139 N. Gilmore St.,1139 N. Gilmore St.,,Side of building with community park,"Two men, garden, and woman and a girl; houses in background",Limited visibilty,,,"1139 N. Gilmore St.21217
+(39.3015526379558, -76.6430238325883)",221,86,27301,232aeff3-61c0-46c6-bef8-aaff524aead2
+209,Rattigan,Jennifer,,,2004,mural,21213,1731 E. Chase St.,1731 E. Chase St.,,Side of The Community Resource Center building,"Faces, flowers, and buildings",Limited visibility,,,"1731 E. Chase St.21213
+(39.303289014824315, -76.59300639936833)",152,127,13987,4c70e7d7-ca9b-4a46-a31a-0bf2500801cc
+210,Bourdelle,Emile Antoine,,Fruit,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,fca0e7dd-9f0e-4267-947f-c7e1a59be5c4
+211,Zopf,Fernanda,,Unknown,1976,granite,21230,Charles Carroll Barrister ES,1327 Washington Blvd.,PS  34,Entrance plaza,,,,,"1327 Washington Blvd.21230
+(39.28032465761226, -76.63572931347767)",250,177,27953,6ed94007-1104-40d0-aca6-a543830e9744
+212,Wilson,Edward,,Unknown,1984/02,bronze,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,Lobby,,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,ed7480a5-6043-4b28-9e0e-4438bd1354f2
+213,Reed,Robert,,Unknown,1970,"acrylic, wood",21223,Southwestern Sr. HS,200 Font Hill Ave.,,Second floor hallway,,,,,"200 Font Hill Ave.21223
+(39.28353990306084, -76.66253298545354)",35,76,27632,430fe636-bf74-4a63-80f0-ae2bfde15737
+214,Epstein,Jacob,,The Visitation,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,485691fa-d722-496a-96f9-3dced59563c7
+215,Cook,Jeffrey,,,1998,mural,21239,1301 Woodbourne Ave.,1301 Woodbourne Ave.,,Inside,,,,,"1301 Woodbourne Ave.21239
+(39.35407372981888, -76.59492195529077)",255,219,28564,e512ae33-7f77-47d2-9d85-f236481a5213
+216,Canessa (replica),Achille,,Columbus Monument,1892,marble,21217,Druid Hill Park,Druid Hill Park,,,,,,Y,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,5223610b-b1f6-4d6a-9fe6-9f0db559197e
+217,Warren,Erik,,,1996,mural,21218,401E. Lorraine St.,401 Lorraine St.,,Side of building facing Barclay St.,Five different figures inside globe,Visible,,,"401 Lorraine St.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,9c6cd749-d099-472b-adab-cd39218c61a9
+218,du Fayette,Pierre,,Unknown,,concrete,21217,Furman L. Templeton Recreation Center,1200 N. Pennsylvania Ave.,,Corner of Pennsylvania and Lanvale Streets,,,,,"1200 N. Pennsylvania Ave.21217
+(39.299507365976886, -76.62976664033435)",242,90,27301,d48c3c8d-17e0-4a2a-8f96-892386b42c48
+219,"Johnson, Jr.",J. Seward,https://data.baltimorecity.gov/views/5xsg-uc29/files/Hvpeyn1HFFsbG_LNC3lbUTNRMBMAlJYwEzfJICzgwA4?filename=63_Johnson+S_1980.jpg,The Briefing,1980s?,bronze,21201,Baltimore Convention Center,1 W. Pratt St.,,Inside Charles St. Lobby (100 Level),"two men with papers, briefcase and breakfast sitting/standing and 'talking business'",moderately visible,Indoor accessible,,"1 W. Pratt St.21201
+(39.28646269965611, -76.61616394162286)",241,6,13642,aece2db9-f4c8-43e0-9819-0d81225da62d
+220,Voshell,James,,,1990,mural,21223,2229 1/2 W. Pratt St.,2229 1/2 W. Pratt St.,,Side of building,"Photographic-like mural with variety of painteed pictures including Elvis, flower(s), a crab, and a street scene",Very visible,,,"2229 1/2 W. Pratt St.21223
+(39.284897879325115, -76.65235266008187)",36,279,27632,5ac441b8-e739-4f58-80b7-05b33a15797a
+221,Martini,Marino,,The Miracle,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,ddc2b3a4-24b5-4296-9381-86aff833a252
+222,Shaw,Ernest,,,2000,mural,21223,106 S. Calverton St.,106 S. Calverton St.,,Side of abandoned building,Grandfather and two grandchildren,Limited visibility,,,"106 S. Calverton St.21223
+(39.28673917194104, -76.65211940500427)",225,78,27632,3fe245e5-e633-4201-9538-fabb25c3f560
+223,Mitchell,John B.,,Unknown,1973,mural,21224,Baltimore City Hospitals,4940 Eastern Ave.,,Interior,,,,,"4940 Eastern Ave.21224
+(39.28720346133158, -76.55457987930149)",203,139,27935,895ed8d2-ed93-4ceb-9b16-c3660df8dd33
+224,Thulman,Ferebee Streett,https://data.baltimorecity.gov/views/5xsg-uc29/files/D42voUj1eToNBf68Zh5iuoEgb4QvwowOAY8DHbxMz0k?filename=699e_Thulman+F+S_2002_03.JPG,Baltimore City Fraternal Order of Police Memorial,2002/ 2003,memorial,21202,East side of President St at Fayette St.,East side of President St at Fayette St.,,East side of President St at Fayette St.,Uniformed man on bended knee with little girl holding hat and touching man's back,Visible,,,"East side of President St at Fayette St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,8036219b-a6e8-4c6c-a0fa-2075cb63b76e
+225,Lawrance,Charles,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,65cc460a-572d-4d59-85b3-61a6014f9155
+226,Daniel,Paul,,Venter,,steel and aluminum,21201,State Center Station,State Center Station,,Above platform,,,,,"State Center Station21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,2024263c-43b7-4073-9b63-a7310a8c3f7f
+227,Perlman,Bernard S.,,Unknown,1968,ceramic tile,21231,Patterson Park Ice Rink,Patterson Park Ice Rink,,Exterior,,,,,"Patterson Park Ice Rink21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,17c40637-7e99-4c5d-a344-98b45f6e52f6
+228,unknown,,,Veterans Monument,1945,,21217,Payson St. and Ramsey St.,Payson St. and Ramsey St.,,,,,,Y,"Payson St. and Ramsey St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,645bec9d-d232-4365-985e-1394a28c1299
+229,Owen,Michael,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,7bde9d4f-3554-42b3-adb7-8734d9afdf67
+230,Women's Mural Project and Ferguson,Mary Carfagno,,,1996,mural (non-city funded),21201,200 block Mulberry St.,200 block Mulberry St.,,Side of inhabited house with garden area below,"Squares inside of squares inside a big square; looks like a window",Visible from street,,,"200 block Mulberry St.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,77df7b10-d6f9-4f9a-af0a-71446744e8ee
+231,Ford,John,,,1987,mural,21218,3500 Hillen Rd.,3500 Hillen Rd.,,,,,,,"3500 Hillen Rd.21218
+(39.33167161806898, -76.58903139599886)",77,190,27307,bee1e325-bc20-4958-9fe8-8f609f994509
+232,Barye,Antoine Louis,https://data.baltimorecity.gov/views/5xsg-uc29/files/655_oRfu9kIHQtx4e-d2XiTm5pmGn3696KHFdpbWxJ4?filename=423_Barye+A_1885.JPG,Order,1885,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,SW corner of Washington Monument,,highly visible,outdoor accessible,,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,4dbe2906-bb6c-4a97-bc4a-42d9e789cb6b
+233,Tyson,Donald,,,2008,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,276c0309-1a20-47a6-bf36-d73c7e439656
+234,Nguyen,Kien,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,5af91b9b-4c04-4882-9ee1-be3c8f87bd61
+235,Hurst,Laurence,,Star Chamber,1978,mixed media,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Entrance hall ceiling,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,75cfd025-f647-46b2-af4c-159c9e595bd0
+236,Moring,Greg,,Series of Points on a Line,,,,City Hospitals,City Hospitals,,,,,,,City Hospitals,,,,01f506cb-dd0e-4830-95cf-4d47e3572994
+237,Daniel,Paul,,Titan,1978,corten & steel,21207,Liberty ES,3901 Maine Ave.,PS  64,Rear plaza off lobby,,,,,"3901 Maine Ave.21207
+(39.326392597757035, -76.68362208704065)",41,64,13995,41d5761b-9f9a-4dc9-a008-c98011038acf
+238,"Shore, James, Access Art","Tony, Shawn",,,2004,mural,21230,837 Washington Blvd.,837 Washington Blvd.,,Side of building,"Pigs in the street; buildings",Visible,,,"837 Washington Blvd.21230
+(39.28291937086067, -76.62996853477262)",250,168,27953,8cc2195e-5146-4196-90d1-219ae79ab706
+239,Brown,Joe,,Runner,1964,bronze,21218,"Athletic Center, Johns Hopkins University",3400 N. Charles St.,,Exterior entrance,,,,,"3400 N. Charles St.21218
+(39.32913762457502, -76.61797969757966)",123,13,14004,9bf3f61e-5d0d-411f-a6e1-0fb8f4317ec0
+240,unknown,,,J. Joseph Curran Memorial Clock,,,21212,,Woodbourne Ave. and York Rd.,,,,,,,"Woodbourne Ave. and York Rd.21212
+(39.35552163828606, -76.60988667385834)",116,230,14009,17cb74f9-b51c-4f39-a574-2c4c0446bf54
+241,Hanson,J.B.,,Unknown,1978,wall hangings,21212,Govans Multipurpose Center,5225 York Rd.,,Interior,,,,,"5225 York Rd.21212
+(39.35373198744776, -76.60983271453654)",273,217,14009,091d7d7f-4bf7-4766-903d-fd2060a11f7c
+242,Miller,Tom,,,1998,mural,21225,600 Cherry Hill Rd.,600 Cherry Hill Rd.,,Side of building,Multiple scenes,Visible,,,"600 Cherry Hill Rd.21225
+(39.25000418458825, -76.62289087040199)",47,146,27937,1b130bb4-8b20-4fba-8a08-f21c1a958010
+243,Kramer,Reuben,,Unknown,,,21201,Maryland State Office Building,301 W. Preston St.,,,,,,,"301 W. Preston St.21201
+(39.30183211313681, -76.62256711447145)",144,95,13642,9cca0e1d-de10-4ade-bea2-85af16fd0646
+244,unknown,,,Guilford Entrance: Antique Italian Well Head,,,21218,Guilford Entrance,near St. Paul and University Pkwy.,,,,,,,"near St. Paul and University Pkwy.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,0e9eebb8-4e3a-43c7-b3cd-c4f479155baa
+245,Streett,Tylden,,Mythological Boat,1982,glass-reinforced polyester resin,21218,Waverly ES,700 E. 34th St.,,,,,,Y,"700 E. 34th St.21218
+(39.32990081713007, -76.6062952313343)",251,182,27307,6768091d-8c50-44d3-b107-f0cf31e361ce
+246,Gardescu,P,,courthouse plaza fountain,,bronze and granite,21201,Baltimore Courthouse,St. Paul St.,,Open space across street,,,,,"St. Paul St.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,4e7fa01f-74a9-450e-a649-06ba1f1db0a9
+247,van Rossum,Peter,,Untitled,1967,aluminum,21223,Diggs-Johnson MS -was- Carroll Park JHl,1300 Herkimer St.,,Entrance,,,,,"1300 Herkimer St.21223
+(39.2814534759529, -76.63819733134068)",250,177,27632,8577ff49-cedf-4754-b702-e45aaf7d84f3
+248,Safell,Edward,,Unknown,1976,mural,21211,Medfield Heights Recreation Center,Woodheights and LaPlata Ave.,,Interior,,,,,"Woodheights and LaPlata Ave.21211
+(39.340997587512845, -76.6457696228274)",148,236,14006,d62a0e02-c5be-49df-a4a2-7f5871224f09
+249,Barye,Antoine Louis,https://data.baltimorecity.gov/views/5xsg-uc29/files/jqDiMBAqtY6FORDzaZ-dNJtGSfyzxFuUq6bhI_7zfkM?filename=424_Barye+A_1885.JPG,Peace,1885,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,SE corner of Washington Monument,,highly visible,outdoor accessible,,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,dce5596c-6805-4dd8-84cf-49d26d5aecbd
+250,Bennett,William,,Baltimore,1976,limestone,21202,Shot Tower Park,Fallsway and Fayette Sts.,,Near Chez Fernands,,,,,"Fallsway and Fayette Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,9f74ced1-8e0e-44d4-9dba-073fd81dc517
+251,Berge,Henry,,St. Francis,1937,concrete/ stone,21207,Kernan's Hospital,2200 N. Forest Park Ave.,,Garden behind colonnade,,,,,"2200 N. Forest Park Ave.21207
+(39.3120711258069, -76.7067461983265)",51,57,13995,feb55a69-d785-4741-b713-9eeba5110b19
+252,Hilson,Harry,,Unknown,,concrete,21218,Department of Housing and Community Development/Ho,201 Aisquith St.,,Left of entrance,,,,,"201 Aisquith St.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,9664e330-43cf-4953-a933-ee2172176d58
+253,Safell,Edward,,Unknown,1969,mural,21225,Bay-Brook Recreation Center,6th St. and Farring Ct.,,Interior,,,,,"6th St. and Farring Ct.21225
+(39.22678000000002, -76.61608999999999)",,,27937,e4b6d12d-4373-41c3-b2e7-b4464c50d4cd
+254,Hilson,Harry,,Unknown,1969,"fiberglass, stainless ste",21214,Woodholme ES,7300 Moyer Ave.,PS 205,Courtyard center,,,,,"7300 Moyer Ave.21214
+(39.35158999999999, -76.56538999999992)",136,224,27291,c17509ac-6724-4297-8888-9e8f71cdb137
+255,Bufano,Benjamin,,Penguin,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,700203fb-0030-426a-b2bb-b7b82b7b6c62
+256,unknown,,,Cylburn Lions,c.1850?,marble,21209,Cylburn Park,4915 Greenspring Ave.,,Two at eastern and two at perenial garden entrances,,,,,"4915 Greenspring Ave.21209
+(39.35073724509016, -76.65955622953658)",42,251,14001,30ed03ac-72b5-4a08-949c-18b8b83255da
+257,Mears,Mary Ann,,Brio,1975,painted metal,21213,Fort Worthington Recreation Center,2701 E. Oliver S.,,Exterior,,,,,"2701 E. Oliver S.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,27b30037-2f85-443c-9280-c239cba03935
+258,Marqueste,Laurent-Honore,https://data.baltimorecity.gov/views/5xsg-uc29/files/YUxLMRLUn-uMyNSy4iuTZDxLpCtJ3eTgCEzytA-FzVs?filename=314_Marqueste+L_1904.JPG,Severn Teackle Wallis,1904,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,,,highly visible,outdoor accessible,Y,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,6e5ab993-146d-4f02-8972-15354332f27f
+259,Hess,David,https://data.baltimorecity.gov/views/5xsg-uc29/files/OrrepodDcV9MnZImUoTFYMORdPOyb6F20Tpc9XPF03g?filename=695c_Hess+D_2004.JPG,Birds Nest Balcony,2004,metalic sculpture,21230,American Visionary Art Museum Tall Sculpture Barn,800 Key Highway,,American Visionary Art Museum's James Rouse Bldg.,Massive sized bird's nest,"Visible from sidewalk; in between buildings",Outdoor Accessible,,"800 Key Highway21230
+(39.28022140477276, -76.60655918234988)",67,2,27953,f845a0ce-0200-4399-84f4-2d3e7cbd83e7
+260,Schneider,Jo Ann,,Two Friends,1983,slate & cor ten,21210,Friends School of Baltimore,5001 N Charles St.,,Outside lower school,,,,,"5001 N Charles St.21210
+(39.35454366077879, -76.62372768827265)",116,256,14009,049816e4-efa2-4bf3-933f-468b33e74002
+261,Russum,Jean,,Roots of Life,,concrete,21213,Furley ES,4633 Furley Ave.,PS 206,Lobby,,,,,"4633 Furley Ave.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,446a89bb-47de-49c0-9f7e-4f0716ac3222
+262,Stewart and Urban Xperience,Benari,,New Song,2005,mural,21217,1601 N. Calhoun St.,1601 N. Calhoun St.,,Side of building with open green space,"Man, woman, and boy on a hilltop, looking into distance; white dove in background",Visible from street,,,"1601 N. Calhoun St.21217
+(39.30672116781016, -76.64185570336787)",221,22,27301,975f0ba8-c165-45d6-8cca-bd3b83684690
+263,unknown,,,Propeller from the Battleship New Jersey,,,21202,The National Aquarium,501 E Pratt St,,,,,,,"501 E Pratt St21202
+(39.28668753016342, -76.60843876539116)",121,6,13645,65254dda-50db-434f-9651-c914f86b69ba
+264,,Unknown,,Unknown,1965,concrete and glass,21215,Strathmore Tower Condominiums,6210 Park Heights Ave.,,Front garden,,,,,"6210 Park Heights Ave.21215
+(39.35853436708419, -76.69366751410791)",58,249,27295,5e998440-cc12-4956-8ce0-9fcf0a8121ba
+265,McKenzie,R. Tait,,Boy Scout,1937,bronze,21211,Boy Scout Headquarters,Wyman Park Dr. and Sisson St.,,Boy Scout Headquarters,,,,Y,"Wyman Park Dr. and Sisson St.21211
+(39.32197692659315, -76.62781016190229)",102,14,14006,3ac84ccd-dedb-46af-83e6-1916f4159581
+266,Sugarman,George,https://data.baltimorecity.gov/views/5xsg-uc29/files/SuVWGRuKuAJNuPW6syiVaYczvntj-7BuNRp40rhUhL0?filename=14_Sugarman+G_1978.JPG,Baltimore Federal,1978,painted aluminum,21201,E.A. Garmatz Federal Building,101 W. Lombard St.,,Entrance plaza near Hanover & Lombard St.,,highly visible,Outdoor accessible,,"101 W. Lombard St.21201
+(39.28763044116419, -76.61629234521642)",241,6,13642,4721f94d-874a-4c29-8412-695aa688250f
+267,Rothschild,Amalie,,Unknown,1970,aggregate stone,21215,"Dr. Martin Luther King, Jr. ES",3750 Greenspring Ave.,PS 254,Architrave,,,,,"3750 Greenspring Ave.21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,edafb12f-3423-411a-8af0-eb4ae8e5ca2f
+268,Mahoney,Erin,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,very visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,0fbda6d0-fb9c-47d2-9365-bf89bb9fbc42
+269,Leizman,William,,Unknown,1973,mural,21216,Rosemont Recreation Center,1201 N. Rosedale St.,,Interior,,,,,"1201 N. Rosedale St.21216
+(39.302740428386414, -76.66892716508187)",216,81,27297,8af32361-7b87-46ed-aba9-3e75a48a9eec
+270,Remington,Bill,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,c8dcc76f-5449-4336-a643-58eab1248f7f
+271,Greenly,Colin,,Wishbone House,1967,concrete,21218,Playlot,200 E 21st St.,,"Exterior; south end",,,,,"200 E 21st St.21218
+(39.3133910537938, -76.61387044005129)",10,160,27307,d8e3b55f-92df-4c0a-a574-fac7fc3d7e41
+272,Antonakas,Stephen,https://data.baltimorecity.gov/views/5xsg-uc29/files/jXHaR_xasl5Q_TpQZeTG2klLjCQKuVi7JZp5SW4-bbg?filename=79_Antonakas+S_1983.JPG,Neon for Charles Street Station,1983,neon,21202,Charles Center Station (Metro),2 Charles St.,,Indoor/underground above the turnstiles,large red-orange abstract neon shapes,Highly Visible,Indoor accessible,,"2 Charles St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,cd0dc520-ba30-4359-8be8-988845a742d2
+273,Majorowicz,Roger,,Pegasus,1971,bronze,21213,Dr. Bernard Harris Sr. ES,1400 N. Caroline St.,PS 250,Left of entrance,,,,,"1400 N. Caroline St.21213
+(39.30681435717918, -76.5981235417151)",180,154,26956,3f14bc2a-4c0e-4c05-88a1-d668757b3deb
+274,Bearden,Romeare,https://data.baltimorecity.gov/views/5xsg-uc29/files/vNYAcwn2XnzB6Gbbf6hVkGtn9y3IPaLnRFwK23Hu7jU?filename=35_Bearden+R_1982.jpg,Jazz Musicians,,mosaic,21217,Upton Station,1850 Pennsylvania Ave.,,,,,,,"1850 Pennsylvania Ave.21217
+(39.30466755969106, -76.63614276252174)",242,99,27301,92b278d9-3b2d-4085-92d4-c63078498e8b
+275,Moore,Henry,,Three-Piece Reclining Figure No. 1,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,e2cc4d81-c480-44ba-a065-7c82ec857cce
+276,"McRaney, Kohilas, Konsalas, Perrelli, Cavocos","Shawn, Xenofon, et al",,,2004,mural,21224,503 Oldham St.,503 Oldham St.,,Back of building with parking lot,Greek life images,Visible from street,,,"503 Oldham St.21224
+(39.28703448054869, -76.55570960997416)",90,139,27935,1d28c865-311a-4866-91a6-880726d022a3
+277,Whiting,Edmund,,Unknown,,,21215,Towanda Recreation Center,4100 Towanda Ave.,,,,,,,"4100 Towanda Ave.21215
+(39.33504078211094, -76.66643772776918)",232,70,27295,11d8f205-91dd-47e1-9f6d-33c90c6e932d
+278,Lawrance,Charles,,,2008,mural,21213,Latrine Building at Herring Run at Hall Spring,3545 Bel Air Road,,one long wall left side  and front side of building,"nature scene deers, birds, creek",Very Visible,,,"3545 Bel Air Road21213
+(39.324228065368914, -76.5700688634434)",275,199,26956,056e809a-ad99-475a-967f-cb11eb4f4ab0
+279,Fergerson,Richard,,Unknown,1978,aluminum,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Exterior courtyard,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,70389478-d36b-4410-b924-91caab1aaa4f
+280,Peterson,Harvey,,Untitled,1986,neon,21230,Municipal Animal Shelter,301 Stockholm St.,,Roof top,,,,,"301 Stockholm St.21230
+(39.2747715132752, -76.62254912803087)",32,174,27953,b913597f-a3e5-4fbb-abb6-926d3f0187fd
+281,unknown,,,various sculptures,,,21217,Area around Maryland Institute College of Art,1300 Mount Royal Ave.,,,,,,,"1300 Mount Royal Ave.21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,058372b0-7a00-4f64-a2df-e5f80efcf82c
+282,Bufano,Benjamin,,Owl,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,92af734e-49d5-48d1-8ffb-8e876daa14ea
+283,Rodin,Auguste,,Balzac,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,6f4c7b97-0afb-438f-af4c-68a2e81e531e
+284,Niebauer,William,https://data.baltimorecity.gov/views/5xsg-uc29/files/gUVwrS6E5h9S8V9Dfp-tIjv2oiCuV-jYy3muglyq_So?filename=562_Niebaur+W_2004.jpg,Triaxial Link,2004,concrete,21201,Inner Harbor Promenade,100 Light St,,Near the Baltimore Visitor Center facing the promenade,3 concrete arcs sitting open end up,Very visible (at Inner Harbor),,,"100 Light St21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,183930eb-4081-47d1-8d43-6d4568429768
+285,Leverette,Carlton,,Untitled,1975,ceramic tiles,21213,Laurence Paquin HS,2200 Sinclair Lane,PS 457,Over entrance door,,,,,"2200 Sinclair Lane21213
+(39.3143057096832, -76.58758348753167)",53,155,26956,d84a8b91-7c22-4c50-87da-1550d8c08bd9
+286,"Murchison, architect",Kenneth W.,,Unknown (Clock Relief),c.1911,stone (or terracotta),21202,Penn Station,1515 N. Charles St.,,,,,,,"1515 N. Charles St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,02d6395e-b72a-4023-a2d8-4a6f35566143
+287,Batchelor,Linda,,Unknown,1978,fabric wall hanging,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,9398adad-c537-4bef-bc21-bd3527c74603
+288,Turnbull,Grace,,Reese Monument,1939,marble,21213,Lake Clifton HS,2801 St. Lo Dr.,PS  40,,,,,Y,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,23f1662f-55da-4cbf-9431-425084c74415
+289,Hege,Orpha,,Unknown,1978,fabric wall hanging,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,039507e6-1fb6-45ca-bd25-1d78ee60be4f
+290,Ihara,Micho,,A Bird Flying North,1971,burnished aluminum,21225,Bay-Brook ES,4301 Tenth St.,PS 124,Front lawn,,,,,"4301 Tenth St.21225
+(39.22664879148738, -76.59973332814752)",26,38,27937,ab394835-d7fd-4dec-a472-f85c7e2ecfa6
+291,Carroll,Rodney,,William Donald Schaefer,2009,,,,,,,,,,,,,,,79b41b0b-a219-404e-94ac-718fd31e1007
+292,"Metzger, architects",G.,,Colonel George Armistead,,,21230,Federal Hill Park,Federal Hill Park,,,,,,,"Federal Hill Park21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,6331547e-f260-4ec0-89cf-58088f0d6fe0
+293,Gregory,Thomas,https://data.baltimorecity.gov/views/5xsg-uc29/files/QtpmY6qKIVd3zlISqvyrLZj_ji5ZglHRg_4Rzrde00E?filename=25_Gregory.jpg,Faces,,photographic emulsion,21215,Mondawmin Station (Metro),2525 Liberty Heights Ave.,,Liberty Heights / Reisterstown,,,,,"2525 Liberty Heights Ave.21215
+(39.31958713286982, -76.65688500327228)",25,40,27295,0659c1cc-353d-4607-ae5c-bf339f8f717f
+294,Gargallo,Pablo,,The Prophet(St. John the Baptist),,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,44c28f2b-f0ff-459a-8f1f-a2df3e7f3357
+295,James and Mural Masters,Shawn,,,2004,mural,21230,1620 Bush St.,1620 Bush St.,,Side of building,"Gwynns Falls Trail; peace sign",Visible,,,"1620 Bush St.21230
+(39.27469956751287, -76.63308018899397)",32,178,27953,4e21d978-4343-4b8b-b7ab-ea8f6d1d5bc7
+296,Brown,David Lee,,Centennial Sculpture,1975,polished steel,21218,Johns Hopkins University,N. Charles and 34th Sts.,,West entrance to library,,,,Y,"N. Charles and 34th Sts.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,874128bd-5fac-49b1-990c-f8e3056948fc
+297,Miller,J. Maxwell,,Confederate Women Monument,1918,bronze,21218,Johns Hopkins University,W. University Pkwy. and N. Charles Sts.,,,,,,Y,"W. University Pkwy. and N. Charles Sts.21218
+(39.33257094009832, -76.61805251788434)",123,13,27307,f6a217e2-6f68-406e-9dc8-192e25a46b14
+298,Ruckstuhl,F. Wellington,,Confederate Soldiers and Sailors Monument,1903,metal (bronze?),21217,Mount Royal Ave. at Mosher St.,Mount Royal Ave. at Mosher St.,,Median strip,,,,Y,"Mount Royal Ave. at Mosher St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,ef9ea421-bf4e-4e53-acde-7f8884f70daf
+299,Crenier,Henri,https://data.baltimorecity.gov/views/5xsg-uc29/files/kTK84lOTYdetoKpK-pzHEnUeKMccSsLiiymWegpYHaA?filename=457_Crenier+H_1916.JPG,Boy and Turtle,1916,bronze1992/orig.cast iron,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,,,,,,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,3e63a4d6-3555-4053-b480-ebc9e266ae4a
+300,Laurens,Henri,,Large Bather,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,a5a0b5a9-af8a-4bd5-902f-372e12f8f902
+301,Shaw,Dr. Luke,,Unknown,1990,mural,21205,Armistead Gardens ES,5001 E. Eager St,PS 243,"Interior; main lobby",,,,,"5001 E. Eager St21205
+(39.305213563967015, -76.55323837923271)",6,145,13987,37d933f2-41f8-496a-86f6-3c1c885d14ef
+302,No artist involved,None,https://data.baltimorecity.gov/views/5xsg-uc29/files/QmUZTl4IkahPJmhFAR5_09RX3GubvRYJGcyhXvWjHaI?filename=351d_Hartmann+J_1992.JPG,Pride of Baltimore Memorial,1992,granite & steel,21230,Rash Field- S. side of Inner Harbor,Rash Field Key Highway,,Rash Field- S. side of Inner Harbor,Large mast with commerative plaques of crew who perished in Pride's sinking,Very visible,Outdoor accessible,,"Rash Field Key Highway21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,5bfcadc7-5189-4316-9d25-221beb9ecf52
+303,Berge,Edward,,Chapin A. Harris bust,1922,bronze,21211,Wyman Park Dr. and 31st St.,Wyman Park Dr. and 31st St.,,Median at edge of park,,,,Y,"Wyman Park Dr. and 31st St.21211
+(39.325070594373926, -76.62143396871454)",209,13,14006,84befed2-dacd-40c8-a063-ff5405dd165e
+304,Romulo,Aika,,,2006,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,7d3dcbfc-791c-4e42-8d28-b578b624120a
+305,Fremiet,Emmanuel,https://data.baltimorecity.gov/views/5xsg-uc29/files/t92kH4_sRUpmBe_6x-aVPTWNJ7rOP4UYISgRl24XyGM?filename=313_Fremiet+E_1903.JPG,John Eager Howard Monument,1903,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,,,highly visible,outdoor accessible,Y,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,815e5630-d84f-4718-b5a0-0da3bf296eef
+306,Woodside,Robbie,,,1987,mural,21216,711 Poplar Grove,711 Poplar Grove,,,,,,,"711 Poplar Grove21216
+(39.310280000000034, -76.67214999999999)",246,44,27297,46b63d42-7c6e-4976-b671-202a46c1fb0c
+307,Kissack,Lyle,,,2004,mural,21213,N. Patterson Park Ave. and N. Gay St.,N. Patterson Park Ave. and N. Gay St.,,"Side of building; South side of Gay St.",People in community,Limited visibility,,,"N. Patterson Park Ave. and N. Gay St.21213
+(39.31099620461538, -76.58588376889628)",23,148,26956,45b85a2e-2b5b-4179-a78c-4d3099729a5b
+308,unknown,,,Flagstaff,1920,,21223,Wilkens Ave. and Gilmore Str.,Wilkens Ave. and Gilmore St.,,,,,,Y,"Wilkens Ave. and Gilmore St.21223
+(39.28356688272174, -76.64210038894782)",159,9,27632,dda87edb-692c-4204-b40d-a54a421bcad9
+309,Sheppard,Joseph,,Unknown,1971,mural,21202,Police Headquarters Building,601 E. Fayette St.,,Interior,,,,,"601 E. Fayette St.21202
+(39.290680519973535, -76.60768333488653)",65,6,13645,9476f4a3-34e8-402a-b665-d681546a39a7
+310,Cohen and Community Youth,Jay Wolf Schlossberg,,,2000,mural,21223,Ashton and Smallwood Sts.,Ashton and Smallwood Sts.,,Side of building which was destroyed,"Unknown; destroyed",N/A,,,"Ashton and Smallwood Sts.21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,eb0b9edf-6985-48b3-9a39-74adddd0fe1f
+311,Monroe,John,,Unknown (Old Post Office Relief),1890,granite,21210,Private Home Roland Park,408 Woodlawn Rd.,,Front porch,,,,,"408 Woodlawn Rd.21210
+(39.350422482379884, -76.6332870330607)",214,235,14004,e16988ab-41bb-4560-8e03-a5b22f84cef7
+312,unknown,,,Market Fountain,,,21201,,Redwood St. and Market Pl.,,,,,,,"Redwood St. and Market Pl.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,69714a73-f854-47cf-9273-68443b7cc455
+313,van Rossum,Peter,,Untitled,1971,exposed aggregate,21217,Westside ES,2235 N. Fulton Ave.,PS  24,Front façade,,,,,"2235 N. Fulton Ave.21217
+(39.314323696123836, -76.64512211096627)",190,19,27301,28dd3b50-87d3-45d7-a05b-5c1020612429
+314,Todd,Thomas A.,,McKeldin Square and Cascade,,,21202,McKeldin Sq.,Pratt and Light Sts.,,Southeast corner of intersection,,,,,"Pratt and Light Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,583b40d7-739c-43ce-bd00-4a3615d24680
+315,Greenamyer,George Mossman,,Engine Company 43,1985,steel,21239,Fire Station #43,1100 Walters Ave.,,Chinaquapin Street,,,,,"1100 Walters Ave.21239
+(39.359020000980024, -76.59695442307697)",92,229,28564,7cd1ab43-5fd8-41f1-ac53-7a0f23b14fb1
+316,du Fayette,Pierre,,"Unknown (""The Question Mark""",1970,aluminum,21216,Walbrook HS,2000 Edgewood St.,PS 411,Courtyard,,,,,"2000 Edgewood St.21216
+(39.31021379444991, -76.67596885657127)",83,45,27297,76adb15b-782b-4b7b-b6bd-b7d40e9a1dad
+317,Aumiller,Nick,https://data.baltimorecity.gov/views/5xsg-uc29/files/9pjNTEn0dgmS-stw5y7q2MPPdTudwLkaQKjQmRpCHmI?filename=657_Aumiller+N_1993.JPG,Love the Animals,1993,mural (non-city funded),21224,2800 E. Fayette St.,2800 E. Fayette St.,,Mini murals on posts located in median strip,Pictures of animals,Visible,,,"2800 E. Fayette St.21224
+(39.29461238292728, -76.57774620187782)",141,123,27935,58dc71c5-23a7-487a-82f7-bed26b8be7c6
+318,Glazer,Helen,,Ursa Major and Ursa Minor,1993,mural,21223,1224 W. Lombard St.,1224 W. Lombard St.,,Side of building,"Constellations: Ursa Major and Ursa Minor; The Great Bear and the Little Bear",Visible,,,"1224 W. Lombard St.21223
+(39.286570618299606, -76.63743290761579)",114,7,27632,9e67b5c3-5824-431f-b7ee-b43f729b61b1
+319,,Unknown,,Korean War Memorial,,,21224,Canton Waterfront Park,Boston St. and S. Potomac St.,,,,,,Y,"Boston St. and S. Potomac St.21224
+(39.27782920817481, -76.57384184692398)",30,115,27935,659250a9-9b05-4d5a-83d2-91622565f206
+320,Bufano,Benjamin,,Horse,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,c705f505-1be6-412b-af33-892f94af7c6e
+321,Halegua,Alfredo,,"""Children's Round Square""",1969,concrete,21223,Steuart Hill ES,30 S. Gilmore St.,PS  04,Entrance plaza,,,,,"30 S. Gilmore St.21223
+(39.2871969372407, -76.64236831857609)",236,9,27632,022b3108-df37-4517-8ce6-cca82fb3cac8
+322,Gregory,R. Thomas,,Unknown,1996,photographic mural,21218,Thomas Jefferson ES,605 Dryden Dr.,PS 232,"Interior; main entrance lobby",,,,,"605 Dryden Dr.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,a79114a7-d6d4-449b-8247-6aeb1661baee
+323,Hess,David,https://data.baltimorecity.gov/views/5xsg-uc29/files/EKSmkwjyFDS8jfGGRScs6jOiD_0iySXRFr6keK8aIhY?filename=702b_Hess+D_2002.JPG,Inertia Study,2002,sculpture,21218,Mergenthaler Vocational HS,3500 Hillen Rd.,,Mergenthaler Vocation H.S. entrance,"Five large circular objects with hole; looks like donuts or bolts","Visible; located on school grounds but, because artwork is over entrance, can be seen from a distance",,,"3500 Hillen Rd.21218
+(39.33167161806898, -76.58903139599886)",77,190,27307,3ac65de4-ec12-4dab-b463-becfb998beb1
+324,Waters-Eller,Susan,,,1989,mural,21215,5276 Park Heights Ave.,5276 Park Heights Ave.,,,,,,,"5276 Park Heights Ave.21215
+(39.3498828891623, -76.67880172096358)",5,244,27295,43de63f0-9320-4393-a02c-58ad29f2c04f
+325,unknown,,,Eagles,,,21207,Leakin Park,1900 Eagle Dr,,,,,,,"1900 Eagle Dr21207
+(39.30524631852888, -76.70055876005011)",85,57,13995,fa99f6e7-90a2-4ed2-b4e2-19089f00dce4
+326,Sheppard,Joseph,,Fireman Saving a Child,1976,bronze,21202,Old Town Firehouse,1100 Hillen St.,,Entrance wall,,,,,"1100 Hillen St.21202
+(39.29719161146562, -76.60506630778127)",179,108,13645,d5d63edc-e23b-4e26-8243-43283bc3089b
+327,Edmister,Stan,,Lakeland Playfield,,painted steel,21230,Wegworth Park playground,2752 Wegworth Ln.,,entire park playground,,,,,"2752 Wegworth Ln.21230
+(39.25377234389106, -76.6417586465767)",134,162,27953,18af7a72-afe9-490b-bab2-7cd930f08de7
+328,Howeler,Gerald,,Untitled,1977,black Tennensee marble,21202,Park at Lombard and Commerce Sts.,Lombard and Commerce Sts.,,Northeast corner of intersection,,,,,"Lombard and Commerce Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,fc186ad5-c23e-478e-bf6d-3b57a74bd640
+329,Moring,Greg,,Rogers Avenue,1983,cor ten,21215,Rogers Avenue Metro Station,Rogers Avenue Metro Station,,Outside sub way station,,,,Y,"Rogers Avenue Metro Station21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,8dac634a-24dc-4372-9fdc-a60ebd1fc48b
+330,Majorowicz,Roger,,"Sod Buster/Chanticleer I""",1975,"steel, forged iron, wood",21216,Windsor Hills ES,4001 Alto Rd.,PS  87,Lawn in front of building,,,,,"4001 Alto Rd.21216
+(39.31689575712761, -76.683019541281)",260,49,27297,89803918-fdd5-479a-b8b0-f11da7a15505
+331,Rattigan and MICA CAP Program,Jennifer,,,2003,mural,21230,1800 block Hanover St,1800 block Hanover St.,,Side of Glass and Mirror Company,Images of community life,Very visible,,,"1800 block Hanover St.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,eececdb7-58c3-40a0-962c-cdc0a87a2a85
+332,Scott,Oliver Patrick,,OM,1978,mayari r steel,21217,Constant Care Community Health Center,1501 Division St.,,Entrance façade,,,,,"1501 Division St.21217
+(39.303082170757534, -76.63195603645732)",242,101,27301,2f6254da-1e41-488f-a507-b06e08f0def2
+333,Kurtz,Benjamin F.,,Peale Museum Bas Relief,1931,concrete,21202,Peale Musem,225 N. Holliday St.,,Four exterior reliefs,,,,,"225 N. Holliday St.21202
+(39.291606790607716, -76.61018346481389)",65,6,13645,c3f72f19-c367-4d35-9d83-040cd68737c9
+334,Ezekiel,Moses J.,,Poe Monument,1915,,21217,"University of Baltimore, Law Library",Mt. Royal and Maryland Ave.,,Entrance plaza,,,,Y,"Mt. Royal and Maryland Ave.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,230f9d95-591e-42ee-8243-06c08f32e81e
+335,Berge,Edward,,Wildflower,before 1924,bronze,21212,Homeland Garden,Homeland Garden,,Median,,,,,"Homeland Garden21212
+(39.353862389141966, -76.61524663315294)",116,234,14009,08b6d80d-fae4-47b3-af12-0c57949c5e27
+336,Streett,Tylden,https://data.baltimorecity.gov/views/5xsg-uc29/files/c4QjOSWRiNlUiYmE4QkqY65L9UYDSaI9Skecu4uXr4Y?filename=art+019.jpg,Baltimore City Fire Fighters Monument,1990,bronze,21202,Fire Department Headquarters,410 E. Lexington and Gay Sts.,,410 E. Lexington and Gay Sts.,Firefighter standing with ax,Very visible,,,"410 E. Lexington and Gay Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,5688dc76-555e-4ca3-b392-ab785525de16
+337,Walter,Bart,https://data.baltimorecity.gov/views/5xsg-uc29/files/Nfx60aaOqgplt6OKnNx9qJ7AnDViPjDsCwai-AncpWg?filename=586_+Walter+B_1993.JPG,Three Otters,1993,bronze,21217,Baltimore Zoo,Baltimore Zoo,,Inside main entrance to zoo,Three otters on and around rocks,Visible,,,"Baltimore Zoo21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,7bfc160f-f7eb-493b-b453-653ca3bd7006
+338,Leizman,William,,Untitled wall,1978,corten steel,21202,Penn Station,1515 N. Charles St.,,N. side of west entrance,,,,,"1515 N. Charles St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,a61549dd-e228-40e3-8aff-84a888c7bc94
+339,Mason,Pontella,,,1997,mural,21202,2117  E. North Ave.,2117 E. North Ave.,,Two murals on side of buildings with garden space and alley way in between,"Images, including MLK, Malcolm X, Harriet Tubman, A. Philip Randoplh on east wall; Billy Holiday and Chuck Webb on west wall",Visible,,,"2117 E. North Ave.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,e0018f26-8c8e-44a9-a96e-8e7a0251ce68
+340,Lewis,James,,An Ashanti (Ghana) Related Design,1969,bronze,21225,Cherry Hill Jr. HS,2700 Seamon Ave.,,Over entrance,,,,,"2700 Seamon Ave.21225
+(39.25368154822934, -76.62052559644809)",47,146,27937,88fa68b5-c972-468a-a677-06a2d67ff5d4
+341,Chodak Goldberg,Judith,,Ceramic monlith,1977,concrete with ceramic til,21211,Wyman Park Multi-purpose Center,501 W. 30th St.,,"Exterior; entrance",,,,,"501 W. 30th St.21211
+(39.32216023626494, -76.62476851894486)",209,12,14006,c30f4881-e834-49cf-8971-8d8c9c70fa17
+342,unknown,,,Medal of Honor,,,21201,,Preston and Howard at Park Ave.,,,,,,,"Preston and Howard at Park Ave.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,3d986a02-2fd0-48f6-882e-2f6af1474501
+343,Martray,Aleks,,,2006,mural,21223,1425 Mulberry Street,1425 Mulberry Street,,on side of building,family overlooking a model of city streets,Visible from one side of building,,,"1425 Mulberry Street21223
+(39.29310232572219, -76.64015259533683)",84,10,27632,c6ec3eb1-9ab5-4312-8900-2db7da9bb612
+344,Edmister,Stan,,Of Course Culture Horse,1980,painted steel,21212,Govans Elementary School,5801 York Ave.,PS 213,Entrance plaza,,,,,"5801 York Ave.21212
+(39.36029856710907, -76.60986073358391)",271,257,14009,e5988132-ac1b-4416-a72e-e8c0c1cbcf3c
+345,English,Deborah,,,1989,mural,21217,711 N. Carey St.,711 N. Carey St.,,,,,,,"711 N. Carey St.21217
+(39.29702973350038, -76.63862001269445)",106,53,27301,ce7c92cb-de5f-4940-a7f9-3d52b1aac37a
+346,Odeleye,Ayokunle,,The Guide,1978,painted steel,21218,Baltimore City College,33rd St. and The Alameda,PS 480,In front of the school,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,371d0bf2-d966-401b-888c-f5c7c51dc0dc
+347,Popkin and Van Allen,Spoon and Dan,,,2003,mural,21213,North Ave and Harford Road,North Ave and Harford Rd.,,Restoration of Tom Miller Murals- Two murals on west and east side of Harford Rd. at North Ave.,"""Never Forget the Source"" and collage of city life",Visible from street,,,"North Ave and Harford Rd.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,b7e17476-ffb8-483c-9fbd-4110eccc6afb
+348,unknown,,,Lions,c.1857,iron,21217,Baltimore Zoo,Druid Hill Park,,,,,,,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,d857453d-73c2-4d7b-a874-bb52d6449990
+349,unknown,,,Sailor and Canton,,,21230,Koppers Company,Bush and Hamburg Sts.,,,,,,,"Bush and Hamburg Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,a5ff49d7-d176-4f89-8179-149badb8f1e3
+350,Franklin,Angela,,Unknown,1997,ceramics,21212,Guilford ES,4520 York Rd.,PS 214,"Interior; between cafeteria and library",,,,,"4520 York Rd.21212
+(39.3440443106837, -76.60963380775476)",99,205,14009,ca97f49d-f3d8-4ac8-94e0-560fb279d0ec
+351,Paulsen,James R.,,Untitled,1975,bronze,21231,General Wolfe ES,245 S. Wolfe St.,PS  23,Entrance plaza,,,,,"245 S. Wolfe St.21231
+(39.2886657946574, -76.5901938544247)",240,287,27954,944d0548-16de-4add-8bdc-1f2c1ac29bbe
+352,Streett,Tylden,,unknown,1980,epoxy resin,21218,Waverly ES,700 E. 34th St.,PS  51,Front wall over entrance,,,,,"700 E. 34th St.21218
+(39.32990081713007, -76.6062952313343)",251,182,27307,4d852e76-8285-457a-aaf8-1b8c42ebe575
+353,Beckman,Ronald,,Unknown,1968,plaques,21223,Steuart Hill ES,30 S. Gilmore St.,,Interior,,,,,"30 S. Gilmore St.21223
+(39.2871969372407, -76.64236831857609)",236,9,27632,b65e0adb-49ed-4d48-9eff-135c906038cc
+354,Wotruba,Fritz,,Man Walking,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Dr.,,,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,cb353016-aed0-4980-8148-600aa3a46fdd
+355,Lawrance,Charles,,Leaden Hall Tribute,2008,mural,21230,Bevan St & West Hamburg Street,114 Hamburg Street,,side of rowhouse,scene of neighbors planting trees,Visible from Eastward Traffic,,,"114 Hamburg Street21230
+(39.27833151021881, -76.61192395611208)",67,165,27953,f21990f6-33da-4317-a72c-40ce5368b157
+356,Russum,Olin,,The Nest,1970,ceramic bas relief,21217,Samuel Coleridge Taylor ES,507 W. Preston St.,PS 122,Exterior,,,,,"507 W. Preston St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,4d422091-670f-4e8e-b231-cca0d726f989
+357,Turnbull,Grace,https://data.baltimorecity.gov/views/5xsg-uc29/files/xbDtUN8d1IZnRiLdzW2AJ-ehNCUlu-ioHUTNqTnlTL8?filename=38b_Turnbull+G_1956.jpg,King Penguin,1956,marble,21202,Inner Harbor Promenade,West Shore Park,,Near Police stand,,,,,"West Shore Park21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,de933180-bf14-4c8c-8848-22de46d1511e
+358,Garmey,Stephanie,,,1988,mural,21205,Ashland Ave. and N. Washington St.,Ashland and Washington Sts.,,,,,,,"Ashland and Washington Sts.21205
+(39.302410000000066, -76.56324999999987)",181,145,13987,7ab1bbc6-1bd6-48ad-a176-8fcb1de9770d
+359,Jacobson,Patrick,,,1999,mural,21230,765 W. Cross St.,765 W. Cross St.,,Side of building,Squid and fish with blue background,Limited visibility,,,"765 W. Cross St.21230
+(39.27977174375809, -76.62786412122404)",250,178,27953,a716f415-26f1-4035-b676-fcee7ac46f16
+360,Shermeta,Margo,,Unknown,1978,fiber,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,b7d3ffa7-f51c-4e5c-84b9-a470e45ee040
+361,Streett,Tylden,,suspended aircraft 1890-1912,1975,,21215,Fallstaff MS,3801 Fallstaff Rd.,PS 241,Interior,,,,,"3801 Fallstaff Rd.21215
+(39.36280614672336, -76.705457625912)",48,245,27295,e285854b-9937-4790-bdfa-a6a0398e4888
+362,Aselage,Robert L.,,Unknown,1979,mural,21229,Robert Coleman ES,2095 N Warwick Ave.,PS 142,Interior,,,,,"2095 N Warwick Ave.21229
+(39.284350000000074, -76.69003999999995)",122,51,27950,7bae6005-5fb1-4b0a-96f7-31793571dfa3
+363,Mack,Nathaniel,,The Human Dance,1977,weathering steel,21215,Park West Multi-Service Center,3309-19 W. Belvedere Ave.,,Sidewalk out front,,,,,"3309-19 W. Belvedere Ave.21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,ce578cd3-dde2-4420-aeb4-bfb272c8b739
+364,Moring,Greg,,Unknown,,aluminum,21207,Liberty ES,3901 Maine Ave.,PS  64,"Interior; cafeteria",,,,,"3901 Maine Ave.21207
+(39.326392597757035, -76.68362208704065)",41,64,13995,450b3e06-8c41-4887-ab94-fdb2a98712cc
+365,Reed,James Earl,,Unknown,1983/03,epoxy resin,21229,Lyndhurst ES,621 Wildwood Pkwy.,PS  88,Exterior,,,,,"621 Wildwood Pkwy.21229
+(39.29529404198382, -76.6839278565306)",76,278,27950,4708899b-7f69-4dda-8893-0659c936750a
+366,Leizman,William,,Unknown,,weathering steel,21224,Southeast MS,6820 Fait St.,PS 255,"Interior; hallway off main lobby",,,,,"6820 Fait St.21224
+(39.28482430743772, -76.53075540992066)",94,135,27935,c7429f2b-97db-4d0f-b5ba-0cd46c56a366
+367,Wells,Betty,,Unknown,1972,mosaic tile,21202,Charles Carroll Elementary School,200 N. Central Ave.,,Wall facing Orleans St.,,,,,"200 N. Central Ave.21202
+(39.29393606571955, -76.59984124679102)",171,108,13645,96318987-fe91-4018-8b23-f9efb77d1e7e
+368,Shrady,Frederick,,Unknown,1972,sculptural panel and mura,21217,George G. Kelson ES,701 Gold St.,PS 157,Interior,,,,,"701 Gold St.21217
+(39.306773101610375, -76.64027621130414)",221,22,27301,6b23e818-881c-4f5e-bfe4-b48444a1aa4c
+369,"Keyser, designer",William,,Cannonball and Rack,,,21201,211 E. Redwood Street,211 E. Redwood St.,,,,,,,"211 E. Redwood St.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,7ff61c6d-57d4-43c0-881a-5205a5d0f6a6
+370,Speiregen,Paul D.,,Vietnam Veteran's Memorial Monument,1989,granite and aluminum?,21225,Middle Branch Park,2825 S. Hanover St.,,Near Patapsco river,,,,Y,"2825 S. Hanover St.21225
+(39.253452316703886, -76.61665320393509)",143,146,27937,94606b1d-0daf-41f8-b8e3-08342ee32245
+371,Moring,Greg,https://data.baltimorecity.gov/views/5xsg-uc29/files/dpCTwJi9XZAeHZifnej64LkuDi-5EMomz6iWona_GuY?filename=154a_Moring+G_1987.jpg,Fan Figure,1987,stainless steel,21201,Baltimore Convention Center,1 W. Pratt St.,,Between Hopkins Pl. and Charles St.,Approx. 30' stainless steel fan that gently sways with the wind,Highly Visible,Outdoor Accessible,,"1 W. Pratt St.21201
+(39.28646269965611, -76.61616394162286)",241,6,13642,5e36e7fc-42e5-441b-aeaf-0f7c8ef5d444
+372,Cordon-Douglas,Emily,,Grasshopper's Revenge,2008,mural,21213,Movie Shed at Herring Run Park,3900 Belair Road,,movie shed building,"brightly painted grasshopper, nature scene","Visible, must drive into park area several meters",,,"3900 Belair Road21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,9c609a78-d6b2-4d4e-a162-7ac68fb91563
+373,Carfagno Ferguson,Mary,,,1998,mural,21230,1219 Bayard St.,1219 Bayard St.,,Side of building,Men playing horseshoes,Visible,,,"1219 Bayard St.21230
+(39.2790342996941, -76.6360119788095)",250,177,27953,16b2adfc-382c-4a53-a868-02a10e3c682f
+374,Shore and Students,Tony,,,2000,mural,21230,Morrell Park ES,2601 Tolley St.,,"Side of ""portable classrooms,"" condemned by the city.  The classrooms, and therefore the murals, will be destroyed","Underwater scenes, with fish",Limited visibility,,,"2601 Tolley St.21230
+(39.263889716720655, -76.65110260246115)",162,164,27953,3787c31a-dac4-4d56-9377-a94415583b37
+375,Haliday and Bauer,Robert and Irvin,,Cook's Memorial,1941,,21213,Clifton Park,Clifton Park,,Rose garden,,,,Y,"Clifton Park21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,c95854b7-a4ba-4243-b8e8-640210a0c2b0
+376,Ono,Setsuko,https://data.baltimorecity.gov/views/5xsg-uc29/files/H9_XBJQM-pVS7Kvpggff-JWGpSeS04-7bz2e1RJUPo0?filename=714_Ono+S_2005.JPG,Dreams,2005,Painted Steel,21201,"Hopkins Plaza, just outside Mercantile Building",Baltimore & Charles Sts.,,Inside Plaza,Purple and Gold painted Steel,Very Visible,outdoor accessible,,"Baltimore & Charles Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,8175290b-8d1b-4b25-bfe6-976c154f2681
+377,Schiff,Jeff,https://data.baltimorecity.gov/views/5xsg-uc29/files/yobWkMIa1UPnqG45_Bq4A4c-v1tTiKYhZ_IsOjfr_VI?filename=405c_Schiff+J_1991.JPG,Untitled (horse in pedestal),1991,bronze,21201,Liberty Plaza off Charles Center,Liberty Plaza off Charles Center,,"Plaza entrance by BG&E building, closer to Liberty and Lexington St.","Horse; now enclosed with cement for safety reasons",Very visible,,Y,"Liberty Plaza off Charles Center21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,0b9971c2-0c3c-406a-b7dc-8187cc35258a
+378,Shore and Area skateboarders,Tony,,,2000,mural,21230,James St. near Ramsey St.,James St. near Ramsey St.,,Side of wall on James St.,Skateboarders,Limited visibilty,,,"James St. near Ramsey St.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,6b9dc31b-398d-40ed-9fd8-e914314e96b5
+379,de Weldon,Felix,,Simon Bolivar Monument,1961,bronze,21218,Bedford Square,St. Paul and Charles Sts.,,Bedford Square,,,,Y,"St. Paul and Charles Sts.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,40c18d5d-46f5-4228-91cb-e57c6df9df0f
+380,unknown(after A. Weinman model?),,,Lions,,,21218,Baltimore Museum of Art,10 Art Museum Dr.,,,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,6d329d3d-72ea-48da-8d27-c5e67a1d8de3
+381,Leizman,William,,Unknown,1968,weathering steel,21229,Rognel Heights ES,4300 Sidehill Rd.,PS  89,Over entrance facade facing Wicklow/ Rec Center,,,,,"4300 Sidehill Rd.21229
+(39.2977312046832, -76.69203074801459)",213,54,27950,9abedc22-8171-415e-93c2-d14731e984e6
+382,Berge,Edward,,World WarI Memorial,1921,bronze,21213,Bel Air Rd. and Shannon Dr.,Bel Air Rd. and Shannon Dr.,,,,,,Y,"Bel Air Rd. and Shannon Dr.21213
+(39.32572709945532, -76.56834698932494)",275,199,26956,98192711-0bad-4784-8596-464a1efb275f
+383,,,,Sundial,,,21217,Druid Hill Park,Druid Hill Park,,,,,,,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,2e268aae-1cb9-4870-893a-6cd9e89be82b
+384,Shore,Tony,,,2000,mural,21223,900 Ostend St.,900 Ostend St.,,CAN NOT LOCATE,CAN NOT LOCATE,N/A,,,"900 Ostend St.21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,3f49488a-d520-4df5-a935-613f054adde7
+385,unknown,,,Tachigata: Lantern and Garden Stones,,,21202,Inner Harbor Promenade,Inner Harbor Promenade,,,,,,,"Inner Harbor Promenade21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,c73c9e7f-d0c1-4c94-9d68-ca7936f6a47f
+386,Carfagno Ferguson,Mary,,,2000,mural,21231,1644 E. Pratt St.,1644 E. Pratt St.,,Side of building,Building with garden,Very visible,,,"1644 E. Pratt St.21231
+(39.28920563184545, -76.59420249766731)",68,111,27954,b9100c35-d519-4c34-908f-7caa85e73068
+387,Moring,Greg,,Untitled,1980,steel,21202,Park at Lombard and Commerce Sts.,400 E. Lombard St.,,Northeast corner of intersection,,,,,"400 E. Lombard St.21202
+(39.28781168270007, -76.60995861962067)",65,6,13645,f5047541-f04d-4249-923d-7d289849d343
+388,Kirby,Michael,,Three Baltimores,2005,mural (non-city funded),,Key Highway under I95,Key Highway under I95,,Key Highway under I95,"Three aspects of Baltimore: ships, railroad, workers (steel?)",Very visible,,,Key Highway under I95,,,,a0200855-be56-412a-a7d7-596cb737be14
+389,Kissack and Ross,Lyle and Gerald,,,1997,mural,21205,1000 N. Patterson Park Ave.,1000 N. Patterson Park Ave.,,Side of building,Images of steel industry,Visible,,,"1000 N. Patterson Park Ave.21205
+(39.30189570183552, -76.58539753018476)",152,125,13987,8e0aaf1b-4707-4fed-915d-a27e8015df4d
+390,Bufano,Benjamin,,Penguin's Prayer,1958,cast granite,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,e81d96ab-acec-4fda-a12a-09198424f61b
+391,"Lewis, architect",William Albert,,Serviceman's Memorial,1950,,21213,Clifton Park,Sinclair Lane and Wolfe St.,,,,,,Y,"Sinclair Lane and Wolfe St.21213
+(39.31415282493822, -76.59184627395058)",226,155,26956,e6386961-7b29-4f30-a27b-d10d6e5bc1d5
+392,Barye,Antoine Louis,https://data.baltimorecity.gov/views/5xsg-uc29/files/2p1LEZ0sgRQ2sKfYMsymqYzIsYCmjjhHtwwDyjNnMPc?filename=422a_Barye+A_1885.JPG,Force,1885,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,NW corner of Washington Monument,,highly visible,outdoor accessible,,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,3d48f6fc-932a-4dba-82e5-59dbd6d871c7
+393,Mosley,Quentin,,,1990,mural,21215,4000 Reistertown Rd.,4000 Reistertown Rd.,,Side of Charm City Motors,,Limited visibility,,,"4000 Reistertown Rd.21215
+(39.33384558374571, -76.6641132885438)",232,70,27295,1af91256-4064-4cfa-8a03-94fc80ad744b
+394,unknown,,,Veterans of Foreign Wars Monument,1945,,21224,Ponca St. and Eastern Ave.,Ponca St. and Eastern Ave.,,,,,,Y,"Ponca St. and Eastern Ave.21224
+(39.28712819795777, -76.55497407074927)",203,139,27935,c9b44e4d-c10f-4a5e-ae99-5dc0b4f0ba38
+395,In Progress,,,,2000,mural,21217,2258 Linden Ave.,2258 Linden Ave.,,CAN NOT LOCATE,CAN NOT LOCATE,N/A,,,"2258 Linden Ave.21217
+(39.31372115036419, -76.63547238559192)",210,17,27301,3ae54f93-76b3-4060-bcb3-6d0484a2cfe4
+396,Monroe,John,,Repeal,,,21217,Druid Hill Park,Druid Hill Park,,Madison Avenue entrance,,,,,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,31ce31ad-7603-4785-9ae1-01f237da8635
+397,Berge,Edward,,Sea Urchin,1926,bronze,21218,Johns Hopkins University,N. Charles and 33rd Sts.,,Near Faculty Club,,,,Y,"N. Charles and 33rd Sts.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,576a56c8-e802-4122-af3b-d731b63dfa77
+398,"Hodges and Leach, architects",,,Maryland Line Monument,1901,,21217,Mt. Royal Ave. at Cathedral St.,Mt. Royal Ave. at Cathedral St.,,,,,,Y,"Mt. Royal Ave. at Cathedral St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,5ee543f6-c31c-4e25-8cf5-ed18633a0fe1
+399,Therrien,Norman,,Sea Birds,1976,metal,21207,Calvin Rodwell ES,3501 Hillsdale Rd.,PS 253,Exterior,,,,,"3501 Hillsdale Rd.21207
+(39.33019672994095, -76.69463878189953)",118,289,13995,57511a75-a009-407e-a918-507cf22667c2
+400,Schuler,Hans,,Johns Hopkins Monument,1935,bronze & marble,21230,Federal Hill Park,33rd St E at Charles St,,33rd St E at Charles St,,,,Y,"33rd St E at Charles St21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,43739cb4-a441-4c2c-a061-787c2d433357
+401,Wilson,Glen,,Unknown,,acrylic paint,21229,Mary Rodman Recreation Center,3600 W. Mulberry St.,,Walls flanking entrance,,,,,"3600 W. Mulberry St.21229
+(39.29178668606954, -76.67754267012253)",2,75,27950,15aa3304-a093-4e6d-a020-78d4662a5e02
+402,Gottlieb,Richard,,Samurai Rocker,1979,corten steel,21218,Margaret Brent ES,100 E. 26th St.,PS  53,Entrance plaza,,,,,"100 E. 26th St.21218
+(39.31945812685201, -76.6159163457684)",277,32,27307,0ff7bc87-113c-47af-9dda-87d70a58f656
+403,"DePalma, Ellsberry, Flores, et al","Linda, John, Luis, et al",,,1997,mural (non-city funded),21201,Centre St.,Centre St.,,Side of MD Historical Society,"Eight different pieces of artwork, depicting various scenes",Limited visibility,,,"Centre St.21201
+(39.296368731808826, -76.61549394671098)",165,92,13645,256ee35a-2603-4074-b7cf-3b75d6370d78
+404,Woman's Mural Project and Ferguson,Mary Carfagno,,My Sister's Garden,1997,mural (non-city funded),21201,Cathedral and Centre Sts.,Cathedral and Centre Sts.,,Side of building with parking lot,Garden with lots of flowers,Very visible from street,,,"Cathedral and Centre Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,32deb789-c25c-47aa-a4b7-2e98a03c8598
+405,Zopf,Fernanda,,Unknown,1971,polyester resin,21212,Guilford ES,4520 York Rd.,PS 214,Courtyard,,,,,"4520 York Rd.21212
+(39.3440443106837, -76.60963380775476)",99,205,14009,bb69e5f9-953e-4296-946c-d7719aaa08be
+406,Boyajian,David,https://data.baltimorecity.gov/views/5xsg-uc29/files/B5hqs5ONbwT0inCXfwzsDCS7DWZZLSf0O95fkM9-W68?filename=698_Boyajian+D_2003.JPG,Aegean Urn,2003,urns,21202,Brookshire Suites,120 E. Lombard St.,,Flanking Brookshire Suites entrance,"Two urns, each with two gigantic wings",Very visible from street,,,"120 E. Lombard St.21202
+(39.28780268947975, -76.61239578232005)",65,6,13645,399a3fb1-3be7-47b5-9855-59978da651b9
+407,Joyner,William E.,,Unknown,1983,porcelain enameling iron,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,"Interior; hallway of music department",,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,34efa708-814d-4808-9afe-b6c25a92b478
+408,Marchewka,A,,,2007,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,3d4af7a8-c5ac-4c39-aa63-2eee3fa0f94a
+409,unknown,,,Peace Cross(Victory Cross),1920,granite,21218,Cathedral of the Incarnation,North Charles St. and University Pkwy.,,Episcopal Cathedral Grounds Charles st at University Pkwy,,,,Y,"North Charles St. and University Pkwy.21218
+(39.33257094009832, -76.61805251788434)",123,13,27307,f54fcd45-406e-419f-8406-7a67ebc12380
+410,Carlberg,Norman,,Unknown,1971,polyester resin,21214,Northern Parkway Jr. HS,2500 E. Northern Pkwy.,,"Entrance plaza, lobby",,,,,"2500 E. Northern Pkwy.21214
+(39.36644840094203, -76.56155710800374)",105,260,27291,d499febc-9775-45a1-91dd-5c579b054720
+411,unknown,,,Columbus monument,,,21213,Herring Run Park,Harford Rd. and Argonne Dr.,,,,,,,"Harford Rd. and Argonne Dr.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,db23aacf-2769-4390-9578-511f46e04bce
+412,Drumm,Don,,Unknown,,weathering steel,21213,Harford Heights ES,1901 N. Broadway,PS  36,"Interior; stairwell",,,,,"1901 N. Broadway21213
+(39.31218396061025, -76.59495781180001)",226,155,26956,28c68164-fc5d-4f97-9b45-29fbecb17b3f
+413,McRaney,Shawn,,,1999,mural,21216,Walbrook Junction Shopping Center parking lot,3411 Clifton Ave.,,Side of east wall of  Walbrook Junction Shopping Center Parking Lot,"Public transportation, including",Visible (on side wall of Walbrook Junction Shopping Center),,,"3411 Clifton Ave.21216
+(39.31096922495453, -76.67455692098531)",164,45,27297,ea653c1b-8456-4ff8-93de-045065803e72
+414,Hosler,Danamarie,,,2008,mural,21218,Giant Foods at 33rd and Greenmount,601 East 33rd Street,,mural on parking lot side of building,stylized childen with plants,"Visible from South, side street",,,"601 East 33rd Street21218
+(39.328317146899735, -76.6077462874286)",251,181,27307,6964fc09-1f92-4da9-b59f-bc687febc9b9
+415,Berge,Henry,https://data.baltimorecity.gov/views/5xsg-uc29/files/9o4fbN5yT23Qh8jaZM9Jga1l_JAYne-tOSqSRn_NdYE?filename=354_Berge+E_1926.JPG,Sea Urchin (enlargement of original by Edward Berg,1959,bronze,21202,South of Monument,Mt. Vernon,,South of Monument,fountain w/ girl standing on an urchin,highly visible,outdoor accessible,,"Mt. Vernon21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,5eb37b92-ffe7-47a6-a0f8-6f89b96e565e
+416,Waugh,Sidney,,Daniel Coit Gilman,1956,bronze,21218,Johns Hopkins University,N. Charles St.,,Shriver Hall,,,,Y,"N. Charles St.21218
+(39.33912699769189, -76.61835828737432)",99,28,27307,992594fb-f8df-4fec-afa1-637c05fdbf6c
+417,unknown,,,Granite Memorial Shaft,1943,,21223,Payson St. and Ramsey St.,Payson St. and Ramsey St.,,,,,,Y,"Payson St. and Ramsey St.21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,eb7683f1-abf2-4884-aefa-85860b2f8e35
+418,Ferguson,John,,Number 10,1978,,21210,Cross Keys Shopping Center,Cross Keys,,,,,,Y,"Cross Keys21210
+(39.34921289425051, -76.63108369408891)",214,235,14004,3100df60-aada-4ea0-b8ce-747f22820db0
+419,Bonet,Jordi,,Unknown,1969,aluminum wall relief,21213,Lake Clifton HS,2801 St. Lo Dr.,PS  40,Interior,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,6e4baf46-1c5c-4232-a362-aa747ae21261
+420,Kramer,Reuben,,Unknown,1940,concrete,21231,Frederick Douglas Homes,1500 E. Fayette St.,,Entrance,,,,,"1500 E. Fayette St.21231
+(39.293265059648235, -76.59727141683094)",70,108,27954,7bc34e5a-cfd3-4270-87dd-b9c56a802d91
+421,unknown,,,Wells and McComas Monument,1850-73,,21202,Gay and Monument Sts.,Gay and Monument Sts.,,,,,,Y,"Gay and Monument Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,96884cb3-381c-40fa-b5e6-0a5249286010
+422,Lillie,Lloyd,https://data.baltimorecity.gov/views/5xsg-uc29/files/6iwBMFEftxEgwAygyvHdUVLk5vMq7LVKLvPa2Aujx78?filename=317_Lillie+L_1987.JPG,Mayor Thomas D'Alesandro,1987,bronze,21201,CSX Promenade,1 North Charles St.,,CSX Promenade,2 bronze statues of d'alesandro,moderate,Outdoor accessible,Y,"1 North Charles St.21201
+(39.290050994552985, -76.61519267383119)",65,6,13645,6e10a826-9057-4904-a34a-d22ff958f808
+423,Silver,Jonathan,https://data.baltimorecity.gov/views/5xsg-uc29/files/Ext_6EFXsI1V1rn4bSjex3C3n257iT0DI5G3iwpU-jI?filename=16b_Silver+J_1984.JPG,Birth of Venus,1984,bronze,21201,Charles Center,31 Hopkins Plaza,,South of the Mechanic Theater,7' cast bronze of Venus,moderate,Outdoor accessible,,"31 Hopkins Plaza21201
+(39.289250243493235, -76.61627047323799)",65,6,13642,ca3ab1ef-c623-4aa1-a57d-505b6ab7cc7d
+424,unknown,,,Harbor Sound Bell,,,21202,"Fingers Pier, Inner Harbor",,,,,,,,"21202(39.297300000000064, -76.60749999999996)",196,108,13645,a92d2838-ac79-4fe5-93bf-ea6d9ae37553
+425,Kasuba,Aleksandra,,Unknown,1969,tiles,21213,Lake Clifton HS,2801 St. Lo Dr.,PS 40,Interior,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,1d480b9b-b159-46f4-9820-148e2b94b912
+426,Streett,Tylden,,giraffe,1968,stainless steel,21230,Lakeland ES,2921 Stranden Rd.,,exterior,,,,,"2921 Stranden Rd.21230
+(39.254161262019814, -76.64520850795124)",134,162,27953,5d50e34e-068f-47d6-8b89-9ac338626eef
+427,Bufano,Benjamin,,Dromedary Camel,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,80b25238-5840-4b53-9b70-e8e0aa8ee202
+428,Edmister,Stan,https://data.baltimorecity.gov/views/5xsg-uc29/files/IcSmzlvzT-jOXeRS7r7POUhtZMgxzsSwt_TTjUG39Eo?filename=694c_Edmister+S_2005.JPG,,2005,bridge repainting,21218,Howard St. Bridge over Jones Falls Expressway,Howard St. Bridge,,Howard St. Bridge over JFX,Bridge,Very visible from street,,,"Howard St. Bridge21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,09ca257a-835f-4450-bb3d-dad05786679f
+429,Kaslow,Lisa,,The Quest,1984,steel,21224,Canton Jr. HS,801 Highland Ave.,,Over entrance,,,,,"801 Highland Ave.21224
+(39.28347427908325, -76.56875161558767)",30,130,27935,d76dc031-d340-41cb-931e-d0e9a0c0cdb5
+430,Fraser,Laura Gardin,,Isaiah Bowman,1955,bronze,21218,Johns Hopkins University,N. Charles St.,,Shriver Hall,,,,Y,"N. Charles St.21218
+(39.33912699769189, -76.61835828737432)",99,28,27307,1c277b29-5674-4215-aed5-480c802dc5a6
+431,Mack,Nathaniel,,Unknown,1978,mural,21202,Baltimore City Jail,401 E. Eager St.,,Kitchen dining facility,,,,,"401 E. Eager St.21202
+(39.301167824394156, -76.61079547784391)",196,91,13645,8122e4ed-569c-42a0-b1a6-ad48f197be89
+432,Rhoden,John W.,,Unknown,1970,metal wall sculpture,21213,Lake Clifton HS,2801 St. Lo Dr.,PS 40,Interior,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,f7cb852d-ad9e-48e2-8e08-6b371b554122
+433,Sanborn,James,,Cold Spring Outcrop,1983,limestone,21215,West Cold Spring Station,W. Cold Spring Ln. at Wabash Ave.,,Metro stop,,,,,"W. Cold Spring Ln. at Wabash Ave.21215
+(39.33656392990838, -76.67402632098799)",7,69,27295,b1ee3e65-49dd-4fb2-95e3-b4889b353efa
+434,Labadie,Kevin,,Unknown,,oil on canvas,21211,Roosevelt Recreation Center,1201 W. 36th St.,,Activity room wall,,,,,"1201 W. 36th St.21211
+(39.33073632315853, -76.63557131101516)",102,20,14006,6dfcb77b-a42b-4177-9e36-dd0a43fd31d2
+435,"Valk, III",Arthur D.,,Freedom Park,,,21202,Lloyd and Watson Sts.,Lloyd and Watson Sts.,,,,,,,"Lloyd and Watson Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,6b0fd32e-6e6f-4a49-bb72-60dd7ccfddf0
+436,Shaw,Ernest,,,2000,mural,21202,1207 E. North Ave.,1207 E. North Ave.,,Side of building with park,,Visible,,,"1207 E. North Ave.21202
+(39.31180559444175, -76.60210753830489)",73,193,13645,d6f9dbee-889a-49b0-96d7-926e76f4583e
+437,Flood,James,,Unknown,1990,Formica frames,21207,Garrison MS,3910 Barrington Rd.,PS 142,Interior,,,,,"3910 Barrington Rd.21207
+(39.33138383501961, -76.68459335483226)",38,64,13995,c83d0b59-a820-43a4-8545-7c3837ccee80
+438,Noguchi,Isamu,,Untitled,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,731a9cf3-7cef-4f96-bc1a-fa667be2c8e9
+439,Rogers,Terry P.,,Unknown,1981,mural,21202,Civil Services Renovation,111 N. Calvert St.,,Interior,,,,,"111 N. Calvert St.21202
+(39.29078843861703, -76.61229685689682)",65,6,13645,f8dca2d8-d6ce-4977-955e-f774d2a15d5c
+440,Ferguson,Robert,,Citisphere,1979,stainless steel,21218,Baltimore City College,33rd St. and The Alameda,PS 480,East courtyard,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,753b5bfa-f8f1-41d4-a704-55ee4fc7ab71
+441,unknown,,,sun dial,1933,,21230,Carroll Park,Caroll Park,,Rear of Mt. Claire mansion,,,,,"Caroll Park21230
+(39.28203353866178, -76.6312635584948)",250,168,27953,f2446e4b-2d76-4ce9-89f6-6b3eb0c6ff18
+442,Ellsberry,John,,,1998,mural,21230,Ramsay and Cross Sts.,Ramsay and Cross Sts.,,Side of Baltimore and Ohio Railroad Museum,"Train; three figures working",Visible,,,"Ramsay and Cross Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,8582439d-eae1-4bf1-9004-9ce861b74463
+443,Cea,Dominic,,Atlantic Blue Roller Column or Interlocking Piece ,1977,painted steel,,Russell St. Median strip,Russell St.,,Median strip near Oriole Park,,,,,Russell St.,,,,d35ac677-a625-47ee-b155-07318e5fc00b
+444,Gavin,Chris,,Unknown,,painted steel,21210,Roland Park E/MS,5207 Roland Ave.,PS 233,Auditorium,,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,eb1d7e1c-b301-4e70-954e-041d9262a119
+445,Mercie,Jean M.A.,,Francis Scott Key Monument,1911,,21217,Eutaw Place,1280 Eutaw Pl,,,,,,Y,"1280 Eutaw Pl21217
+(39.30358891907117, -76.62606168814928)",144,94,27301,11301a66-8261-4303-9a84-4d17b774f81e
+446,Russum,Jean,,Unknown,1968,cast stone,21213,Furley ES,4633 Furley Ave.,PS 206,Top of building,,,,,"4633 Furley Ave.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,2f288214-8149-4ca2-a266-907f6daede6b
+447,Evans,John,,Baltimore Gas and Electric Building frieze,,,21202,Charles Center,Charles Center,,,,,,,"Charles Center21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,e267d004-7e4c-4d2b-9109-9cf2ce1a1386
+448,Wilson,Edward N.,,Unknown,1970,metal sculpture,21213,Lake Clifton HS,2801 St. Lo Dr.,PS  40,Interior,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,0ec60102-03b7-4538-b783-d213594973db
+449,unknown,,,The Young Seated Mercury,,,21218,Baltimore Museum of Art,10 Art Museum Dr.,,West garden,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,575ff28b-cdc0-42d8-a3f4-6bba27a29dc7
+450,Baumstark,Gustave,https://data.baltimorecity.gov/views/5xsg-uc29/files/tE24Y3F7a1E9QdG7luYIbkzIgApfOCgJ44m1HQsVhss?filename=564_Baumstark_1903.jpg,Unknown,1903,stainglass,21202,Alexander Brown & Sons,135 E. Baltimore St.,,Dome,,,,,"135 E. Baltimore St.21202
+(39.28958334709779, -76.61251269418386)",65,6,13645,68eeb88a-8a72-4745-866a-4e8bf640376c
+451,Scuris,Theodore,,Give Peace A Chance,1970,aluminum,21218,Johns Hopkins University,N. Charles St.,,"Wyman Quad ""lower quad'",,,,Y,"N. Charles St.21218
+(39.33912699769189, -76.61835828737432)",99,28,27307,b7bd6d31-2946-42ad-986c-0431ecf093c0
+452,Goldstein,Gladys,,Unknown,1976,mural,21230,Morrell Park ES,2400 Washington Blvd.,PS 220,Interior,,,,,"2400 Washington Blvd.21230
+(39.26841045472528, -76.65057636750728)",162,164,27953,c1bb852a-ebc1-4efd-932c-b1d712246721
+453,DePalma,Linda,https://data.baltimorecity.gov/views/5xsg-uc29/files/vnlHmlLcKA8HUsxr6ckc1ZDIj0WB7_TmmLFdHdl3fZk?filename=30_DePalma+L_1987.JPG,Ground Play,1987,"concrete, aluminum, steel",21208,Old Court Station (Metro),4400 Old Court Road,,"Flood plane, between tracks and parking lot","largescale site work with checkerboard, whirled ground, a child's figure, ball, and two columns supporting a chair and man figure.",moderately visible,Outdoor acessible,,"4400 Old Court Road21208
+(39.37076277976509, -76.74324870143664)",,,13998,ee8ee8ec-4360-41af-8fa8-74a9726b4306
+454,Lais,Sami,,Unknown,1978,fabric wall hanging,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,0e3e33e8-5f4b-4432-a060-f3932b082da8
+455,Majorowicz,Roger,,Unknown,1973,sheet bronze doors,21215,Greenspring Jr. HS,Greenspring and Woodland Aves.,PS  82,May have been relocated to interior,,,,,"Greenspring and Woodland Aves.21215
+(39.34556999999995, -76.68362000000002)",5,244,27295,550841b5-d72b-432c-a95f-832b28e68def
+456,Ono,Setsuko,https://data.baltimorecity.gov/views/5xsg-uc29/files/igb7NpUx4tdvtXeAb-Vq82eWvfMcfQ_tKFhrBTN3RKU?filename=754a_Ono+S_2005.jpg,Good News! Earth Is Dancing,2005,painted steel,21201,Convention Center,1 Pratt St.,,"Exhibition Hall E, Upstairs near café",3 self standing red and silver dancing figures,Not very visible in rear corner of café,Indoor Accessible,,"1 Pratt St.21201
+(39.286434077725616, -76.61514965903694)",241,3,13642,182c5953-c01f-46f5-ae70-45ec428820d6
+457,Kissack and Ross,Lyle and Gerald,,,1995,mural,21215,4000 Park Heights Ave.,4000 Park Heights Ave.,,Side of building,"People from community linked, forming a pyramid",Very visible,,,"4000 Park Heights Ave.21215
+(39.33472931296865, -76.66280278206233)",43,70,27295,6be74c75-cd79-48cf-9e12-b992a9449f7c
+458,Owen,Michael,,,2008,mural,21218,Giant Foods at 33rd and Greenmount,601 East 33rd Street,,two murals on side of building,"collage of various figures, foliage, and birds","Very Visible, facing side street on Greenmount",,,"601 East 33rd Street21218
+(39.328317146899735, -76.6077462874286)",251,181,27307,6609f312-54bc-44a9-ace8-8b0d99c8800d
+459,Goodman,Seth,,,2008,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,"abstract design, cellular pink and grey",Visible in corner area,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,7ba1760c-4898-4583-8faf-38db1b87d96c
+460,unknown,,,"""Calvert Street Bridge"" Lions (3)",1879,Sandstone,21217,Lanvale St. Park in Bolton Hill,Lanvale Street Park,,,,,,,"Lanvale Street Park21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,28796730-8da0-4a75-8f2e-c39f994a21ab
+461,Streckfus,Leonard,https://data.baltimorecity.gov/views/5xsg-uc29/files/10GFHWo8kdORKZNa1nJyRxRIFTuK1ZQPWIk3NQJik7o?filename=406b_Streckfus+L_1991.jpg,"""Dolphin Fountain""",1991,bronze,21201,National Aquarium - mammal pavillion,501 E. Pratt Street,,"Mammal pavillion, across bridge to Pier 4","5 dolphins jumping in large, angular fountain",Moderately visible,Outdoor accessible,Y,"501 E. Pratt Street21201
+(39.286191279861015, -76.62208503141323)",241,1,13642,4cc35062-7361-4235-bacb-2520a66877be
+462,"Godefroy, architect and Capellano, sculptor",Maximilien and Antonio,https://data.baltimorecity.gov/views/5xsg-uc29/files/zurLimpTJQtaB_xAJL3BYkOg6h4n5m6yzXbnoGGDFEM?filename=321_Godefroy+1815.jpg,The Battle Monument,1815-25,marble,21202,Calvert St. and Fayette St.,Calvert St. and Fayette St.,,Calvert and Fayette Sts.,,,,Y,"Calvert St. and Fayette St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,36ba4b64-7a81-4178-929a-af2f3a8fa8d4
+463,Golde,R.P.,,Wagner,1900,bronze,21217,Druid Hill Park,Druid Hill Park,,Lawn of mansion,,,,Y,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,750c77fb-8554-49f9-9fd8-0d433cc3ef18
+464,Gibbs,Nathaniel,,The Arts,1984/02,oil/canvas,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,Lower level hallway,,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,c1ae4082-1127-455c-a91e-412234de92d2
+465,Stevenson,D.W.,,Wallace Monument,1890,bronze,21217,Druid Hill Park,Druid Hill Park,,Lake drive,,,,Y,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,fdfa6443-e004-4945-905f-5b18f9ff8cd6
+466,Aycock,Alice,https://data.baltimorecity.gov/views/5xsg-uc29/files/BzyTnpL2_oPYNIwGEkQNlIrVhvg8BzZlpu6d0_yFgvA?filename=563_Aycock+A_2004.JPG,Swung Over,2004,stainless steel / aluminum?,21201,Fallon Federal Building,31 Hopkins Plaza,,Hopkins Plaza entrance,Gigantic musical instruments,Visible,Outdoor accessible,,"31 Hopkins Plaza21201
+(39.289250243493235, -76.61627047323799)",65,6,13642,589790e7-ed27-4c30-a120-c5290eb4694f
+467,Remington,Bill,,,2007,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,78e09377-dbbf-4c10-8661-ec2e598ea768
+468,Moore Jones,Chevelle M.,,,1988,mural,21223,Hollins Market Parking Lot,Hollins Market Parking Lot,,Side of wall above Hollins Market Parking Lot,Woman with dreads and funky/ happy colors,Visible,,,"Hollins Market Parking Lot21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,78494045-0dd5-447e-b2f9-9dc4f2fb05bc
+469,Berge,Edward,,Colonel George Armistead Monument,1914,bronze,21230,Fort McHenry,Fort McHenry,,,,,,Y,"Fort McHenry21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,a3ecd726-a3c5-4d1e-b60a-572a6060bb73
+470,Hanbury,Una,,Unknown,1967,sculpture,21201,Medical Examiners Building,111 Penn St.,,Interior,,,,,"111 Penn St.21201
+(39.2873498103174, -76.62586208378553)",238,5,13642,fcd4d09f-8802-4a79-8795-3b0776823756
+471,Rolph,Stafford,,The Forum Fountain,1975,concrete,21231,Paul Laurence Dunbar HS,1400 Orleans St.,,Behind the school,,,,,"1400 Orleans St.21231
+(39.295132164018526, -76.59860917561087)",70,30,13987,84cd68ce-9e24-4c5b-b02f-8ba072bf2e86
+472,Leizman,William,,Unknown,,weathering steel,21215,George W.F. McMechen Jr./Sr. High School,4411 Garrison Blvd.,PS 177,"Exterior; front lawn",,,,,"4411 Garrison Blvd.21215
+(39.33727439431152, -76.68473724635697)",34,65,27295,fe296fc6-4191-4ce2-8c1a-67c4535c0342
+473,Stewart and Urban Experience,Benari,,,2004,mural,21223,200 N. Bentalou St.,200 N. Bentalou St.,,Side of building,"Young boy in foreground; three children examing globe and MLK in background; ""It is a dream deeply rooted in the american dream.""",Limited visibility,,,"200 N. Bentalou St.21223
+(39.29096830302291, -76.65301815838353)",197,80,27632,1e4747e1-c627-4669-9960-8e7cac426d8b
+474,Mears,Mary Ann,,Boanerges,1976,corten steel,21206,North East MS,5001 Moravia Rd.,PS  49,Rear plaza,,,,,"5001 Moravia Rd.21206
+(39.32495368251011, -76.55089114873624)",46,202,13991,ebe7f0b8-0dd4-48eb-a67e-881fe59d6849
+475,Bertoia,Harry,,Unknown,1969,bronze and welded copper ,21213,Lake Clifton HS,2801 St. Lo Dr.,PS  40,Courtyard,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,ad08de7f-7d25-40cf-b6e8-bf2b2b077702
+476,Streett,Tylden,,Unknown,1971,metal,21213,Brehms Lane ES,3536 Brehms Ln.,PS 231,Interior,,,,,"3536 Brehms Ln.21213
+(39.32090673337831, -76.56642244018224)",275,199,26956,fa22ca62-2ff7-42a7-b832-1160591f8cf8
+477,Mullen with Community Youth,Gary,,And Still We Rise,2001,mural,21223,N. Stricker and W. Franklin Sts.,N. Stricker and W. Franklin Sts.,,Side of building,"Depiction of the African American struggle to succeed, with ultimate success",Visible,,,"N. Stricker and W. Franklin Sts.21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,ed4ecef6-fb4b-4fc2-821b-9d6aa6ed72e0
+478,Hurst,Lawrence,,Unknown,1984/02,oil/masonite,21217,Frederick Douglass HS,2301 Gwynns Falls Pkwy.,PS 450,"Interior; ceremonial lobby",,,,,"2301 Gwynns Falls Pkwy.21217
+(39.31568167238805, -76.65537438210032)",157,40,27297,9c89c36b-c717-4193-ac1c-47af7d8c223d
+479,Bufano,Benjamin,,Bactrian Camel,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,1d61276f-6454-432a-81d5-a7dd9327c5d8
+480,Miller,Tom,,,1996,mural,21213,North and Harford Rds.,North and Harford Rds.,,Two murals on west and east side of Harford Rd. at North Ave.,"Two murals; man reading and boy playing",Very Visible (on Harford Rd.),,,"North and Harford Rds.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,e76b79a8-4d12-43dd-8322-a173779ff288
+481,Brown,Hilton,,Unknown,1977,mural,21229,Thomas Johnson ES and Recreation Center,1610 Johnson St.,PS  84,Interior,,,,,"1610 Johnson St.21229
+(39.284350000000074, -76.69003999999995)",122,51,27950,020597f5-1895-483f-94c6-aaf80843661b
+482,Berge,Edward,,Watson Monument,1903,bronze,21217,Mount Royal Terrace at North Ave.,Mount Royal Terrace at North Ave.,,Northwest corner of Mt. Royal and North Ave,,,,Y,"Mount Royal Terrace at North Ave.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,80c2dd71-512e-4eb1-9f19-c09fe7d989fa
+483,Edmister,Stan,,Untitled,1969,steel,21217,Maryland Institute College of Art/ Old Train Stion,1300 Mt. Royal Ave.,,Lawn of Old Train Station Bulding,,,,,"1300 Mt. Royal Ave.21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,4989b32f-07e8-4912-957d-178be2f27ca5
+484,Kaslow,Lisa,,The Rescue,1992,steel,21207,Fire station Co.12 West Wall,3960 Liberty Heights Ave.,,West wall of station,"Fireman and woman; fireman entering building with fire truck below",Visible,,,"3960 Liberty Heights Ave.21207
+(39.32804145953534, -76.68457044687997)",38,64,13995,0283a4c9-da7c-4fa6-a118-1e5dbf9cd3f8
+485,unknown,,,War Memorial,1918,,21230,Carroll Park,Carroll Park,,,,,,,"Carroll Park21230
+(39.28203353866178, -76.6312635584948)",250,168,27953,16279573-8245-47d0-aa57-cfb8ff0faa8f
+486,Bonet,Jordi,,Unknown,1974,aluminum relief,21229,West Baltimore MS,201 North Bend Rd.,PS  80,Exterior,,,,,"201 North Bend Rd.21229
+(39.2828564183186, -76.70573641574111)",257,280,27950,d15816b8-35d1-4e35-9a51-aedefe659258
+487,James,Shawn,,,1999,mural,21230,1170 Carroll St.,1170 Carroll St.,,Side of building facing Ostend St.,Representative images of community and Baltimore,Visible,,,"1170 Carroll St.21230
+(39.280967842057066, -76.63281938560544)",250,177,27953,0465ef89-46aa-4a27-a4c4-149590674db8
+488,Leizman,William,,Unknown,1968,weathering steel,21229,Rognel Heights ES,4300 Sidehill Rd.,PS  89,Cafeteria wall exterior,,,,,"4300 Sidehill Rd.21229
+(39.2977312046832, -76.69203074801459)",213,54,27950,6a88b928-2331-4960-85a4-87adff4cac10
+489,Ellsberry,John,,,1987,mural,21211,600 W. 28th St.,600 W. 28th St.,,,,,,,"600 W. 28th St.21211
+(39.33100999999999, -76.63518999999991)",102,20,14006,084d3c57-7265-42c8-8cf8-78a865130958
+490,Henning,Herman,,Lady Baltimore,1880,limestone,21217,"Mt. Royal Dr., Reservoir Hill","Mt. Royal Dr., Reservoir Hill",,Narrow green strip allong Mt. Royal Terrace,,,,,"Mt. Royal Dr., Reservoir Hill21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,a14b4c04-a32e-4d5f-b6f0-66088941ff77
+491,unknown,,,Untitled,,,21215,Strathmore Tower Condominium,6210 Park Heights Ave,,,,,,,"6210 Park Heights Ave21215
+(39.35853436708419, -76.69366751410791)",58,249,27295,3af4a135-9965-4b1f-84f6-7da1e9fd24fc
+492,Streett,Tylden,,turtle,1968,stainless steel,21230,Lakeland ES,2921 Stranden Rd.,,exterior,,,,,"2921 Stranden Rd.21230
+(39.254161262019814, -76.64520850795124)",134,162,27953,db7c61f6-9558-4ba3-8523-8390a0ac53a8
+493,Sanborn,James,,Patapsco River Project,1977,"concrete, steel, aluminum",21225/ Cherry Hill,Open space,Hanover and Reedbird Sts.,,Small park,,,,,"Hanover and Reedbird Sts.21225/ Cherry Hill
+(39.22678000000002, -76.61608999999999)",,,27937,799b0991-7130-4ec8-8298-0fbe3fc8a7d0
+494,Hoffmaster,Thomas,,Unknown,1973,welded metal wall sculptu,21202,Transit and Traffic Building,414 N. Calvert St.,,Interior,,,,,"414 N. Calvert St.21202
+(39.29446666571687, -76.61265658570858)",65,6,13645,43dc20b5-205c-454e-b312-5fadcc0effe3
+495,Schuler,Hans,,Fifth Regiment Armory Tablet,1923,bronze,21217,Fifth Regiment Armory,29th Division St. and Dolphin St.,,,,,,Y,"29th Division St. and Dolphin St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,16a61243-8c01-432d-ade3-421ff2ddf503
+496,Drumm,Don,,Solar Totum IV,1975,corten steel,21213,Harford Heights ES,1901 N. Broadway,PS  36,Entrance plaza,,,,,"1901 N. Broadway21213
+(39.31218396061025, -76.59495781180001)",226,155,26956,9e933a07-bfa3-4cf2-a61c-72f89d5b4dd2
+497,"O'Connor, artist and Hastings, landscape architect",Andrew and Thomas,https://data.baltimorecity.gov/views/5xsg-uc29/files/Gw2-PpbnkYCT9cggckCxoLtF2zng9Is0TBVpV7S6RdE?filename=312_O%27Connor+A_1924.JPG,Lafayette Monument,1924,bronze,21201/02,Mount Vernon Sq.,Mount Vernon Sq.,,South of the Washington Monument,Lafayette seated on horse,highly visible,outdoor accessible,Y,"Mount Vernon Sq.21201/02
+(39.294880000000035, -76.62253999999996)",224,90,13642,82f7051b-e00f-47e8-bdcf-e79a07451aa2
+498,Stevens,David,,Unknown,1989,stained glass,21215,Arlington ES,3705 W. Rogers Ave.,PS 234,"Interior; front façade",,,,,"3705 W. Rogers Ave.21215
+(39.35061134000608, -76.6853577785572)",5,244,27295,09a2b31a-6d92-4acc-84d0-3dccc5a943be
+499,Veale,Archie,,,1994,mural,21223,400 N. Pulaski St.,400 N. Pulaski St.,,Side of wall on Pulaski St.,Boy planting seeds,Very visible,,,"400 N. Pulaski St.21223
+(39.292804555825306, -76.65038238493479)",153,80,27632,b3d78aa0-c091-4ca7-b7d9-a8f2933a2c70
+500,Lachaise,Gaston,,Standing Woman (Elevation),,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,ec5ccf19-cb0d-4b5c-b913-c89134b25a79
+501,Takacs,Paul,,Knowledge,1974,weathering steel,21224,Southeast MS,6820 Fait St.,PS 255,"Exterior; right of entrance",,,,,"6820 Fait St.21224
+(39.28482430743772, -76.53075540992066)",94,135,27935,e5bbe28c-d642-4261-bceb-09882b7fd092
+502,Daniel,Paul,,Harpie,1978,steel and corten,21207,Liberty Recreation Center,3901 Maine Ave.,,Above entrance,,,,,"3901 Maine Ave.21207
+(39.326392597757035, -76.68362208704065)",41,64,13995,51a21b20-cf07-4da7-ac48-36242e87cd2e
+503,Hoffmaster,Thomas,,Unknown,1970,welded metal sculpture,21218,Waverly Branch Library,300 E. 33rd St.,,Interior,,,,,"300 E. 33rd St.21218
+(39.32834412656058, -76.61336705011172)",177,35,27307,0fabd6e8-a14a-4de1-bbde-7eb7c340f4ab
+504,Lawrence,Charles,,,2000,mural,21213,2124 Mura St.,2124 Mura St.,,Side of building with community park,"Baltimore locales: Washington Monument, Maryland Science Center",Visible,,,"2124 Mura St.21213
+(39.30508765888288, -76.58733167736347)",23,153,26956,bb202554-cc67-4cab-87f5-07dd799022e6
+505,Carfagno Ferguson,Mary,,,1997,mural,21223,Ramsey and Monroe Sts.,Ramsey and Monroe Sts.,,Side of two adjacent buildings,A boy and a girl playing marbles,Very visible,,,"Ramsey and Monroe Sts.21223
+(39.28365000000008, -76.65196999999989)",36,279,27632,318008be-9f5f-40d4-be8a-5d39e4b298b1
+506,Durang,Edward F.,,Thomas Wildey Monument,1865,marble,21231,Broadway and E. Fayette Sts.,Broadway and E. Fayette Sts.,,Median,,,,Y,"Broadway and E. Fayette Sts.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,a8fe0dfe-cc21-45e4-bb3f-62eb493287f9
+507,Woodward,William,,Unknown,1967,metal wall sculpture,21217,Eutaw Place ES,1624 Eutaw Pl.,PS 11,Exterior,,,,,"1624 Eutaw Pl.21217
+(39.306769391077694, -76.62980665680732)",144,99,27301,10cd183c-a810-4d5b-a87e-4f512243ecda
+508,Boudman,E. Clifton,,The What Knot - 'Linear Growth Structure',1968,painted steel,21216,Easterwood Park Recreation Center,1530 N. Bentalou St.,,Front lawn,,,,,"1530 N. Bentalou St.21216
+(39.30544144632868, -76.6539240445626)",56,29,27297,5ca67806-240b-4802-908d-ad4817b9529e
+509,Reed,Robert,,Unknown,,steel,21217,Maryland Institute College of Art,1300 Mt. Royal Ave.,,Fox Building lawn,,,,,"1300 Mt. Royal Ave.21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,9d2483d5-7004-493b-8028-6e59756749bd
+510,Rattigan,Jenn,,,2006,mural,21211,36th Street and Roland Avenue,36th Street and Roland Avenue,,"On front side of building, 3rd floor",painted American flag commemorating Hampden,Very Visible,,,"36th Street and Roland Avenue21211
+(39.33108705874997, -76.6326575076402)",102,73,14006,07a9c3f7-9acc-424f-b4ac-d07da900a996
+511,Ferrandi,George,,,1990,mural,21218,2310 Harford Rd.,2310 Harford Rd.,,Side of building at top facing gas station,Carnival-like mural with amusement park rides in background and different style buildings in the foreground,Visible,,,"2310 Harford Rd.21218
+(39.31602341475917, -76.59610006714917)",73,198,27307,951f721c-088d-44e7-9635-558640864e08
+512,Edmister,Stan,,Untitled,,,21227,Hollins Ferry Playground,Hollins Ferry Playground,,,,,,,"Hollins Ferry Playground21227
+(39.240729999999985, -76.67995000000002)",,,27944,ae44d375-6f1a-44a4-9449-46a5891d5813
+513,Christie,Rupp,,,1996,Fiberglass & Clock,21217,Mt. Royal & Dolphin Street,Mt. Royal & Dolphin Street,,On side of building - Visible on Mt. Royal Ave.,Snail with Clock inside on side of Building,Very Visible,,,"Mt. Royal & Dolphin Street21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,cb23fc9d-e092-4d98-8134-bcc94e80dc94
+514,Richier,Germaine,,Tauromachy,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,03f6c4f9-3010-4f17-9184-4e7fd86e6458
+515,Scott,Joyce C.,,Unknown,1978,fiber,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Interior,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,14dd6322-af19-4b6d-8d15-a2bc9837cdf8
+516,Corner,Thomas,https://data.baltimorecity.gov/views/5xsg-uc29/files/EfT9mMnl_atVAMOJZhSOnuCiCdu3ZZgPvSjqyS4X4kU?filename=565_Corner_1903.jpg,Alexander Brown & Four Sons,1903,portrait,21202,Alexander Brown & Sons,135 E. Baltimore St.,,North-west Bay Interior,,,,,"135 E. Baltimore St.21202
+(39.28958334709779, -76.61251269418386)",65,6,13645,ae685b5b-4aae-487b-9760-a9a28bd47f47
+517,Kissack,Lyle,,,1999,mural,21218,450 E. 22nd St.,450 E. 22nd St.,,Side of building facing Greenmount Ave.,People in community,Very visible,,,"450 E. 22nd St.21218
+(39.31451255374998, -76.60966184335098)",10,11,27307,693d10f1-f218-4c4b-a0bb-29af64bce4f5
+518,Ito,Saburo,https://data.baltimorecity.gov/views/5xsg-uc29/files/PwG5FHFVw1zinPWW3eqKjMSEIXsPeiohKa57z3hheHg?filename=752_Ito+S_+1984.jpg,Yuai,1984,stone,21230,Inner Harbor,,,"southside, east of Science Center","stone column and plaque from Baltimore's sister city, Kawasaki, Japan",Visible from within harbor,,,"21230(39.266940000000034, -76.62630000000001)",258,151,27953,4e78dcf7-9a2f-4f8a-810e-68ebc5d9db14
+519,Whiting,Edmund,,Unknown,1972,copper,21230,Federal Hill ES,1040 Williams St.,PS  45,Entrance plaza,,,,,"1040 Williams St.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,51f50801-7104-4e1d-8d89-b0cda6532f9a
+520,Berge (See Capellano original 1818),Henery,,Angel of Truth,1960,terra cotta,21201,First Unitarian Church,12 W. Franklin St. at Charles St.,,Entrance pediment,,,,,"12 W. Franklin St. at Charles St.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,6f85c2eb-b004-44d0-ba32-1fb242e88603
+521,Schuler,Hans,,Star Spangled Banner,1914,bronze,21233,City Hall,100 Holliday St,,,,,,Y,"100 Holliday St21233
+(39.2912, -76.60457999999994)",110,108,13645,088d909f-fb64-4de1-9c35-7b7ee50e0f4b
+522,"Valk, III",Arthur D.,,Holocaust Memorial,,,21202,Gay and Water Streets,Gay and Water Sts.,,,,,,,"Gay and Water Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,8da7cd4d-cd43-464c-89c0-97817a83090b
+523,Berge,Henry,,Father and Children,1954,concrete,21225,Cherry Hill Recreation Center,2700 Spelman Rd.,,,,,,,"2700 Spelman Rd.21225
+(39.24715712417602, -76.62890291363138)",47,149,27937,04829c47-fa0e-4f29-90c8-04effe4a778c
+524,Majorowicz,Roger,,Unknown,,stainless steel and alumi,21213,Dr. Bernard Harris Senior ES,1400 N. Caroline St.,PS 250,"Interior; auditorium",,,,,"1400 N. Caroline St.21213
+(39.30681435717918, -76.5981235417151)",180,154,26956,2ac6be76-5c75-4309-88d9-3c13a0e719d1
+525,Evergreen House,,,Biennial exhibition,ongoing,sculpture,21210,Evergreen House,4545 N. Charles St.,,On the grounds of the Evergreen House,Currently no artwork,N/A,,,"4545 N. Charles St.21210
+(39.34749968578467, -76.62247718226854)",142,235,14004,945b8a87-661c-41f1-b81a-99f039d08f7f
+526,Storey,Willam W.,https://data.baltimorecity.gov/views/5xsg-uc29/files/aZBtG4sxdOcxL4XOh8TP1xkINtlbbzld7mvmBKn300A?filename=316a_Storey+W_1890.JPG,George Peabody,1890,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,East of Monument,"George Peabody, seated",highly visible,outdoor accessible,Y,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,fb3132fc-f3c1-4d83-a86f-5c11af243164
+527,Schuler,Hans,,Samuel Smith Monument,1917,bronze,21218,Johns Hopkins University,N. Charles St.,,Federal hill,,,,Y,"N. Charles St.21218
+(39.33912699769189, -76.61835828737432)",99,28,27307,a2920478-9be1-436b-8921-31547f810d04
+528,DuBois,Paul,https://data.baltimorecity.gov/views/5xsg-uc29/files/Cei80JiOZvuPWXwsUSFSZV6ptyrWbaPXS2rJvtFipn8?filename=458_Dubois+P_1885.JPG,Military Courage,1885,bronze,21201,Mount Vernon Place West Garden,Mount Vernon Pl.,,West of Monument,Seated Roman Soldier,Highly visible,Outdoor acessible,,"Mount Vernon Pl.21201
+(39.29730928950913, -76.61563717252402)",165,92,13645,7a334b7a-8da4-48d6-99a2-0782c4e041d4
+529,Hosler,Danamarie,,,2008,mural,21218,21st street & Boone,548 East 21st Street,,"Side of rowhouse, garden infront",stylized children and plants,Very Visible,,,"548 East 21st Street21218
+(39.31359634135141, -76.60923370933864)",73,157,27307,f8283b99-bbb6-47ad-9568-96068a750db9
+530,Carfagno Ferguson,Mary,,,1998,mural,21213,1756 E. Preston St.,1756 E. Preston St.,,Side of building,Amtrak train and buildings,Visible,,,"1756 E. Preston St.21213
+(39.30541141481342, -76.59271861631896)",23,100,26956,24eafc92-e743-4432-bcbb-1290a3793755
+531,Marcks,Gerhard,,Prometheus Bound II,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,d3bbf8cd-cddf-41c8-902e-ae8c771cb029
+532,unknown,,,Serviceman's Memorial,1945,,21211,Wyman Park Dr. and San Martin Dr.,Wyman Park and San Martin Dr.,,,,,,Y,"Wyman Park and San Martin Dr.21211
+(39.33100999999999, -76.63518999999991)",102,20,14006,8e924b27-51ce-42c5-b061-aae69b81bcca
+533,Carlberg,Norman,,Caterpillar,1976,corten steel,21209,Dallas Nichols ES,201 E. 21st Street,PS  39,Front of school,,,,,"201 E. 21st Street21209
+(39.37230000000005, -76.66813000000002)",,,14001,378c58a1-7bad-480b-9ac7-7bcf9ee389e4
+534,unknown,,,World War II Memorial Shaft,,,21217,Fifth Regiment Armory,219 W. Hoffman St,,,,,,,"219 W. Hoffman St21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,32886793-dbac-411a-9e2e-bb2ac139d888
+535,Kaslow,Lisa,,Hi-Fly,1978,painted steel,21218,Baltimore City College,33rd St. and The Alameda,PS 480,Entrance to the gymnasium,,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,bf1bd3c9-674d-461b-bfe0-d1a1542e3951
+536,Rinehart,William Henry,https://data.baltimorecity.gov/views/5xsg-uc29/files/Vq8I6TaAsql5H4C3cARYrgHIcvmONTmptbEyrhieC0U?filename=315_Rinehart+W_1887.JPG,Roger B. Taney,1887,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,Southern end of garden,,highly visible,outdoor accessible,Y,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,b663f832-d070-4ad2-b525-a3f6f9b48778
+537,Mezensky,Andrew,,# 31,1976,painted steel,21217,Harriet Tubman ES,1807 Harlem Ave.,PS 138,Near entrance,,,,,"1807 Harlem Ave.21217
+(39.29640920130015, -76.64665995163642)",106,88,27301,edfff58a-c554-48f1-a517-4b47c0caa87a
+538,Evans,John,https://data.baltimorecity.gov/views/5xsg-uc29/files/Xh-xxlueXUleS395U-Flhy8id_nbdV9lcBTXk48ujlg?filename=532a_Evans+J_1906.jpg,Mercury and Commerce,1906,granite,21201,B & O Central Building,2 N Charles St.,,Over main entrance,,,,,"2 N Charles St.21201
+(39.28984415048626, -76.61516569417029)",65,6,13645,b26bb0a6-e407-4c55-9a2e-4a5688755aad
+539,Mason,Pontella,,,2007,mural,21205,2424 McElderry Street,2424 McElderry Street,,on side of building,,,,,"2424 McElderry Street21205
+(39.29776877923117, -76.58289911054764)",141,125,13987,79ba7a4d-b588-4f88-b0e9-bfc9f6121391
+540,Coe,Henry,,Unknown,1976,mural,21239,Lois T. Murray ES,1600 E. Arlington Ave.,PS 313,Interior,,,,,"1600 E. Arlington Ave.21239
+(39.346581562929025, -76.58879696384052)",229,221,28564,2e580bbd-89c5-48bc-97eb-db8514e5bf47
+541,Jones [Theo Alice Ruggles Kitson- SOS],George F.,,Spanish War Veterans Memorial [The Rifleman/Hiker],1943,bronze,21224,Pulaski Highway,Fayette and Lakewood Sts.,,Median,,,,,"Fayette and Lakewood Sts.21224
+(39.2834400000001, -76.54115999999999)",203,135,27935,1fc50fa5-22ad-4646-bf7c-cfdf9e5733fc
+542,Shalowitz,Frayda,,Seal,1977,bronze,21218,Margaret Brent ES,100 E. 26th St.,PS  53,Entrance to pre-school,,,,,"100 E. 26th St.21218
+(39.31945812685201, -76.6159163457684)",277,32,27307,2c7b0318-9962-482d-8219-7b1fa6b7842d
+543,Moore,Henry,,Conception,,,21201,Convention Center Lobby -SOLD,Convention Center Lobby - SOLD,,,,SOLD,SOLD,,"Convention Center Lobby - SOLD21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,6703a39e-b2c6-4036-8e70-b4a7b16fa830
+544,Milkowski,Antoni,https://data.baltimorecity.gov/views/5xsg-uc29/files/NVcUjm0Cr0UDCPx00Vcl2LHQBKPlOb7DgEB_ZJw8sDs?filename=66_Milkowski+A_1969.JPG,The Diamond,1969,corten steel,21201,Mercantile Safe Deposit & Trust Company,2 Hopkins Plaza,,"On Liberty Street side, east of Mariner Arena",two corten chevrons that form a diamond in the center,highly visible,Outdoor accessible,,"2 Hopkins Plaza21201
+(39.28941758078926, -76.61645033676308)",65,6,13642,5008c5c3-f35b-486a-9126-d4ab401c15da
+545,Honeycutt,Brece,https://data.baltimorecity.gov/views/5xsg-uc29/files/vwYwuJoBKSbS48RFX74sWXQ6r4mmbkY4Y1hCRu1o2Eo?filename=701_Honeycut+B_2002.JPG,silence,2002,sculpture,21210,Bryn Mawr School,109 W. Melrose St.,,Located in courtyard by Margaret Hamilton Bldg. and dinning hall,Seven lecturns with binders,"Limited visibility; located on school grounds",,,"109 W. Melrose St.21210
+(39.36557610689288, -76.62819068922511)",175,272,14004,a9116483-32ef-45ad-96d0-8fc32adf6f2d
+546,Hilson,Harry,,Unknown,1969,"fiberglass, stainless ste",21214,Woodholme ES,7300 Moyer Ave.,PS 205,Courtyard center,,,,,"7300 Moyer Ave.21214
+(39.35158999999999, -76.56538999999992)",136,224,27291,cba35a48-1aa6-4d12-ac5b-a8039fff5859
+547,,,,Athena Parthenog,1902 (cast),Bronze,21212,Evergreen House (Johns Hopkins University),4545 North Charles St.,,Garden,,,,,"4545 North Charles St.21212
+(39.3684100000001, -76.61570999999998)",37,271,14009,96a7f7f1-4627-4243-b6ee-0aac55ab4843
+548,Balder,Alton B.,,Steel Henge,1977,"sculpture, painted steel",21223,Francis M. Wood Alternative HS,100 N. Calhoun St.,PS 178,"Exterior; front lawn",,,,,"100 N. Calhoun St.21223
+(39.290491662347335, -76.63965423302812)",84,10,27632,effec9d3-49d6-46ad-918c-b18e2472aafc
+549,Ihara,Michio,,Untitled,1978,stainless steel,21202,Verizon Building,1 E. Pratt St.,,,,,,,"1 E. Pratt St.21202
+(39.28651665897786, -76.61419442637867)",241,3,13645,1e29d17d-7dbb-42f0-9482-f565e5a064ec
+550,Brown,Joe,,Discus Thrower,1964,bronze,21218,"Athletic Center, Johns Hopkins University",3400 N. Charles St.,,Front of Newton center,,,,,"3400 N. Charles St.21218
+(39.32913762457502, -76.61797969757966)",123,13,14004,c00582ab-5b52-43ec-b09e-246058bbd280
+551,Schuler,Hans,,Pulaski Monument,1942,bronze,21231,Patterson Park,Eastern Ave and Linwood Dr.,,Patterson Park,,,,Y,"Eastern Ave and Linwood Dr.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,c8a29362-75ac-494d-aa9f-102c290def08
+552,Henning,Herman,,Lady Baltimore,1880,limestone,21217,Cylburn Park,Cylburn Park Mt. Royal at Lennox St.,,West side of the garden,,,,,"Cylburn Park Mt. Royal at Lennox St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,e5898f34-0068-4693-ab0b-a870eba4e3e4
+553,Smolens P.,Jacquin,,Untitled playground,1976,wood,21202,Inner Harbor Promenade,Key Highway,,Near Science Center,,,,,"Key Highway21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,bdc898cb-4299-4b73-acd3-e1f207d8ec5a
+554,Niehaus,Charles Henry,,Francis Scott Key:Orpheus,1922,bronze,21230,Fort McHenry,Fort McHenry,,Middle of entrance road,,,,Y,"Fort McHenry21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,0404051c-bec2-4478-bdbc-eff2f4f65ff0
+555,Fayson,John,,Unknown,1981,mural,21202,New Dormitory Building - Baltimore City Jail,410 E. Eager St.,,Interior,,,,,"410 E. Eager St.21202
+(39.30133923757796, -76.60980641194865)",124,104,13645,900bec96-50d6-4ece-8320-1bb193cf23b7
+556,DePalma and Daniel,Linda and Paul,https://data.baltimorecity.gov/views/5xsg-uc29/files/x48bOpqECAAmtJVEvGnnzyUNOM0txZSvsM5EJbzGkKY?filename=407_DePalma+L+and+Daniel+P_1991.JPG,Double Ganut,1991,aluminum and bronze,21201,15 W. Franklin St. Garage,15 W. Franklin St.,,Above garage entrance,"Chair, ball, and ladder like structure",Very visible,,Y,"15 W. Franklin St.21201
+(39.295032461559764, -76.61572227669929)",65,6,13642,13f549d0-a9f5-4df3-a3a9-33d27bebd3e3
+557,Majorowicz,Roger,,Fire Chariot,1972,bronze,21201,John Steadman Fire House,15 S. Eutaw St.,,Eutaw entrance,,,,,"15 S. Eutaw St.21201
+(39.28852088289659, -76.6208013634401)",65,5,13642,2ba4d813-c394-4e54-b9ce-ce6409dde272
+558,Kramer,Reuben,,Unknown,1968,bronze,21229,Rock Glen Jr. HS,5201 North Bend Rd.,PS  81,Interior,,,,,"5201 North Bend Rd.21229
+(39.284350000000074, -76.69003999999995)",122,51,27950,4f34efde-018c-4539-b2fb-ea7757bacf29
+559,Hilson,Harry,,Unknown,1969,fiberglass,21214,Woodholme ES,7300 Moyer Ave.,PS 205,Courtyard,,,,,"7300 Moyer Ave.21214
+(39.35158999999999, -76.56538999999992)",136,224,27291,8b2d00e0-248e-4285-82ea-6676a3a87d1b
+560,Barye,Antoine Louis,https://data.baltimorecity.gov/views/5xsg-uc29/files/w7GtyHTYAVrXglqibaVMLe9ci_OuCXDmsMmw3araJk0?filename=426_Barye+A_1885.JPG,War,1885,bronze,21201/02,Mount Vernon Pl.,Mount Vernon Pl.,,E corner of Washington Monument,,highly visible,outdoor accessible,,"Mount Vernon Pl.21201/02
+(39.29730928950913, -76.61563717252402)",165,92,13645,840db6c1-50cd-4301-b59a-d5eda4c8d52b
+561,Somaini,Francesco,,Human Will and Energy,1970,bronze,21797,Baltimore RESCO Plant,1801 Old Annapolis Rd.,,,,,,Y,"1801 Old Annapolis Rd.21797
+(39.320773984245065, -77.1075181026818)",,,15468,7e81f142-04fd-441f-a951-79c721234b5d
+562,McCausland,Montgomery & Wendy,,Unknown,1980,acrylic,21207,Forest Park HS,4300 Chatham Rd.,PS 406,Interior windows,,,,,"4300 Chatham Rd.21207
+(39.33075965705877, -76.68973533631352)",38,64,13995,00b00d6f-c86e-424f-bd55-7efffdda68b8
+563,Bufano,Benjamin,,Elephant,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,ca0cda1b-cd3c-4def-99b6-affbedcc34fd
+564,MICA and HEBCAC,,,,2002,mural,21205,Parking lot of North East Market,600 Block of N. Duncan St,,Side of builiding,"Life in North East; two scenes: a jazz club and grocery/ soda fountain street scene",Visible,,,"600 Block of N. Duncan St21205
+(39.302410000000066, -76.56324999999987)",181,145,13987,8c2ff58f-39e9-4c34-9954-43d63bb96602
+565,unknown,,,Grove of Rememberance,1919,,21217,Druid Hill Park,Druid Hill Park,,,,,,Y,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,19c6ae1b-9442-4445-a666-cf1e4d89bea3
+566,Thigpen,Duane,,Unknown,1980,mural,21212,Winston MS,1101 Winston Ave.,PS 209,Interior,,,,,"1101 Winston Ave.21212
+(39.34901054679392, -76.59960742306345)",127,217,14009,eafc275d-c582-4987-b1ca-a773aaa89981
+567,Rinehart,William Henry,,William T. Walters,1867 orig. 1907 replica,bronze,21202,Walters Art Gallery,Thomas Johnson Recreation Center,,,,,,,"Thomas Johnson Recreation Center21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,ee1ac57a-5100-4b91-96c0-858d8eeb3035
+568,Rothschild,Amalie,,Unknown,1980,acrylic windows,21207,Forest Park HS,4300 Chatham Rd.,PS 406,Interior,,,,,"4300 Chatham Rd.21207
+(39.33075965705877, -76.68973533631352)",38,64,13995,1f90e27c-2463-496a-bdce-0e4498d663e7
+569,Majorowicz,Roger L.,,Paestum,1969,stainless steel and bronz,21231,Broadway Branch Library,1700 Orleans St.,,Corner of Orleans and Broadway,,,,,"1700 Orleans St.21231
+(39.295367113283696, -76.59393110179518)",70,121,27954,899a4f01-feb5-48bd-a0d6-0d245755a611
+570,Peterson,Harvey,,Unknown,1978,mural,21216,Dr. Lillie M. Jackson ES,1501 Ashburton St.,PS 315,Interior,,,,,"1501 Ashburton St.21216
+(39.30571153916098, -76.66196778910346)",166,82,27297,34600678-add2-4c6d-ba5d-3614323de6c6
+571,Treib,Marc E.,https://data.baltimorecity.gov/views/5xsg-uc29/files/Z_jFvyahrZkLknzogN0XLSss-sacrrFsHZMuDXui-N0?filename=517_Treib.jpg,Relay,,,21207,"North Avenue Station, subway",,,,,,,,"21207(39.32364999999999, -76.72009000000003)",,,13995,49416db0-764b-48af-8dc5-e30609c7446d
+572,Lipschitz,Jacques,,Mother and Child,1930,bronze,,Auctioned in 1993/ private Jewish Community Center,Auctioned in 1993/ Jewish Community Center,,Auctioned in 1993 Private?,,,,,Auctioned in 1993/ Jewish Community Center,,,,2979ef88-5c10-49ff-9f09-fe9a958eaae0
+573,"Kinoshita, principal designer","Sasaki Associates, Masao",,J. Jefferson Miller Fountain,1976,,21202,Charles Center,100 N Charles St,,,,,,Y,"100 N Charles St21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,20b697f5-3b93-45f5-81e6-47ee9fb72b4f
+574,Steinmetz,William,,Unknown,1973,sculpture,21206,Moravia Park ES,6201 Moravia Pkwy.,PS 105,Interior,,,,,"6201 Moravia Pkwy.21206
+(39.33913000000001, -76.53692000000001)",46,210,13991,c6053c3e-75d6-4a91-a5d5-f381822ce0a2
+575,Duffy (W. Kirwin Architect),William Francis,,Boy Releasing Bird,1989,cast iron,21207,Carrie Murray Outdoor Learning Center,4921 Windsor Mill Rd.,,Behind nature center,,,,,"4921 Windsor Mill Rd.21207
+(39.30959326224968, -76.70113188695109)",245,57,13995,c35c0df8-6392-4c38-bf83-3dd39052aa65
+576,"W.J. Dale and Son, designers",,,Saint-Lo Drive Memorial,1947,,21213,St Lo Dr. and Sinclair Ln.,St Lo Dr. and Sinclair Ln.,,,,,,Y,"St Lo Dr. and Sinclair Ln.21213
+(39.31426973680203, -76.59055125022837)",226,155,26956,b2fe3609-e668-4a19-8818-c8732991715f
+577,Maynard,Valarie,,Unknown,1977,quarry tile floor,21215,Lower Park Heights Multi-purpose Center,3939 Reisterstown Rd.,,Interior,,,,,"3939 Reisterstown Rd.21215
+(39.33336234348411, -76.66365713799019)",232,70,27295,64cb0e4d-24b2-4249-89a1-f2b8508d81eb
+578,Frank,Jane,,The Family,1977,aluminum plate,21223,Originally Samuel Morse ES,424 S. Pulaski St.,PS  98,Was vandalized and removed to be placed at another location,,,,,"424 S. Pulaski St.21223
+(39.28234596716267, -76.64979391746418)",36,279,27632,ffe18756-72e6-4372-8af2-b13a73edf866
+579,Rauschenberg,Robert,,Bank Job,,,21201/2,Equitable Bank Center,Lombard and Charles Sts. - GONE,,Lobby,No longer there,,,,"Lombard and Charles Sts. - GONE21201/2
+(39.294880000000035, -76.62253999999996)",224,90,13642,387d8624-0c3d-4629-9ffe-1ab1fa1bbd5a
+580,Wells,Betty,,Unknown,1973,galvanized playground str,21215,Towanda Recreation Center,4100 Towanda Ave.,,Exterior - Towanda and Aswego,,,,,"4100 Towanda Ave.21215
+(39.33504078211094, -76.66643772776918)",232,70,27295,355d5956-167d-4adf-96c7-6d4c5e78e36f
+581,Miller,Tom,,,1998,mural,21225,600 Cherry Hill Rd.,600 Cherry Hill Rd.,,Side of building,Various self portraits,Visible,,,"600 Cherry Hill Rd.21225
+(39.25000418458825, -76.62289087040199)",47,146,27937,ce2c704d-f156-4ac9-aae2-663d6abe6ea9
+582,Kaslow,Lisa,,Unknown,,stained glass,21224,Hampstead Hill ES,500 S. Linwood Ave.,PS  47,"Interior; library",,,,,"500 S. Linwood Ave.21224
+(39.285770221693554, -76.57576639606668)",30,114,27935,4ccf5266-4d10-47b6-9a70-fdd6a18b17dc
+583,Marcheschi,Cork,,,2007,"sculpture - neon, aluminum & resin",21224,SE. Anchor Branch of the Enoch Pratt Library,3601 Eastern Avenue,,Starts outside front entrance of building & goes into artium,"Encased neon outside that leads to indoor element; 5 colorful resin pods that are illuminated",Very Visible,,N,"3601 Eastern Avenue21224
+(39.286642564061935, -76.56680914865484)",109,140,27935,80981f25-1313-4c26-8e94-392468f18cb4
+584,Lewis,James,https://data.baltimorecity.gov/views/5xsg-uc29/files/VDZpcj0-M_wQdkgmMFTRQ6H7dJKSVZglFZpMHsyFVKw?filename=44_Lewis_1971.jpg,Negro Soldier,1971,bronze,21202,City Hall,100 Holliday St,,Entrance,,,,,"100 Holliday St21202
+(39.290590587770566, -76.61021942300914)",65,6,13645,979f0dc0-86ef-461a-92c6-43dfed576c56
+585,Marti,Jose,,Unknown,1998,,21231,Broadway and Fayette Sts.,Broadway and Fayette Sts.,,"Unknown; knocked down due to construction","Unknown; knocked down due to construction",N/A,,Y,"Broadway and Fayette Sts.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,a7621ce0-30a8-4a3a-8b20-af696355f1d7
+586,du Fayette,Pierre,,Mr. Sun and Mr. Moon,1968,concrete and rubber,21205,Claremont School,5301 Erdman Ave.,PS 307,Wall west of entrance,,,,,"5301 Erdman Ave.21205
+(39.3038286080419, -76.55482118600429)",6,145,13987,3de7a487-6922-4160-9c9d-abbc569c31f6
+587,Carroll,Rodney,,Subvator,1989,"steel, aluminum, cable,castconcrete",21230,Spring Garden Business Park,175 W. Ostend St.,,,,,,,"175 W. Ostend St.21230
+(39.27487043869843, -76.6187719755078)",227,174,27953,20471100-4436-43ff-9575-94cea0ed6dd0
+588,Carroll,Rodney,https://data.baltimorecity.gov/views/5xsg-uc29/files/k5ui1Z4_c3NDE4zwAb_mSNoYN1UrwrE7p20reYseVk8?filename=693e_Carroll+R_2005.JPG,Firebird,2005,sculpture,21201,Symphony Center Plaza,1040 Park Ave.,,Near Meyehoff Symphony Hall,Poetic interpretation of Igor Stravinsky's 1910 ballet suite The Firebird,Very visible from street,,,"1040 Park Ave.21201
+(39.304242296175346, -76.62025585685615)",151,95,13642,2a429bf2-cd84-4227-932d-01406c3d8bf5
+589,Thorwaldsen,Bertel,https://data.baltimorecity.gov/views/5xsg-uc29/files/VM3uZOsU0cK3AzTmCBucTQx2meSd164uD_v5bStqRe0?filename=514_Thorwaldsen.jpg,The Divine Healer,,,21287,Johns Hopkins Hospital,Johns Hopkins Hospital,,"Lobby, Administration Building",,,,,"Johns Hopkins Hospital21287
+(39.2912, -76.60457999999994)",110,108,13645,f1853cda-d13e-4198-ab1c-948077884634
+590,Phillips Stained Glass Studio,,,Unknown,1972,stained glass mobile,21213,Luther Craven Mitchell Primary Center,1731 E. Chase St.,PS 135,Interior,,,,,"1731 E. Chase St.21213
+(39.303289014824315, -76.59300639936833)",152,127,13987,fa2bbd6e-503d-499d-8fbc-fac644934592
+591,Monastario,Eric,,Cultura,2000,mural,21231,412 S. Broadway,412 S. Broadway,,Side of building,"Latino scene, including guitar player, mother, father, child and cow; ""Cultura""",Visible (on Broadway),,,"412 S. Broadway21231
+(39.286183909827, -76.5936179383483)",68,109,27954,7c184f23-c98a-457e-bf14-e4e0cd2dcc0d
+592,Rattigan,Jenn,,,2007,mural,21202,"JFX Farmers Market, parking lot",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,a2639bda-ecf6-49dc-a147-9fbc9df03259
+593,Weinman,Adolph A.,,BMA Relief - 'To the Fine Arts',1930,limestone,21218,Baltimore Museum Of Art,10 Art Museum Dr.,,Relief in front of museum,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,25b8398f-1e28-4888-ab23-f1376241efdf
+594,Mason,Pontella,,Unknown,1983/08,mural,21217,Booker T. Washington ES,1301-1305 McCullough St.,PS 130,Interior,,,,,"1301-1305 McCullough St.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,bbc1dc78-4471-443c-a122-d05a703a0769
+595,Cohen and Community Youth,Jay Wolf Schlossberg,,,2002,mural,21223,Monroe St. and Lauretta Ave.,Monroe St and Lauretta Ave.,,Side of building with park,Calls for peace and non-violence in community,Limited visibilty as inside park area,,,"Monroe St and Lauretta Ave.21223
+(39.29449364537777, -76.64727149061633)",106,88,27632,920ddf3d-d9bf-445a-845d-81c910c97595
+596,Richardson,Michael,,Untitled,,,21229,Thomas Johnson Recreation Center,1610 Johnson St.,,,,,,,"1610 Johnson St.21229
+(39.284350000000074, -76.69003999999995)",122,51,27950,a6ec80b1-e32b-4675-8778-90516d13b852
+597,Streett,Tylden,,Unknown,,bronze coated steel,21230,Lakeland ES,2921 Stranden Rd.,PS  12,"Interior; second floor, near west stairwell",,,,,"2921 Stranden Rd.21230
+(39.254161262019814, -76.64520850795124)",134,162,27953,00d7f945-5d47-41cf-aae4-bb493369ab41
+598,Hofmann,Earl F.,,Unknown,1969,ceramic tiles,21218,Cold Stream Park ES,1400 Exeter Hall Ave.,PS  31,"Interior; entrance wall",,,,,"1400 Exeter Hall Ave.21218
+(39.32036714016073, -76.60166687051054)",54,179,27307,337af031-a4e9-4284-b7de-16ce5f97df95
+599,Minguzzi,Luciano,,The Contortionist,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,d2121ec4-aaaa-4dc2-95b9-b95c05335697
+600,Mezensky,Andrew,,Unknown,,,21217,Fulton ES,Harlem Ave. and Monroe St.,,,,,,,"Harlem Ave. and Monroe St.21217
+(39.29638222163925, -76.64735242959898)",106,88,27301,96e973cb-99d2-48db-99f6-737e7da106d6
+601,Saffell,Edward,,Unknown,1973,mural,21231,Patterson Park Recreation Center,2600 E. Baltimore St.,,Interior,,,,,"2600 E. Baltimore St.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,079ed12a-dc1f-431a-bb99-735d1cabd9c0
+602,Mullen,Gary,,,2008,mural,21218,Giant Foods at 33rd and Greenmount,601 East 33rd Street,,two murals on side of building facing 33rd,collage of food and Baltimore Icons,Very Visible,,,"601 East 33rd Street21218
+(39.328317146899735, -76.6077462874286)",251,181,27307,eeb3fc10-7a27-4506-bfbe-4936ba0c8b94
+603,Birchler,Susan,,,1987,mural,21225,Cherry Hill,600 Cherry Hill Rd.,,,,,,,"600 Cherry Hill Rd.21225
+(39.25000418458825, -76.62289087040199)",47,146,27937,5f2097e5-0d22-4c88-a382-26e56aa799b3
+604,Alexander,Pat,,Oasis,1987-89,ceramic tile,21217,Druid Hill Park Swimming Pool,Druid Hill Park,,Pool floor,Artist's Design incorporated in Ceramic tile,,,,"Druid Hill Park21217
+(39.316007473609055, -76.64384898808959)",190,21,27301,61d934ad-9328-4133-b077-f06e88554a4b
+605,Johnson,Gerald,,Unknown,1997,photographic display case,21212,Guilford ES,4520 York Rd.,PS 214,"Interior; main entrance lobby",,,,,"4520 York Rd.21212
+(39.3440443106837, -76.60963380775476)",99,205,14009,72b83cf7-5429-4b48-99e9-87479f2ce997
+606,Capellano (See Berge reproduction 1960),Antonio,,Angel of Truth,1818,terra cotta,21201,First Unitarian Church,12 W. Franklin St. at Charles St.,,Entrance pediment,,,,,"12 W. Franklin St. at Charles St.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,ba1a811b-b451-4644-aebb-ec9429c52fdc
+607,Bannon,John,,Unknown,1978,mural,21230,Sharp-Leadenhall School,Sharp and Leadenhall Sts.,PS 314,Interior,,,,,"Sharp and Leadenhall Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,5ae81d89-fc93-4e25-b05e-355d16fed85e
+608,Berge,Henry,,Recreation and Education,c.1940 - 41,concrete aggregate,21201/21207,McCulloh Homes,McCulloh Homes,,,,,,,"McCulloh Homes21201/21207
+(39.294880000000035, -76.62253999999996)",224,90,13642,06aa88de-8a10-44d7-9077-5e570bf8f51f
+609,Bufano,Benjamin,,Cat,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,f9a38083-394e-4526-b301-cc0312062d4c
+610,Rogers,Richard,,Unknown,1977,mural,21205,Tench Tilghman ES,601 N. Patterson Park Ave.,PS  13,Interior,,,,,"601 N. Patterson Park Ave.21205
+(39.29803697417316, -76.58508337229023)",274,125,13987,9d9b1c56-ac53-47f4-a61a-60800b23947c
+611,Wells,Betty,,Unknown,1970,,21213,Lake Clifton HS,2801 St. Lo Dr.,PS 40,Interior,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,fb844865-fa38-4681-833a-a24285814c7f
+612,Creamer,Robert,,Unknown,1990,photographic relief piece,21207,Garrison MS,3910 Barrington Rd.,PS 142,Interior,,,,,"3910 Barrington Rd.21207
+(39.33138383501961, -76.68459335483226)",38,64,13995,fcc5a5f6-511c-41c2-9d00-14a91ac3289f
+613,Canova,Antonio,,Lions,,,21218,Baltimore Museum of Art,10 Art Museum Dr.,,West garden,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,5f29e9c3-6782-43b0-a7e2-950a92aa7cd1
+614,Benson,J. Arthur,,Nut and Bolt,1982/09,painted steel,21217,Mt. Royal Intermediate,121 McMechen St.,PS  66,Between two buildings,,,,,"121 McMechen St.21217
+(39.30926950631914, -76.62483340598527)",21,103,27301,1d44454a-83e2-4212-b5d3-90ca1fbac87d
+615,Hisaka,Don M.,,Jacob France Fountain,,,21230,John L. Deaton Medical Center,611 S. Charles St.,,,,,,,"611 S. Charles St.21230
+(39.28133656408909, -76.61467106705419)",184,3,27953,0f19efa6-2e72-423d-8cb4-8f61264b330c
+616,Ferguson,John D.,,Unknown,1976,"aluminum, corten, stainle",21225,Brooklyn ES,316 Pontiac Ave.,PS 203,Exterior,,,,,"316 Pontiac Ave.21225
+(39.23643341516612, -76.60669408065428)",26,144,27937,34f8cf56-fece-46b0-929f-17836b76fa36
+617,Benson,J. Arthur,,Unknown,1974,corten steel and aluminum,21217,Maryland Institute College of Art,1300 Mt. Royal Ave.,,Dolphin and Mt. Royal,,,,,"1300 Mt. Royal Ave.21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,4da2564d-1840-47e4-bb71-a638c618100c
+618,Leizman,William,,Untitled,,,21205,Monument Street Association Parking Lot,Collington and McElderberry Sts.,,,,,,,"Collington and McElderberry Sts.21205
+(39.302410000000066, -76.56324999999987)",181,145,13987,e407ec7f-790b-4df7-a61d-0834507ac088
+619,Jakobsen,Tage E.,,Unknown,,etched glass,21210,Roland Park E/MS,5207 Roland Ave.,PS 233,Entrance to gymnasium,,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,98f45ee5-0d0a-40c0-9887-2b31504c0315
+620,Lipschitz,Jacques,,Mother and Child II,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,0afbe330-0143-4c55-ac52-6c8d92c1a47a
+621,Berge and Miller,Edward and J. Maxwell,,Latrobe Monument,1914,bronze,21231,Broadway and E. Baltimore Sts.,Broadway and E. Baltimore Sts.,,,,,,Y,"Broadway and E. Baltimore Sts.21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,cee208ab-326e-4d1d-bc34-057e6ce53bc2
+622,unknown,,,Fell Family Memorial,1743-86,,21231,1607 Shakespeare St.,1607 Shakespeare St.,,,,,,Y,"1607 Shakespeare St.21231
+(39.28205602171255, -76.59452625359785)",68,286,27954,9f1905cb-ebde-440f-81c5-c7928eb74844
+623,Christie,Alden,,Baltimore Pylon,,,,Baltimore Washington Expressway,Baltimore Washington Expressway,,At city line,,,,,Baltimore Washington Expressway,,,,a6340bb8-6396-4c21-9238-aa731c5fb84d
+624,Anuro,Bigarani,,Christopher Columbus,1984,Marble,21202,Columbus Square,Eastern and E. Falls Ave.,,Columbus Square,Marble columbus on pedestal in park,Moderately visible,Outdoor accessible,,"Eastern and E. Falls Ave.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,b27a6595-5191-4467-b9b9-d74f2ddde3c5
+625,Flood,James,,Unknown,1984/01,collage,21211,Robert Poole MS,1300 W. 36th St.,PS  56,Interior,,,,,"1300 W. 36th St.21211
+(39.33035860790625, -76.63751384659844)",102,20,14006,5bfa20b5-8048-42a4-ae81-281ce1ef910b
+626,Manzu,Giacomo,,Young Girl on a Chair,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,377deae5-3020-479f-ba7a-ab4399bd49ff
+627,Breitenbach,Richard,,Shelter,,,21210,Cross Keys Shopping Center,Cross Keys,,,,,,,"Cross Keys21210
+(39.34921289425051, -76.63108369408891)",214,235,14004,128c602c-f7f4-4a61-ac97-90ed45d16625
+628,Ferguson,John D.,,Unknown,1976,"aluminum, Plexiglas, mirr",21225,Maree Garnett Farring ES,300 Pontiac Ave.,,"Entrance facade, lobby",,,,,"300 Pontiac Ave.21225
+(39.23673041547317, -76.60748274616097)",26,144,27937,33b15343-69b2-4576-b903-626ad6a319e9
+629,McKinney,F.W.,,Serviceman's Memorial,1944,,21207,Ellicott Dr. and Bloomingdale Rd.,Ellicott Dr. and Bloomingdale Rd.,,,,,,Y,"Ellicott Dr. and Bloomingdale Rd.21207
+(39.32364999999999, -76.72009000000003)",,,13995,0a8adb4a-9f3a-4419-9779-a0d1ad04ff22
+630,McGuire,Patrick,,The Learning Tree,1981,painted steel,21217,John Eager Howard ES,2011 Linden Ave.,PS  61,Courtyard on Linden Avenue,,,,,"2011 Linden Ave.21217
+(39.31094897479645, -76.63268942516514)",210,16,27301,4d4c4048-06dc-4edf-8aca-55ae86bed4c4
+631,Lawrance,Charles,,,1994,mural,21202,1617 N. Calvert St.,1617 N. Calvert St.,,Side of building with park,Underwater life,Very visible,,,"1617 N. Calvert St.21202
+(39.308172333443395, -76.61359188061903)",95,158,13645,4119c44d-bbfd-4028-815f-ca5ccf2eda61
+632,unknown,,,Boy With Fish,,,21210,,"5300 block, St. Alban's Way",,,,,,,"5300 block, St. Alban's Way21210
+(39.358510000000024, -76.63551999999993)",214,254,14004,0c963da4-d175-4f9f-8cea-afdc805725af
+633,Massey,Allyn,,Sisyphus,1996,Sculpture,21217,Roof of Fox Building,Mt. Royal Avenue & Dixon Street,,Roof of Fox Building at MICA,Large Sphere created with steel rods,Very Visible,,,"Mt. Royal Avenue & Dixon Street21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,1bae0414-56eb-4114-9fe7-6755518c17fd
+634,Colin,Bruce,,Unknown,,concrete,21229,Hilton Recreation Center,2950 Phelps Lane,,Lawn opposite entrance,,,,,"2950 Phelps Lane21229
+(39.288783213035266, -76.66928020150937)",35,76,27950,b5f1c903-9043-4017-9e77-b17e227c4d32
+635,Hadzi,Dmitri,https://data.baltimorecity.gov/views/5xsg-uc29/files/yI7Ee9xa0ZOFdXaDZi5iUpMKSJKxGSyAaXsShqTIu3A?filename=470_Hadzi+D_1967.jpg,Helios,1967,bronze,21201,Sun Life Building,20 S. Charles St.,,Hangs in lobby,,Moderately visible,Indoor Accessible,,"20 S. Charles St.21201
+(39.28885597671823, -76.61515422748131)",65,6,13645,0dc5a9e3-42f6-47ef-9fe2-7b14bd4715f2
+636,Mason,Pontella,,Reawakening,1994,mural,21217,903 N. Stricker St.,903 N. Stricker St.,,Side of building,Images of famous African Americans,Visible,,,"903 N. Stricker St.21217
+(39.29909817416774, -76.64155180250998)",221,86,27301,7d9d09b4-31d6-4970-b4d3-ccac853995b1
+637,Leizman,William,,Unknown,1968,weathering steel,21229,Rognel Heights ES,4300 Sidehill Rd.,PS  89,Exterior,,,,,"4300 Sidehill Rd.21229
+(39.2977312046832, -76.69203074801459)",213,54,27950,bea4c9a7-da93-4cc4-ad56-415d9fc95e3c
+638,Gerlach,David,https://data.baltimorecity.gov/views/5xsg-uc29/files/ht6cofLT8CP8ygjpOOaydHb7Pzv-dD2PMNX338J6m9I?filename=325a_Gerlach+D_1985.JPG,John Eager Howard,1985,steel,21201,Howard Park,Howard St. and Center St.,,,3 soldiers with muskets raised,,,Y,"Howard St. and Center St.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,a639839a-2d45-4137-8dbf-b0b3cb136d51
+639,Glassman,Stephen,,Unknown,1976,restoration of paintings ,21202,Renovation of Baltimore City Hall,100 N. Holliday St.,,,,,,,"100 N. Holliday St.21202
+(39.290590587770566, -76.61021942300914)",65,6,13645,9b9b7ef6-37f2-4ec2-9e5e-5f156129d8fd
+640,Paolozzi,Eduardo,,Box-headed Figure,,,21218,The Wurtzburger Sculpture Garden,10 Art Museum Drive,,,,,,,"10 Art Museum Drive21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,0adc7393-6a2f-4624-9ec5-59d518b5a700
+641,Boethus (copy),,,Boy Strangling a Goose,1851,bronze,21217,Druid Hill Park Children's Zoo,2570 Druid Hill Ave,,,,,,,"2570 Druid Hill Ave21217
+(39.31473613243264, -76.6426330411134)",195,19,27301,88fe7a02-977e-4411-9fed-4f262906f94f
+642,Rivas,Nelson,,,2008,mural,21218,Giant Foods at 33rd and Greenmount,601 East 33rd Street,,mural on side of building facing south side street,collage of various faces,"Visible from South, side street",,,"601 East 33rd Street21218
+(39.328317146899735, -76.6077462874286)",251,181,27307,80ef9604-5e19-4839-8698-24ec57a12d72
+643,unknown,,,Garrett Park Monument,1955,,21225,Garrett Park,Patapsco Ave. Garrett Park,,,,,,Y,"Patapsco Ave. Garrett Park21225
+(39.22678000000002, -76.61608999999999)",,,27937,fe570563-ecd8-4935-b17b-d24e3df0db87
+644,Kissack,Lyle,,The Unity Wall,2005,mural,21218,323 E. 20th St.,323 E. 20th St.,,Side of building,"People in community holding hands; cityscape in background","Visible; near Baltimore City Public School Headquarters",,,"323 E. 20th St.21218
+(39.3124081402014, -76.61164035181548)",10,160,27307,e8ef5c7e-ea85-47d5-8df5-7217a97f7ddc
+645,Golde,R.P.,,Conradin Kreutzer Monument,1915,bronze,21231,Patterson Park,Patterson Park,,,,,,Y,"Patterson Park21231
+(39.28823000000011, -76.59190000000001)",240,287,27954,101763ee-c2c1-4757-81f9-ee6c9bb35bfa
+646,Bufano,Benjamin,,Ram,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,bbcae689-af29-453c-8033-1bbc1ce14d37
+647,Johnson,Jeffrey Nels,,Unknown,c.1974,steel & steel cable,21217,Maryland Institute College of Art,1300 Mt. Royal Ave.,,Howard Street south of Dolphin near Lightrail,,,,,"1300 Mt. Royal Ave.21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,6e7b087d-5fd4-4247-8b52-89355ef08faa
+648,Bonnell,Bonnie,,,1992,mural,21217,North and Park Aves.,North and Park Aves.,,Side of buildings facing North Ave.,Flowers,Very visible (North and Park Aves.),,,"North and Park Aves.21217
+(39.31194000000011, -76.64039000000002)",195,19,27301,8594e751-9781-41e8-95f2-6749a06c73e2
+649,"Schuler, artist and Pietsch, architect",Hans and Theodore Wells,,Fallsway Fountain,1915,marble,21202,Guilford Ave. and Biddle St.,Guilford Ave. and Biddle St.,,,,,,Y,"Guilford Ave. and Biddle St.21202
+(39.30361277075485, -76.61193712808512)",151,97,13645,313b3c37-fc4d-4de4-a093-f0664b99dec0
+650,L.P.Cook and Company,,,Memorial Stadium (Facade and urn),1954,,21218,33rd St.,33rd St.,,,,,,Y,"33rd St.21218
+(39.32737285876897, -76.58774086888681)",158,190,27307,efa72871-5f9b-4908-b7e2-5820a06168d9
+651,Weinman,Adolph A.,,Baltimore Musem Of Art Lions,1930,limestone,21218,Baltimore Museum Of Art,10 Art Museum Dr.,,Terrace in front of musem,,,,,"10 Art Museum Dr.21218
+(39.325933943522045, -76.61823238229022)",123,13,27307,cd660506-1ad0-4bfe-9ced-c44197d994e2
+652,Ridenour,Ray,,,1999,mural,21230,38 E. Cross St.,38 E. Cross St.,,Side of No Way Jose Café,"Cars, ship, canons, houses with Federal Hill at the top",Visible (on side of restaurant/ bar near Cross St. Market in Federal Hill),,,"38 E. Cross St.21230
+(39.27695686580637, -76.61306128062176)",67,175,27953,ecb1da14-1eb6-4842-9c5e-24dae683e78a
+653,Leizman,William,,Untitled,1971,corten,21216,Cahill Recreation Center,4001 Clifton Ave.,,Exterior,,,,,"4001 Clifton Ave.21216
+(39.31228223511732, -76.684647314154)",164,45,27297,65e79063-ad8b-43b6-b8d5-8b99f94c349d
+654,,,,Apollo Belvedere,1902 (cast),Bronze,21212,Evergreen House (Johns Hopkins University),4545 North Charles St.,,Garden,,,,,"4545 North Charles St.21212
+(39.3684100000001, -76.61570999999998)",37,271,14009,0fe6b950-99d1-42fb-a893-c1a7748d6d5a
+655,von Schlegell,David,,Untitled,1978,painted aluminum,21230,Southern HS,1100 Covington St.,PS  70,Entrance plaza,,,,,"1100 Covington St.21230
+(39.27664210309615, -76.60693689760222)",212,171,27953,c5aa1859-f86f-426f-92c2-faa85485ec19
+656,Bergner,Joel,,,2008,mural,21202,"JFX Farmers Market, outside of parking lot",212 Holliday Street,,column outside of parking lot north side,"scene of Mayan emblem, corn growin",Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,f756a0fc-7672-46d0-a100-87c8e15facc1
+657,Schneider,Jo Ann,,Noah's Ark,,,21210,Cross Keys Shopping Center,Cross Keys,,,,,,,"Cross Keys21210
+(39.34921289425051, -76.63108369408891)",214,235,14004,41dfd1c0-fab0-4e37-9662-eeb37cf3c13c
+658,unknown,,,Mother's Garden,1928,,21213,Clifton Park,Harford Rd. and Erdman Ave.,,,,,,Y,"Harford Rd. and Erdman Ave.21213
+(39.316199999999924, -76.57662999999991)",276,194,26956,09684b37-3fbd-4faf-870c-e9e9629f2a95
+659,Witkin,Issac,,Chorale,1981,painted steel,21202,Social Security Metro West,490 N. Greene St.,,Corner Greene / Franklin,,,,,"490 N. Greene St.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,5e3af193-03ea-44f9-828f-204ff7744af3
+660,Schuler,Hans,,Untitled,1979,terra-cotta,21211,Hampden ES,801 W. 37th St.,PS  55,North wall,,,,,"801 W. 37th St.21211
+(39.332858723147694, -76.6299865212132)",102,73,14006,562bf0cd-ca56-42d1-b77e-b9445c7b410a
+661,Rodriquez,Antonio,,,1991,mural,21212,5700 York Rd.,5700 York Rd.,,Side of wall by BP Gas station,"Public transportation including wagon, trolley car and bus",Very visible (on York Rd.),,,"5700 York Rd.21212
+(39.359451675554055, -76.6099226467395)",271,257,14009,ea92f48f-c173-49fa-a951-8ccc7b7f5118
+662,Shaw,Ernest,,,1999,mural,21223,2174 Hollins St.,2174 Hollins St.,,Side of abandoned building,Four children at a fire hydrant,Limited visibility,,,"2174 Hollins St.21223
+(39.28701276375379, -76.65103901021284)",4,79,27632,304e0937-f8f4-4aca-9265-d7ef2d5bbfde
+663,Ferguson,John D.,,On Point,1976,cor ten,21210,Cross Keys Shopping Center,Cross Keys,,Courtyard,,,,,"Cross Keys21210
+(39.34921289425051, -76.63108369408891)",214,235,14004,aca18cdb-3083-416a-b70c-6cd7d9d61c8e
+664,Ellsberry,John,,,1992,mural,21201,500 N. Howard St.,500 N. Howard St.,,Marquee of Mayfair Theater,"Mayfair, including Billy Holiday and five piece band",Visible,,,"500 N. Howard St.21201
+(39.294996911178586, -76.61987063772014)",165,92,13642,67e45832-326b-4ca0-b786-de2814679384
+665,Turnbull,Grace Hill,https://data.baltimorecity.gov/views/5xsg-uc29/files/7f6oaydZvzb1awOkWcI59VGDPDhLDcJHCzHOTZRqZGA?filename=518_Turnbull+G_1933.JPG,The Naiad,1933,bronze,21202,Mount Vernon Pl. East Garden,East Garden Mount Vernon Pl.,,East garden,woman's figure in a crazy yoga pose,highly visible,Outdoor Accessible,,"East Garden Mount Vernon Pl.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,bdafa134-ea31-41cb-b78c-ad57222ab590
+666,unknown,,,Battery Cannons,1812,,21230,Riverside Park,Riverside Park,,,,,,Y,"Riverside Park21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,6b3e1c6b-696b-4162-9b90-414ff3a1ac7e
+667,Coletti,Joseph,,Unknown - Reliefs Cathedral of Mary our Queen,1955-59,limestone,21210,Cathedral of Mary our Queen,5300 N. Charles St.,,Facades and doors,,,,,"5300 N. Charles St.21210
+(39.359982275551374, -76.62468951446061)",116,256,14009,493027ba-0152-4428-94ef-e85e1ce3b0d6
+668,Brown,James,,Unknown,1970,ceramics,21213,Lake Clifton HS,2801 St. Lo Dr.,PS 40,Interior,,,,,"2801 St. Lo Dr.21213
+(39.31751628932784, -76.58839287735805)",53,198,26956,cfe923b7-7fbb-4837-b9bf-2a55989a705c
+669,Heironimus,Robert,,A Little Help from Our Friends,1996,mural (non-city funded),21218,Greenmount Ave. and Venerable Ave.,Greenmount Ave. and Venerable Ave.,,Side of building facing Venerable Ave.,"Various images, including Memorial Staduim, Waverly Market, MLK, Leon Day, Ghandi, Harriet Tubman",Limited visibility,,,"Greenmount Ave. and Venerable Ave.21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,ee2dbd80-9874-401b-b26b-545c8461eef4
+670,Streett,Tylden,,Captain John O'Donnell,1979,bronze,21224,O'Donnell Sq.,O'Donnell St. and Curley St.,,O'Donnell St. town square at Curley St,,,,Y,"O'Donnell St. and Curley St.21224
+(39.28037428951774, -76.57471418929242)",30,115,27935,92395f5e-a4b5-42cc-a384-8258e20b477e
+671,unknown,,,Baltimore Police Department,,,21202,Shot Tower Park,Fallsway and Fayette Sts.,,,,,,,"Fallsway and Fayette Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,c2b4ced2-53f4-4308-9634-498cca02cc59
+672,Henry,Gregory,,Unknown,1989,sculptured display cases,21210,Roland Park E/MS,5207 Roland Ave.,PS 233,"Interior; front lobby",,,,,"5207 Roland Ave.21210
+(39.35696055353293, -76.63479789406995)",265,254,14004,ea54f173-ba26-49a7-95bb-d42533731cd1
+673,Ferguson,John D.,,Number 9,1968,steel,21210,Cross Keys Shopping Center,Cross Keys,,,,,,,"Cross Keys21210
+(39.34921289425051, -76.63108369408891)",214,235,14004,2c146565-718f-4d24-a59c-6e727c6d3a66
+674,Mikami,Hiroshi,,Untitled,1977,Tennenese limestine,21202,Park at Lombard and Commerce Sts.,Lombard and Commerce Sts.,,Northeast corner of intersection,,,,,"Lombard and Commerce Sts.21202
+(39.297300000000064, -76.60749999999996)",196,108,13645,268ffe76-ee99-447b-8554-0feab0cc92db
+675,Bufano,Benjamin,,Bear and Cubs,,,21218,Bufano Sculpture Garden,"Dunning Park, Johns Hopkins University",,,,,,,"Dunning Park, Johns Hopkins University21218
+(39.32947000000013, -76.60331999999988)",77,186,27307,a0ddfa56-dc26-4870-8a18-8cb037fd4cb5
+676,Maynard,Valarie,,Unknown,1978,wood relief,21218,Baltimore City College,33rd St. and The Alameda,PS 480,"Interior; auditorium",,,,,"33rd St. and The Alameda21218
+(39.32849701130556, -76.59533564342422)",77,186,27307,112543c5-4ead-40f3-a858-cb9709bc439c
+677,DePalma,Linda,https://data.baltimorecity.gov/views/5xsg-uc29/files/3hwPRsbMe6bXQCAHFp0_MfS5RKGJERnfq0mmvYolxU8?filename=52p_DePalma+L_1988.jpg,Redwood Arch,1988,steel,21201,"Redwood St., between Paca and Eutaw Sts.","Redwood St., between Paca and Eutaw Sts.",,At the ends of the block,,,,,"Redwood St., between Paca and Eutaw Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,ab2a33c0-c44d-4510-9928-6507a9d49783
+678,Edmister,Stan,,Madonna and Child,,painted steel,21202,David E. Weglein ES,22 S. Central Ave.,PS  02,Entrance plaza,,,,,"22 S. Central Ave.21202
+(39.29067747844692, -76.59970869974902)",110,110,13645,eaceb209-35f5-4d93-a2d3-a81a4a06ce80
+679,Wyland,Unknown,,,1993,mural (non-city funded),21230,Russell and Hamburg Sts.,Russell and Hamburg Sts.,,Side of building facing Russell St.,Whales under water,Very visible,,,"Russell and Hamburg Sts.21230
+(39.266940000000034, -76.62630000000001)",258,151,27953,30efe94b-39c8-463a-aaf1-91e307874fd8
+680,Schuler,Hans,,Martin Luther Monument,1936,bronze,21218,Hillen Rd. and 33rd St.,Hillen Rd. and 33rd St.,,33rd St at Hillen Road,,,,Y,"Hillen Rd. and 33rd St.21218
+(39.32850600452588, -76.58931917904823)",77,187,27307,7bd9d2e4-c703-4013-8cc3-710d316f7420
+681,Holmes,Sam Christian,,A Throne for the Eulipions,2002,bus shelters,21201,East side of Howard St. at Centre and Madison Sts.,East side of Howard St. at Centre and Madison Sts.,,East side of Howard St. at Centre and Madison Sts.,Bus shelters with metalwork,Very visible from street,,,"East side of Howard St. at Centre and Madison Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,b386ed9d-4ad0-4ba9-b482-79094b5630d5
+682,Ono,Setsuko,https://data.baltimorecity.gov/views/5xsg-uc29/files/InzIAK_6t_InMSNwf4w1vvFvNQ_GGbAlwa5ivHMeARk?filename=712a_Ono+S_2005.jpg,Ecstasy of Love,2005,Stainless Steel,21201,McKeldin Square in Inner Harbor,Light & Pratt Sts.,,Inside Fountain,Stainless Steel Sculpture of Woman Dancing,Very Visible,Outdoor accessible,,"Light & Pratt Sts.21201
+(39.294880000000035, -76.62253999999996)",224,90,13642,88bcda8b-2402-4862-9b07-7b1ee19b6f99
+683,Kissack,Lyle,,,2000,mural,21229,4004 Frederick Ave.,4004 Frederick Ave.,,Side of building with community park,People in community,Barely visible from street,,,"4004 Frederick Ave.21229
+(39.281759245442856, -76.68254290060548)",122,290,27950,8e7f40f7-385b-42a1-9385-2e57746713da
+684,Zopf,Fernanda,,Unknown,1974,concrete,21217,William H. Pinderhughes ES,1200 N. Freemont Ave.,PS  28,Front lawn,,,,,"1200 N. Freemont Ave.21217
+(39.30253732325122, -76.63642794927624)",221,15,27301,d4bef0e6-20ed-49fe-aba5-713767fda869
+685,Kelly,Joan,https://data.baltimorecity.gov/views/5xsg-uc29/files/0STBwCGA6fSONy1Z0YuzuhF0dGu2Gkp_HBaOsK9xeWg?filename=194_Kelly+J_1998.JPG,Unknown,1998,painted mural,21218,Montelbello ES,2040 E. 32nd St.,PS  44,"Interior; entrance to multi-purpose area",School scenes,Limited visibility as located inside school building,,,"2040 E. 32nd St.21218
+(39.32731889944722, -76.5857578638122)",54,190,27307,2857f7ad-c626-447a-99d3-d3e3aaab6003
+686,Parker,John,,Untitled,1978,steel,21217,Maryland Institute College of Art,1300 Mt. Royal Ave.,,Fox Building lawn,,,,,"1300 Mt. Royal Ave.21217
+(39.30750188439189, -76.62114988191786)",21,95,27301,060306af-8f87-49e1-b536-1b198de70703
+687,Carfagno Ferguson,Mary,,,1994,mural,21231,2000 E. Pratt St.,2000 E. Pratt St.,,Side of building,Garden area,Very visible,,,"2000 E. Pratt St.21231
+(39.289448448793394, -76.58881555871181)",27,287,27954,b70e33d1-bee4-4b23-95fd-e83e5a19864f
+688,Kramer,Reuben,https://data.baltimorecity.gov/views/5xsg-uc29/files/EkmGG66sKiNWiEybCjJh8uek6wd32tqk2RtLxC1BMM8?filename=318d_Kramer+R_1979.JPG,Thurgood Marshall,1979,bronze,21201,Edward A. Garmatz U.S. Courthouse,Pratt St. and Hopkins Pl.,,Northeast corner of intersection,Bronze Statue of Thurgood Marshall on pedestal,Highly Visible,outdoor accessible,Y,"Pratt St. and Hopkins Pl.21201
+(39.28641773355463, -76.61753990432766)",241,6,13642,40c1c8ec-5b6d-4b1e-b8ec-c5e6fd71d688
+689,Mullen,Gary,,,1999,mural,21201,801 McCulloh St.,801 McCulloh St.,,West wall of Arena Players' building,Artists and musicians,Visible,,,"801 McCulloh St.21201
+(39.29868448603429, -76.62299878904554)",224,94,13642,eea5dd8c-34c6-4954-99c9-082199bec2e9
+690,Hosler,Danamarie,,,2007,mural,21202,"JFX Farmers Market, parking",212 Holliday Street,,column in parking lot,one of many painted columns,Very Visible,,,"212 Holliday Street21202
+(39.29146211325886, -76.61031346272442)",65,6,13645,7f305add-abe1-4d43-b80f-a7d52d7e51c2
